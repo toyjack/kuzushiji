@@ -147,7 +147,15 @@ export default class about extends Vue {
         name: 'unicode',
       },
       description: '',
-      icon: 'mdi-view-list',
+      icon: 'mdi-account',
+    },
+    {
+      label: 'くずし字ジェネレータ',
+      path: {
+        name: 'generator',
+      },
+      description: '',
+      icon: 'mdi-format-text',
     },
     /*
     {
