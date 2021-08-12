@@ -48,14 +48,29 @@
             "unicode": "04"
         },
         {
+            "label": "頼",
+            "size": 1,
+            "unicode": "16"
+        },
+        {
             "label": "ニ",
             "size": 1,
             "unicode": ""
         },
         {
+            "label": "分",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "思",
             "size": 1,
             "unicode": "09"
+        },
+        {
+            "label": "防",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "申",
@@ -73,6 +88,11 @@
             "unicode": ""
         },
         {
+            "label": "面",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
             "label": "寄",
             "size": 1,
             "unicode": "11"
@@ -83,6 +103,11 @@
             "unicode": "04"
         },
         {
+            "label": "目",
+            "size": 2,
+            "unicode": "05"
+        },
+        {
             "label": "に",
             "size": 2,
             "unicode": ""
@@ -91,6 +116,11 @@
             "label": "事",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "様",
+            "size": 1,
+            "unicode": "14"
         },
         {
             "label": "然",
@@ -121,6 +151,11 @@
             "label": "か",
             "size": 1,
             "unicode": ""
+        },
+        {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "ハ",
@@ -178,6 +213,11 @@
             "unicode": "03"
         },
         {
+            "label": "猶",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "伯",
             "size": 1,
             "unicode": "07"
@@ -201,8 +241,13 @@
             "label": "を",
             "size": 1,
             "unicode": ""
+        },
+        {
+            "label": "木",
+            "size": 1,
+            "unicode": "04"
         }
     ],
-    "size": 40,
-    "total": 52
+    "size": 49,
+    "total": 62
 }

@@ -3,6 +3,11 @@
     "label": "豊臣秀吉書状",
     "list": [
         {
+            "label": "来",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "共",
             "size": 1,
             "unicode": "06"
@@ -16,6 +21,11 @@
             "label": "月",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "有",
+            "size": 2,
+            "unicode": "06"
         },
         {
             "label": "へ",
@@ -33,9 +43,19 @@
             "unicode": "04"
         },
         {
+            "label": "路",
+            "size": 1,
+            "unicode": "13"
+        },
+        {
             "label": "ニ",
             "size": 1,
             "unicode": ""
+        },
+        {
+            "label": "分",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "姓",
@@ -76,6 +96,16 @@
             "label": "可",
             "size": 3,
             "unicode": "05"
+        },
+        {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
         },
         {
             "label": "中",
@@ -158,9 +188,19 @@
             "unicode": "05"
         },
         {
+            "label": "由",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "安",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "六",
+            "size": 2,
+            "unicode": "04"
         },
         {
             "label": "秀",
@@ -243,6 +283,11 @@
             "unicode": "18"
         },
         {
+            "label": "猶",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "各",
             "size": 1,
             "unicode": "06"
@@ -283,6 +328,6 @@
             "unicode": "08"
         }
     ],
-    "size": 56,
-    "total": 84
+    "size": 65,
+    "total": 95
 }

@@ -8,6 +8,11 @@
             "unicode": "20"
         },
         {
+            "label": "乱",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "状",
             "size": 2,
             "unicode": "07"
@@ -33,7 +38,32 @@
             "unicode": "04"
         },
         {
+            "label": "野",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
+            "label": "利",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
+            "label": "物",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "五",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
+            "label": "例",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "分",
             "size": 1,
             "unicode": "04"
         },
@@ -43,9 +73,19 @@
             "unicode": "08"
         },
         {
+            "label": "領",
+            "size": 2,
+            "unicode": "14"
+        },
+        {
             "label": "背",
             "size": 1,
             "unicode": "09"
+        },
+        {
+            "label": "名",
+            "size": 2,
+            "unicode": "06"
         },
         {
             "label": "沙",
@@ -61,6 +101,11 @@
             "label": "神",
             "size": 1,
             "unicode": "09"
+        },
+        {
+            "label": "本",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "女",
@@ -86,6 +131,11 @@
             "label": "汰",
             "size": 1,
             "unicode": "07"
+        },
+        {
+            "label": "傍",
+            "size": 1,
+            "unicode": "12"
         },
         {
             "label": "如",
@@ -163,6 +213,11 @@
             "unicode": "13"
         },
         {
+            "label": "無",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "被",
             "size": 1,
             "unicode": "10"
@@ -176,6 +231,11 @@
             "label": "薗",
             "size": 1,
             "unicode": "16"
+        },
+        {
+            "label": "万",
+            "size": 2,
+            "unicode": "03"
         },
         {
             "label": "親",
@@ -218,6 +278,6 @@
             "unicode": "02"
         }
     ],
-    "size": 43,
-    "total": 51
+    "size": 55,
+    "total": 66
 }

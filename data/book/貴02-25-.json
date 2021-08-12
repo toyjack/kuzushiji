@@ -43,6 +43,11 @@
             "unicode": "04"
         },
         {
+            "label": "利",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "五",
             "size": 1,
             "unicode": "04"
@@ -81,6 +86,11 @@
             "label": "乙",
             "size": 2,
             "unicode": "01"
+        },
+        {
+            "label": "奉",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "御",
@@ -143,6 +153,11 @@
             "unicode": "10"
         },
         {
+            "label": "粒",
+            "size": 4,
+            "unicode": "11"
+        },
+        {
             "label": "仙",
             "size": 1,
             "unicode": "05"
@@ -168,6 +183,6 @@
             "unicode": "11"
         }
     ],
-    "size": 33,
-    "total": 38
+    "size": 36,
+    "total": 44
 }

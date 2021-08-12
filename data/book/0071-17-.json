@@ -33,9 +33,19 @@
             "unicode": "06"
         },
         {
+            "label": "別",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "日",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "路",
+            "size": 2,
+            "unicode": "13"
         },
         {
             "label": "非",
@@ -163,9 +173,19 @@
             "unicode": "04"
         },
         {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "掌",
             "size": 1,
             "unicode": "12"
+        },
+        {
+            "label": "門",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "高",
@@ -193,9 +213,24 @@
             "unicode": "08"
         },
         {
+            "label": "文",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "十",
             "size": 1,
             "unicode": "02"
+        },
+        {
+            "label": "万",
+            "size": 1,
+            "unicode": "03"
+        },
+        {
+            "label": "龍",
+            "size": 1,
+            "unicode": "16"
         },
         {
             "label": "下",
@@ -228,6 +263,6 @@
             "unicode": "06"
         }
     ],
-    "size": 45,
-    "total": 56
+    "size": 52,
+    "total": 64
 }

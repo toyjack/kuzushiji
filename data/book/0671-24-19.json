@@ -73,6 +73,11 @@
             "unicode": ""
         },
         {
+            "label": "唯",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "能",
             "size": 1,
             "unicode": "10"
@@ -86,6 +91,11 @@
             "label": "な",
             "size": 1,
             "unicode": ""
+        },
+        {
+            "label": "柳",
+            "size": 1,
+            "unicode": "09"
         },
         {
             "label": "申",
@@ -146,6 +156,11 @@
             "label": "今",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "返",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "主",
@@ -278,6 +293,6 @@
             "unicode": ""
         }
     ],
-    "size": 55,
-    "total": 83
+    "size": 58,
+    "total": 86
 }

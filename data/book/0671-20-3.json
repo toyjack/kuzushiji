@@ -198,6 +198,11 @@
             "unicode": ""
         },
         {
+            "label": "奉",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "に",
             "size": 8,
             "unicode": ""
@@ -223,9 +228,19 @@
             "unicode": ""
         },
         {
+            "label": "様",
+            "size": 1,
+            "unicode": "14"
+        },
+        {
             "label": "い",
             "size": 1,
             "unicode": ""
+        },
+        {
+            "label": "用",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "所",
@@ -398,6 +413,11 @@
             "unicode": ""
         },
         {
+            "label": "万",
+            "size": 3,
+            "unicode": "03"
+        },
+        {
             "label": "き",
             "size": 13,
             "unicode": ""
@@ -473,6 +493,6 @@
             "unicode": ""
         }
     ],
-    "size": 94,
-    "total": 276
+    "size": 98,
+    "total": 282
 }

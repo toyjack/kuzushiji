@@ -48,6 +48,11 @@
             "unicode": "08"
         },
         {
+            "label": "野",
+            "size": 3,
+            "unicode": "11"
+        },
+        {
             "label": "節",
             "size": 1,
             "unicode": "13"
@@ -153,6 +158,16 @@
             "unicode": "05"
         },
         {
+            "label": "了",
+            "size": 1,
+            "unicode": "02"
+        },
+        {
+            "label": "郎",
+            "size": 9,
+            "unicode": "09"
+        },
+        {
             "label": "寄",
             "size": 1,
             "unicode": "11"
@@ -178,9 +193,24 @@
             "unicode": "06"
         },
         {
+            "label": "奉",
+            "size": 2,
+            "unicode": "08"
+        },
+        {
+            "label": "目",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "御",
             "size": 2,
             "unicode": "12"
+        },
+        {
+            "label": "両",
+            "size": 1,
+            "unicode": "06"
         },
         {
             "label": "郭",
@@ -218,6 +248,11 @@
             "unicode": "05"
         },
         {
+            "label": "兵",
+            "size": 4,
+            "unicode": "07"
+        },
+        {
             "label": "衛",
             "size": 2,
             "unicode": "16"
@@ -231,6 +266,11 @@
             "label": "今",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "法",
+            "size": 2,
+            "unicode": "08"
         },
         {
             "label": "条",
@@ -261,6 +301,11 @@
             "label": "押",
             "size": 2,
             "unicode": "08"
+        },
+        {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "第",
@@ -298,6 +343,11 @@
             "unicode": "10"
         },
         {
+            "label": "命",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "軍",
             "size": 5,
             "unicode": "09"
@@ -313,9 +363,19 @@
             "unicode": "15"
         },
         {
+            "label": "摩",
+            "size": 1,
+            "unicode": "15"
+        },
+        {
             "label": "代",
             "size": 1,
             "unicode": "05"
+        },
+        {
+            "label": "連",
+            "size": 1,
+            "unicode": "10"
         },
         {
             "label": "武",
@@ -341,6 +401,11 @@
             "label": "下",
             "size": 1,
             "unicode": "03"
+        },
+        {
+            "label": "又",
+            "size": 1,
+            "unicode": "02"
         },
         {
             "label": "上",
@@ -403,6 +468,6 @@
             "unicode": "08"
         }
     ],
-    "size": 80,
-    "total": 162
+    "size": 93,
+    "total": 190
 }

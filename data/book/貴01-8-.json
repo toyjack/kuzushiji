@@ -3,6 +3,11 @@
     "label": "北条氏政自筆書状",
     "list": [
         {
+            "label": "明",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "氏",
             "size": 1,
             "unicode": "04"
@@ -38,6 +43,11 @@
             "unicode": "15"
         },
         {
+            "label": "平",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "日",
             "size": 2,
             "unicode": "04"
@@ -56,6 +66,16 @@
             "label": "可",
             "size": 3,
             "unicode": "05"
+        },
+        {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
         },
         {
             "label": "次",
@@ -86,6 +106,11 @@
             "label": "政",
             "size": 1,
             "unicode": "09"
+        },
+        {
+            "label": "門",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "殿",
@@ -138,6 +163,6 @@
             "unicode": "02"
         }
     ],
-    "size": 27,
-    "total": 36
+    "size": 32,
+    "total": 41
 }

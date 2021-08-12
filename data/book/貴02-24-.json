@@ -33,6 +33,11 @@
             "unicode": ""
         },
         {
+            "label": "野",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "せ",
             "size": 1,
             "unicode": ""
@@ -163,6 +168,6 @@
             "unicode": ""
         }
     ],
-    "size": 32,
-    "total": 50
+    "size": 33,
+    "total": 51
 }

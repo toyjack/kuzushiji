@@ -28,9 +28,19 @@
             "unicode": "02"
         },
         {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "種",
             "size": 1,
             "unicode": "14"
+        },
+        {
+            "label": "別",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "日",
@@ -41,6 +51,16 @@
             "label": "五",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "坊",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
+            "label": "領",
+            "size": 1,
+            "unicode": "14"
         },
         {
             "label": "慶",
@@ -61,6 +81,11 @@
             "label": "度",
             "size": 1,
             "unicode": "09"
+        },
+        {
+            "label": "本",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "正",
@@ -86,6 +111,11 @@
             "label": "今",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "法",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "祝",
@@ -128,6 +158,11 @@
             "unicode": "06"
         },
         {
+            "label": "和",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "走",
             "size": 1,
             "unicode": "07"
@@ -163,6 +198,6 @@
             "unicode": "08"
         }
     ],
-    "size": 32,
-    "total": 35
+    "size": 39,
+    "total": 42
 }

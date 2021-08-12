@@ -3,6 +3,11 @@
     "label": "足利義昭公帖",
     "list": [
         {
+            "label": "務",
+            "size": 2,
+            "unicode": "11"
+        },
+        {
             "label": "状",
             "size": 2,
             "unicode": "07"
@@ -53,6 +58,11 @@
             "unicode": "04"
         },
         {
+            "label": "例",
+            "size": 3,
+            "unicode": "08"
+        },
+        {
             "label": "東",
             "size": 1,
             "unicode": "08"
@@ -66,6 +76,11 @@
             "label": "天",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "防",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "左",
@@ -106,6 +121,11 @@
             "label": "福",
             "size": 1,
             "unicode": "13"
+        },
+        {
+            "label": "揚",
+            "size": 2,
+            "unicode": "12"
         },
         {
             "label": "相",
@@ -208,6 +228,6 @@
             "unicode": "08"
         }
     ],
-    "size": 41,
-    "total": 76
+    "size": 45,
+    "total": 84
 }

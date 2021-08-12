@@ -58,6 +58,16 @@
             "unicode": "04"
         },
         {
+            "label": "立",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
+            "label": "役",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "入",
             "size": 2,
             "unicode": "02"
@@ -66,6 +76,11 @@
             "label": "し",
             "size": 2,
             "unicode": ""
+        },
+        {
+            "label": "別",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "加",
@@ -106,6 +121,11 @@
             "label": "日",
             "size": 4,
             "unicode": "04"
+        },
+        {
+            "label": "利",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "せ",
@@ -151,6 +171,11 @@
             "label": "も",
             "size": 3,
             "unicode": ""
+        },
+        {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "書",
@@ -211,6 +236,11 @@
             "label": "山",
             "size": 1,
             "unicode": "03"
+        },
+        {
+            "label": "用",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "夫",
@@ -413,6 +443,11 @@
             "unicode": ""
         },
         {
+            "label": "理",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "す",
             "size": 2,
             "unicode": ""
@@ -423,6 +458,6 @@
             "unicode": "02"
         }
     ],
-    "size": 84,
-    "total": 182
+    "size": 91,
+    "total": 189
 }

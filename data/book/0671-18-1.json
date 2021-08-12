@@ -38,9 +38,19 @@
             "unicode": "02"
         },
         {
+            "label": "有",
+            "size": 2,
+            "unicode": "06"
+        },
+        {
             "label": "谷",
             "size": 2,
             "unicode": "07"
+        },
+        {
+            "label": "平",
+            "size": 2,
+            "unicode": "05"
         },
         {
             "label": "気",
@@ -83,6 +93,11 @@
             "unicode": "06"
         },
         {
+            "label": "弥",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "天",
             "size": 2,
             "unicode": "04"
@@ -91,6 +106,11 @@
             "label": "可",
             "size": 2,
             "unicode": "05"
+        },
+        {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
         },
         {
             "label": "如",
@@ -183,6 +203,6 @@
             "unicode": "08"
         }
     ],
-    "size": 36,
-    "total": 66
+    "size": 40,
+    "total": 72
 }

@@ -23,6 +23,11 @@
             "unicode": "04"
         },
         {
+            "label": "有",
+            "size": 2,
+            "unicode": "06"
+        },
+        {
             "label": "管",
             "size": 1,
             "unicode": "14"
@@ -83,9 +88,24 @@
             "unicode": "09"
         },
         {
+            "label": "楼",
+            "size": 1,
+            "unicode": "13"
+        },
+        {
+            "label": "夜",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "沉",
             "size": 2,
             "unicode": "07"
+        },
+        {
+            "label": "落",
+            "size": 1,
+            "unicode": "12"
         },
         {
             "label": "宵",
@@ -98,6 +118,6 @@
             "unicode": "11"
         }
     ],
-    "size": 19,
-    "total": 20
+    "size": 23,
+    "total": 25
 }

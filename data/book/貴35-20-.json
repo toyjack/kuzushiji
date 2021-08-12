@@ -38,6 +38,11 @@
             "unicode": "04"
         },
         {
+            "label": "分",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "懸",
             "size": 1,
             "unicode": "20"
@@ -64,6 +69,21 @@
         },
         {
             "label": "度",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
+            "label": "要",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
+            "label": "郎",
             "size": 1,
             "unicode": "09"
         },
@@ -128,6 +148,11 @@
             "unicode": "17"
         },
         {
+            "label": "妙",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "至",
             "size": 1,
             "unicode": "06"
@@ -158,9 +183,19 @@
             "unicode": "15"
         },
         {
+            "label": "落",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "光",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "又",
+            "size": 1,
+            "unicode": "02"
         },
         {
             "label": "上",
@@ -198,6 +233,6 @@
             "unicode": "02"
         }
     ],
-    "size": 39,
-    "total": 45
+    "size": 46,
+    "total": 52
 }

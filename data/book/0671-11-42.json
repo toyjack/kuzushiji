@@ -48,7 +48,27 @@
             "unicode": "10"
         },
         {
+            "label": "留",
+            "size": 2,
+            "unicode": "10"
+        },
+        {
             "label": "延",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "友",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
+            "label": "物",
+            "size": 2,
+            "unicode": "08"
+        },
+        {
+            "label": "例",
             "size": 1,
             "unicode": "08"
         },
@@ -73,9 +93,24 @@
             "unicode": "10"
         },
         {
+            "label": "米",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
+            "label": "抑",
+            "size": 3,
+            "unicode": "07"
+        },
+        {
             "label": "同",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "目",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "御",
@@ -106,6 +141,11 @@
             "label": "彼",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "用",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "者",
@@ -163,6 +203,11 @@
             "unicode": "01"
         },
         {
+            "label": "門",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "罪",
             "size": 1,
             "unicode": "13"
@@ -198,14 +243,34 @@
             "unicode": "06"
         },
         {
+            "label": "暦",
+            "size": 2,
+            "unicode": "14"
+        },
+        {
             "label": "時",
             "size": 1,
             "unicode": "10"
         },
         {
+            "label": "文",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
+            "label": "摩",
+            "size": 1,
+            "unicode": "15"
+        },
+        {
             "label": "応",
             "size": 1,
             "unicode": "07"
+        },
+        {
+            "label": "又",
+            "size": 1,
+            "unicode": "02"
         },
         {
             "label": "上",
@@ -248,6 +313,6 @@
             "unicode": "08"
         }
     ],
-    "size": 49,
-    "total": 56
+    "size": 62,
+    "total": 74
 }

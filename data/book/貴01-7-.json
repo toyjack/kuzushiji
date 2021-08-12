@@ -13,9 +13,19 @@
             "unicode": "04"
         },
         {
+            "label": "物",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "慶",
             "size": 1,
             "unicode": "15"
+        },
+        {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
         },
         {
             "label": "正",
@@ -36,6 +46,11 @@
             "label": "州",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "石",
@@ -73,6 +88,6 @@
             "unicode": "11"
         }
     ],
-    "size": 14,
-    "total": 15
+    "size": 17,
+    "total": 18
 }

@@ -133,6 +133,11 @@
             "unicode": ""
         },
         {
+            "label": "門",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "う",
             "size": 1,
             "unicode": ""
@@ -188,6 +193,6 @@
             "unicode": ""
         }
     ],
-    "size": 37,
-    "total": 73
+    "size": 38,
+    "total": 74
 }

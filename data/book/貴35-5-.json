@@ -148,6 +148,11 @@
             "unicode": "10"
         },
         {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
             "label": "そ",
             "size": 1,
             "unicode": ""
@@ -166,6 +171,11 @@
             "label": "中",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "本",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "に",
@@ -211,6 +221,11 @@
             "label": "い",
             "size": 2,
             "unicode": ""
+        },
+        {
+            "label": "用",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "所",
@@ -313,6 +328,11 @@
             "unicode": "12"
         },
         {
+            "label": "文",
+            "size": 2,
+            "unicode": "04"
+        },
+        {
             "label": "十",
             "size": 1,
             "unicode": "02"
@@ -361,6 +381,11 @@
             "label": "ほ",
             "size": 1,
             "unicode": ""
+        },
+        {
+            "label": "又",
+            "size": 1,
+            "unicode": "02"
         },
         {
             "label": "上",
@@ -423,6 +448,6 @@
             "unicode": ""
         }
     ],
-    "size": 84,
-    "total": 128
+    "size": 89,
+    "total": 134
 }

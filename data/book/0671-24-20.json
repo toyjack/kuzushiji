@@ -68,9 +68,19 @@
             "unicode": "04"
         },
         {
+            "label": "立",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "入",
             "size": 1,
             "unicode": "02"
+        },
+        {
+            "label": "有",
+            "size": 2,
+            "unicode": "06"
         },
         {
             "label": "し",
@@ -96,6 +106,11 @@
             "label": "日",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "頼",
+            "size": 1,
+            "unicode": "16"
         },
         {
             "label": "小",
@@ -173,6 +188,11 @@
             "unicode": ""
         },
         {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "座",
             "size": 1,
             "unicode": "10"
@@ -203,6 +223,11 @@
             "unicode": "08"
         },
         {
+            "label": "様",
+            "size": 2,
+            "unicode": "14"
+        },
+        {
             "label": "山",
             "size": 2,
             "unicode": "03"
@@ -216,6 +241,11 @@
             "label": "者",
             "size": 2,
             "unicode": "08"
+        },
+        {
+            "label": "聞",
+            "size": 1,
+            "unicode": "14"
         },
         {
             "label": "と",
@@ -273,6 +303,11 @@
             "unicode": "05"
         },
         {
+            "label": "由",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "参",
             "size": 3,
             "unicode": "08"
@@ -301,6 +336,16 @@
             "label": "着",
             "size": 1,
             "unicode": "12"
+        },
+        {
+            "label": "門",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "殿",
@@ -343,6 +388,11 @@
             "unicode": ""
         },
         {
+            "label": "猶",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "右",
             "size": 1,
             "unicode": "05"
@@ -351,6 +401,11 @@
             "label": "先",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "母",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "候",
@@ -403,6 +458,6 @@
             "unicode": "05"
         }
     ],
-    "size": 80,
-    "total": 151
+    "size": 91,
+    "total": 164
 }

@@ -3,6 +3,11 @@
     "label": "生駒高重書状",
     "list": [
         {
+            "label": "来",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "状",
             "size": 1,
             "unicode": "07"
@@ -73,6 +78,11 @@
             "unicode": ""
         },
         {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "機",
             "size": 1,
             "unicode": "16"
@@ -93,6 +103,16 @@
             "unicode": "10"
         },
         {
+            "label": "奉",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "目",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "御",
             "size": 10,
             "unicode": "12"
@@ -106,6 +126,11 @@
             "label": "事",
             "size": 2,
             "unicode": "08"
+        },
+        {
+            "label": "様",
+            "size": 2,
+            "unicode": "14"
         },
         {
             "label": "者",
@@ -130,6 +155,11 @@
         {
             "label": "以",
             "size": 2,
+            "unicode": "05"
+        },
+        {
+            "label": "由",
+            "size": 1,
             "unicode": "05"
         },
         {
@@ -173,9 +203,19 @@
             "unicode": "05"
         },
         {
+            "label": "無",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "被",
             "size": 3,
             "unicode": "10"
+        },
+        {
+            "label": "万",
+            "size": 1,
+            "unicode": "03"
         },
         {
             "label": "悦",
@@ -228,6 +268,6 @@
             "unicode": "06"
         }
     ],
-    "size": 45,
-    "total": 75
+    "size": 53,
+    "total": 84
 }

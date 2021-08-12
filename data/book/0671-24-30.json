@@ -13,6 +13,11 @@
             "unicode": "11"
         },
         {
+            "label": "来",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "帰",
             "size": 1,
             "unicode": "10"
@@ -48,6 +53,11 @@
             "unicode": "02"
         },
         {
+            "label": "別",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "加",
             "size": 1,
             "unicode": "05"
@@ -58,6 +68,11 @@
             "unicode": "14"
         },
         {
+            "label": "平",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "到",
             "size": 1,
             "unicode": "08"
@@ -66,6 +81,11 @@
             "label": "日",
             "size": 2,
             "unicode": "04"
+        },
+        {
+            "label": "路",
+            "size": 1,
+            "unicode": "13"
         },
         {
             "label": "五",
@@ -81,6 +101,11 @@
             "label": "等",
             "size": 1,
             "unicode": "12"
+        },
+        {
+            "label": "弥",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "申",
@@ -126,6 +151,11 @@
             "label": "首",
             "size": 1,
             "unicode": "09"
+        },
+        {
+            "label": "辺",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "馬",
@@ -203,9 +233,19 @@
             "unicode": "12"
         },
         {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "殿",
             "size": 1,
             "unicode": "13"
+        },
+        {
+            "label": "無",
+            "size": 1,
+            "unicode": "12"
         },
         {
             "label": "飛",
@@ -238,6 +278,11 @@
             "unicode": "09"
         },
         {
+            "label": "猶",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "候",
             "size": 6,
             "unicode": "10"
@@ -268,6 +313,6 @@
             "unicode": "06"
         }
     ],
-    "size": 53,
-    "total": 66
+    "size": 62,
+    "total": 75
 }

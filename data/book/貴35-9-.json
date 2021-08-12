@@ -23,6 +23,11 @@
             "unicode": "02"
         },
         {
+            "label": "余",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "延",
             "size": 1,
             "unicode": "08"
@@ -113,6 +118,16 @@
             "unicode": "08"
         },
         {
+            "label": "様",
+            "size": 1,
+            "unicode": "14"
+        },
+        {
+            "label": "略",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "然",
             "size": 1,
             "unicode": "12"
@@ -158,6 +173,11 @@
             "unicode": "07"
         },
         {
+            "label": "紛",
+            "size": 1,
+            "unicode": "10"
+        },
+        {
             "label": "元",
             "size": 2,
             "unicode": "04"
@@ -178,6 +198,11 @@
             "unicode": "12"
         },
         {
+            "label": "門",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "殿",
             "size": 1,
             "unicode": "13"
@@ -188,14 +213,29 @@
             "unicode": "15"
         },
         {
+            "label": "無",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "裁",
             "size": 1,
             "unicode": "12"
         },
         {
+            "label": "連",
+            "size": 1,
+            "unicode": "10"
+        },
+        {
             "label": "上",
             "size": 1,
             "unicode": "03"
+        },
+        {
+            "label": "猶",
+            "size": 1,
+            "unicode": "12"
         },
         {
             "label": "候",
@@ -213,6 +253,6 @@
             "unicode": "06"
         }
     ],
-    "size": 42,
-    "total": 51
+    "size": 50,
+    "total": 59
 }

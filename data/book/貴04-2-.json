@@ -3,6 +3,11 @@
     "label": "光厳上皇院宣",
     "list": [
         {
+            "label": "明",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "僧",
             "size": 1,
             "unicode": "13"
@@ -48,6 +53,11 @@
             "unicode": "12"
         },
         {
+            "label": "有",
+            "size": 3,
+            "unicode": "06"
+        },
+        {
             "label": "義",
             "size": 2,
             "unicode": "13"
@@ -91,6 +101,11 @@
             "label": "知",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "領",
+            "size": 2,
+            "unicode": "14"
         },
         {
             "label": "申",
@@ -198,6 +213,11 @@
             "unicode": "05"
         },
         {
+            "label": "法",
+            "size": 2,
+            "unicode": "08"
+        },
+        {
             "label": "堂",
             "size": 1,
             "unicode": "11"
@@ -210,6 +230,16 @@
         {
             "label": "以",
             "size": 3,
+            "unicode": "05"
+        },
+        {
+            "label": "由",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
+            "label": "令",
+            "size": 1,
             "unicode": "05"
         },
         {
@@ -228,9 +258,19 @@
             "unicode": "12"
         },
         {
+            "label": "門",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "高",
             "size": 1,
             "unicode": "10"
+        },
+        {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "印",
@@ -241,6 +281,11 @@
             "label": "難",
             "size": 1,
             "unicode": "18"
+        },
+        {
+            "label": "無",
+            "size": 1,
+            "unicode": "12"
         },
         {
             "label": "被",
@@ -259,6 +304,11 @@
         },
         {
             "label": "依",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "和",
             "size": 1,
             "unicode": "08"
         },
@@ -313,11 +363,16 @@
             "unicode": "11"
         },
         {
+            "label": "房",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "子",
             "size": 2,
             "unicode": "03"
         }
     ],
-    "size": 63,
-    "total": 100
+    "size": 74,
+    "total": 115
 }

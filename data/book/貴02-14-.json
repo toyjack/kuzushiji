@@ -48,6 +48,11 @@
             "unicode": "05"
         },
         {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
             "label": "納",
             "size": 1,
             "unicode": "10"
@@ -108,9 +113,29 @@
             "unicode": "03"
         },
         {
+            "label": "法",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "以",
             "size": 1,
             "unicode": "05"
+        },
+        {
+            "label": "由",
+            "size": 2,
+            "unicode": "05"
+        },
+        {
+            "label": "妙",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
+            "label": "密",
+            "size": 1,
+            "unicode": "11"
         },
         {
             "label": "印",
@@ -148,6 +173,11 @@
             "unicode": "10"
         },
         {
+            "label": "房",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "子",
             "size": 1,
             "unicode": "03"
@@ -163,6 +193,6 @@
             "unicode": "06"
         }
     ],
-    "size": 32,
-    "total": 35
+    "size": 38,
+    "total": 42
 }

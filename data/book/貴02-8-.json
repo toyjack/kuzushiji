@@ -33,6 +33,11 @@
             "unicode": "05"
         },
         {
+            "label": "野",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "日",
             "size": 1,
             "unicode": "04"
@@ -118,6 +123,11 @@
             "unicode": "07"
         },
         {
+            "label": "用",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "者",
             "size": 2,
             "unicode": "08"
@@ -138,6 +148,11 @@
             "unicode": "05"
         },
         {
+            "label": "由",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "参",
             "size": 1,
             "unicode": "08"
@@ -151,6 +166,11 @@
             "label": "捨",
             "size": 1,
             "unicode": "11"
+        },
+        {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "後",
@@ -178,6 +198,11 @@
             "unicode": "05"
         },
         {
+            "label": "連",
+            "size": 1,
+            "unicode": "10"
+        },
+        {
             "label": "清",
             "size": 1,
             "unicode": "11"
@@ -198,6 +223,6 @@
             "unicode": "12"
         }
     ],
-    "size": 39,
-    "total": 46
+    "size": 44,
+    "total": 51
 }

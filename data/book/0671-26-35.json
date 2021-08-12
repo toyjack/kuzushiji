@@ -3,6 +3,11 @@
     "label": "立花直茂（鑑虎）書状",
     "list": [
         {
+            "label": "来",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "的",
             "size": 1,
             "unicode": "08"
@@ -68,6 +73,11 @@
             "unicode": "07"
         },
         {
+            "label": "茂",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "申",
             "size": 1,
             "unicode": "05"
@@ -96,6 +106,11 @@
             "label": "足",
             "size": 1,
             "unicode": "07"
+        },
+        {
+            "label": "面",
+            "size": 1,
+            "unicode": "09"
         },
         {
             "label": "披",
@@ -148,6 +163,11 @@
             "unicode": "01"
         },
         {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "権",
             "size": 1,
             "unicode": "15"
@@ -178,6 +198,11 @@
             "unicode": "02"
         },
         {
+            "label": "満",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "候",
             "size": 4,
             "unicode": "10"
@@ -188,6 +213,6 @@
             "unicode": "04"
         }
     ],
-    "size": 37,
-    "total": 42
+    "size": 42,
+    "total": 47
 }

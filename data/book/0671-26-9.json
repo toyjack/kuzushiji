@@ -43,6 +43,11 @@
             "unicode": ""
         },
         {
+            "label": "老",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "入",
             "size": 1,
             "unicode": "02"
@@ -148,6 +153,11 @@
             "unicode": "10"
         },
         {
+            "label": "本",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "勤",
             "size": 3,
             "unicode": "12"
@@ -166,6 +176,16 @@
             "label": "首",
             "size": 1,
             "unicode": "09"
+        },
+        {
+            "label": "奉",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "目",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "御",
@@ -258,6 +278,11 @@
             "unicode": "04"
         },
         {
+            "label": "法",
+            "size": 2,
+            "unicode": "08"
+        },
+        {
             "label": "使",
             "size": 3,
             "unicode": "08"
@@ -278,6 +303,11 @@
             "unicode": "05"
         },
         {
+            "label": "由",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "参",
             "size": 1,
             "unicode": "08"
@@ -286,6 +316,11 @@
             "label": "守",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "謹",
@@ -353,6 +388,11 @@
             "unicode": "15"
         },
         {
+            "label": "無",
+            "size": 3,
+            "unicode": "12"
+        },
+        {
             "label": "太",
             "size": 1,
             "unicode": "04"
@@ -378,6 +418,11 @@
             "unicode": ""
         },
         {
+            "label": "満",
+            "size": 2,
+            "unicode": "12"
+        },
+        {
             "label": "期",
             "size": 1,
             "unicode": "12"
@@ -398,9 +443,19 @@
             "unicode": "03"
         },
         {
+            "label": "又",
+            "size": 1,
+            "unicode": "02"
+        },
+        {
             "label": "上",
             "size": 3,
             "unicode": "03"
+        },
+        {
+            "label": "猶",
+            "size": 1,
+            "unicode": "12"
         },
         {
             "label": "初",
@@ -438,6 +493,6 @@
             "unicode": "04"
         }
     ],
-    "size": 87,
-    "total": 172
+    "size": 98,
+    "total": 187
 }

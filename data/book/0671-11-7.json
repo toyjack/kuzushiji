@@ -33,14 +33,29 @@
             "unicode": "06"
         },
         {
+            "label": "老",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "月",
             "size": 1,
             "unicode": "04"
         },
         {
+            "label": "立",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "早",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "平",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "日",
@@ -58,6 +73,11 @@
             "unicode": "06"
         },
         {
+            "label": "弥",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "沙",
             "size": 1,
             "unicode": "07"
@@ -71,6 +91,11 @@
             "label": "書",
             "size": 1,
             "unicode": "10"
+        },
+        {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
         },
         {
             "label": "寄",
@@ -148,6 +173,11 @@
             "unicode": "11"
         },
         {
+            "label": "文",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "十",
             "size": 1,
             "unicode": "02"
@@ -156,6 +186,11 @@
             "label": "出",
             "size": 1,
             "unicode": "05"
+        },
+        {
+            "label": "摩",
+            "size": 1,
+            "unicode": "15"
         },
         {
             "label": "代",
@@ -198,6 +233,6 @@
             "unicode": "02"
         }
     ],
-    "size": 39,
-    "total": 46
+    "size": 46,
+    "total": 53
 }

@@ -43,6 +43,11 @@
             "unicode": "05"
         },
         {
+            "label": "奉",
+            "size": 2,
+            "unicode": "08"
+        },
+        {
             "label": "斎",
             "size": 1,
             "unicode": "11"
@@ -168,6 +173,6 @@
             "unicode": "02"
         }
     ],
-    "size": 33,
-    "total": 36
+    "size": 34,
+    "total": 38
 }

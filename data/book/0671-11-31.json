@@ -38,6 +38,11 @@
             "unicode": "17"
         },
         {
+            "label": "弁",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "年",
             "size": 1,
             "unicode": "06"
@@ -51,6 +56,11 @@
             "label": "道",
             "size": 1,
             "unicode": "12"
+        },
+        {
+            "label": "米",
+            "size": 1,
+            "unicode": "06"
         },
         {
             "label": "斗",
@@ -123,6 +133,11 @@
             "unicode": "06"
         },
         {
+            "label": "暦",
+            "size": 1,
+            "unicode": "14"
+        },
+        {
             "label": "時",
             "size": 1,
             "unicode": "10"
@@ -158,6 +173,6 @@
             "unicode": "06"
         }
     ],
-    "size": 31,
-    "total": 33
+    "size": 34,
+    "total": 36
 }

@@ -3,6 +3,11 @@
     "label": "大智度論巻第八十七",
     "list": [
         {
+            "label": "明",
+            "size": 2,
+            "unicode": "08"
+        },
+        {
             "label": "人",
             "size": 1,
             "unicode": "02"
@@ -63,14 +68,39 @@
             "unicode": "07"
         },
         {
+            "label": "味",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "力",
+            "size": 2,
+            "unicode": "02"
+        },
+        {
             "label": "入",
             "size": 5,
             "unicode": "02"
         },
         {
+            "label": "有",
+            "size": 19,
+            "unicode": "06"
+        },
+        {
+            "label": "報",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "種",
             "size": 5,
             "unicode": "14"
+        },
+        {
+            "label": "別",
+            "size": 3,
+            "unicode": "07"
         },
         {
             "label": "界",
@@ -128,9 +158,24 @@
             "unicode": "12"
         },
         {
+            "label": "欲",
+            "size": 5,
+            "unicode": "11"
+        },
+        {
+            "label": "弁",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "尚",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "分",
+            "size": 3,
+            "unicode": "04"
         },
         {
             "label": "能",
@@ -223,6 +268,11 @@
             "unicode": "04"
         },
         {
+            "label": "本",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "声",
             "size": 1,
             "unicode": "07"
@@ -273,6 +323,11 @@
             "unicode": "08"
         },
         {
+            "label": "用",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "所",
             "size": 7,
             "unicode": "08"
@@ -286,6 +341,16 @@
             "label": "心",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "聞",
+            "size": 1,
+            "unicode": "14"
+        },
+        {
+            "label": "離",
+            "size": 4,
+            "unicode": "19"
         },
         {
             "label": "当",
@@ -343,6 +408,11 @@
             "unicode": "08"
         },
         {
+            "label": "法",
+            "size": 23,
+            "unicode": "08"
+        },
+        {
             "label": "楽",
             "size": 1,
             "unicode": "13"
@@ -383,6 +453,11 @@
             "unicode": "15"
         },
         {
+            "label": "滅",
+            "size": 3,
+            "unicode": "13"
+        },
+        {
             "label": "況",
             "size": 1,
             "unicode": "08"
@@ -406,6 +481,11 @@
             "label": "就",
             "size": 1,
             "unicode": "12"
+        },
+        {
+            "label": "六",
+            "size": 2,
+            "unicode": "04"
         },
         {
             "label": "諸",
@@ -443,6 +523,11 @@
             "unicode": "09"
         },
         {
+            "label": "无",
+            "size": 18,
+            "unicode": "04"
+        },
+        {
             "label": "波",
             "size": 4,
             "unicode": "08"
@@ -458,6 +543,11 @@
             "unicode": "11"
         },
         {
+            "label": "蜜",
+            "size": 4,
+            "unicode": "14"
+        },
+        {
             "label": "習",
             "size": 3,
             "unicode": "11"
@@ -471,6 +561,11 @@
             "label": "時",
             "size": 4,
             "unicode": "10"
+        },
+        {
+            "label": "命",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "禅",
@@ -493,6 +588,11 @@
             "unicode": "02"
         },
         {
+            "label": "摩",
+            "size": 4,
+            "unicode": "15"
+        },
+        {
             "label": "依",
             "size": 1,
             "unicode": "08"
@@ -501,6 +601,11 @@
             "label": "応",
             "size": 1,
             "unicode": "07"
+        },
+        {
+            "label": "羅",
+            "size": 5,
+            "unicode": "19"
         },
         {
             "label": "観",
@@ -583,6 +688,11 @@
             "unicode": "12"
         },
         {
+            "label": "憂",
+            "size": 2,
+            "unicode": "15"
+        },
+        {
             "label": "地",
             "size": 10,
             "unicode": "06"
@@ -613,6 +723,6 @@
             "unicode": "02"
         }
     ],
-    "size": 122,
-    "total": 546
+    "size": 144,
+    "total": 652
 }

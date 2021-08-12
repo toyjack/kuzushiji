@@ -28,6 +28,11 @@
             "unicode": "04"
         },
         {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "へ",
             "size": 1,
             "unicode": ""
@@ -73,6 +78,11 @@
             "unicode": "05"
         },
         {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "黒",
             "size": 1,
             "unicode": "11"
@@ -88,6 +98,11 @@
             "unicode": "08"
         },
         {
+            "label": "様",
+            "size": 1,
+            "unicode": "14"
+        },
+        {
             "label": "然",
             "size": 1,
             "unicode": "12"
@@ -101,6 +116,16 @@
             "label": "者",
             "size": 2,
             "unicode": "08"
+        },
+        {
+            "label": "聞",
+            "size": 1,
+            "unicode": "14"
+        },
+        {
+            "label": "兵",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "衛",
@@ -193,6 +218,6 @@
             "unicode": "08"
         }
     ],
-    "size": 38,
-    "total": 47
+    "size": 43,
+    "total": 52
 }

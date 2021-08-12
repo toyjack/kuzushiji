@@ -68,6 +68,11 @@
             "unicode": "12"
         },
         {
+            "label": "弥",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "申",
             "size": 2,
             "unicode": "05"
@@ -86,6 +91,16 @@
             "label": "書",
             "size": 1,
             "unicode": "10"
+        },
+        {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
+            "label": "米",
+            "size": 1,
+            "unicode": "06"
         },
         {
             "label": "神",
@@ -138,6 +153,11 @@
             "unicode": "12"
         },
         {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "殿",
             "size": 1,
             "unicode": "13"
@@ -178,6 +198,11 @@
             "unicode": "02"
         },
         {
+            "label": "摩",
+            "size": 1,
+            "unicode": "15"
+        },
+        {
             "label": "重",
             "size": 1,
             "unicode": "09"
@@ -186,6 +211,11 @@
             "label": "下",
             "size": 1,
             "unicode": "03"
+        },
+        {
+            "label": "又",
+            "size": 1,
+            "unicode": "02"
         },
         {
             "label": "候",
@@ -218,6 +248,6 @@
             "unicode": "02"
         }
     ],
-    "size": 43,
-    "total": 49
+    "size": 49,
+    "total": 55
 }

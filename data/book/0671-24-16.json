@@ -3,6 +3,11 @@
     "label": "細川忠利書状",
     "list": [
         {
+            "label": "明",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "遣",
             "size": 1,
             "unicode": "13"
@@ -33,6 +38,11 @@
             "unicode": "13"
         },
         {
+            "label": "労",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "よ",
             "size": 1,
             "unicode": ""
@@ -58,9 +68,19 @@
             "unicode": "05"
         },
         {
+            "label": "留",
+            "size": 2,
+            "unicode": "10"
+        },
+        {
             "label": "日",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "利",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "五",
@@ -68,9 +88,19 @@
             "unicode": "04"
         },
         {
+            "label": "未",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "ニ",
             "size": 4,
             "unicode": ""
+        },
+        {
+            "label": "分",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "知",
@@ -103,6 +133,16 @@
             "unicode": "05"
         },
         {
+            "label": "要",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "隙",
             "size": 1,
             "unicode": "14"
@@ -133,6 +173,11 @@
             "unicode": "08"
         },
         {
+            "label": "両",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "馬",
             "size": 1,
             "unicode": "10"
@@ -146,6 +191,11 @@
             "label": "ま",
             "size": 1,
             "unicode": ""
+        },
+        {
+            "label": "様",
+            "size": 1,
+            "unicode": "14"
         },
         {
             "label": "山",
@@ -233,6 +283,11 @@
             "unicode": ""
         },
         {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "後",
             "size": 2,
             "unicode": "09"
@@ -246,6 +301,11 @@
             "label": "儀",
             "size": 1,
             "unicode": "15"
+        },
+        {
+            "label": "無",
+            "size": 1,
+            "unicode": "12"
         },
         {
             "label": "太",
@@ -283,9 +343,19 @@
             "unicode": "03"
         },
         {
+            "label": "猶",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "候",
             "size": 12,
             "unicode": "10"
+        },
+        {
+            "label": "便",
+            "size": 1,
+            "unicode": "09"
         },
         {
             "label": "跡",
@@ -308,6 +378,6 @@
             "unicode": ""
         }
     ],
-    "size": 61,
-    "total": 92
+    "size": 75,
+    "total": 107
 }

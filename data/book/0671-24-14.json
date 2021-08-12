@@ -63,6 +63,11 @@
             "unicode": "04"
         },
         {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "し",
             "size": 2,
             "unicode": ""
@@ -93,6 +98,11 @@
             "unicode": "14"
         },
         {
+            "label": "野",
+            "size": 2,
+            "unicode": "11"
+        },
+        {
             "label": "品",
             "size": 1,
             "unicode": "09"
@@ -101,6 +111,11 @@
             "label": "日",
             "size": 4,
             "unicode": "04"
+        },
+        {
+            "label": "利",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "酒",
@@ -138,6 +153,11 @@
             "unicode": ""
         },
         {
+            "label": "弥",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "七",
             "size": 2,
             "unicode": "02"
@@ -168,6 +188,11 @@
             "unicode": "05"
         },
         {
+            "label": "遊",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "書",
             "size": 1,
             "unicode": "10"
@@ -176,6 +201,11 @@
             "label": "意",
             "size": 3,
             "unicode": "13"
+        },
+        {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
         },
         {
             "label": "披",
@@ -208,6 +238,11 @@
             "unicode": "12"
         },
         {
+            "label": "両",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "馬",
             "size": 2,
             "unicode": "10"
@@ -231,6 +266,11 @@
             "label": "汰",
             "size": 1,
             "unicode": "07"
+        },
+        {
+            "label": "様",
+            "size": 3,
+            "unicode": "14"
         },
         {
             "label": "山",
@@ -293,6 +333,11 @@
             "unicode": "05"
         },
         {
+            "label": "由",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "州",
             "size": 1,
             "unicode": "06"
@@ -346,6 +391,11 @@
             "label": "儀",
             "size": 1,
             "unicode": "15"
+        },
+        {
+            "label": "無",
+            "size": 1,
+            "unicode": "12"
         },
         {
             "label": "被",
@@ -438,6 +488,6 @@
             "unicode": "02"
         }
     ],
-    "size": 87,
-    "total": 147
+    "size": 97,
+    "total": 160
 }

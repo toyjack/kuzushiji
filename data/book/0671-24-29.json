@@ -108,6 +108,16 @@
             "unicode": ""
         },
         {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
+            "label": "文",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "十",
             "size": 1,
             "unicode": "02"
@@ -148,6 +158,6 @@
             "unicode": ""
         }
     ],
-    "size": 29,
-    "total": 34
+    "size": 31,
+    "total": 36
 }

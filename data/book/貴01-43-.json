@@ -23,6 +23,11 @@
             "unicode": "04"
         },
         {
+            "label": "役",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "入",
             "size": 1,
             "unicode": "02"
@@ -88,6 +93,11 @@
             "unicode": "05"
         },
         {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
             "label": "丸",
             "size": 1,
             "unicode": "03"
@@ -118,9 +128,19 @@
             "unicode": "14"
         },
         {
+            "label": "兵",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "衛",
             "size": 1,
             "unicode": "16"
+        },
+        {
+            "label": "由",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "渡",
@@ -138,9 +158,19 @@
             "unicode": "12"
         },
         {
+            "label": "門",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "殿",
             "size": 1,
             "unicode": "13"
+        },
+        {
+            "label": "料",
+            "size": 1,
+            "unicode": "10"
         },
         {
             "label": "嶋",
@@ -203,6 +233,6 @@
             "unicode": "05"
         }
     ],
-    "size": 40,
-    "total": 47
+    "size": 46,
+    "total": 53
 }

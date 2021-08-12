@@ -43,6 +43,11 @@
             "unicode": "10"
         },
         {
+            "label": "弥",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "殊",
             "size": 1,
             "unicode": "10"
@@ -88,6 +93,16 @@
             "unicode": "01"
         },
         {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
+            "label": "妙",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "至",
             "size": 1,
             "unicode": "06"
@@ -118,6 +133,6 @@
             "unicode": "10"
         }
     ],
-    "size": 23,
-    "total": 27
+    "size": 26,
+    "total": 30
 }

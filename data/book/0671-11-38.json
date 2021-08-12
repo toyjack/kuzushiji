@@ -53,6 +53,11 @@
             "unicode": "04"
         },
         {
+            "label": "欲",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "建",
             "size": 1,
             "unicode": "09"
@@ -93,6 +98,11 @@
             "unicode": "10"
         },
         {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
             "label": "賀",
             "size": 1,
             "unicode": "12"
@@ -123,6 +133,11 @@
             "unicode": "09"
         },
         {
+            "label": "法",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "前",
             "size": 1,
             "unicode": "09"
@@ -146,6 +161,11 @@
             "label": "謹",
             "size": 1,
             "unicode": "17"
+        },
+        {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "恐",
@@ -178,9 +198,24 @@
             "unicode": "09"
         },
         {
+            "label": "摩",
+            "size": 1,
+            "unicode": "15"
+        },
+        {
+            "label": "預",
+            "size": 2,
+            "unicode": "13"
+        },
+        {
             "label": "武",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "又",
+            "size": 1,
+            "unicode": "02"
         },
         {
             "label": "上",
@@ -218,6 +253,6 @@
             "unicode": "08"
         }
     ],
-    "size": 43,
-    "total": 56
+    "size": 50,
+    "total": 64
 }

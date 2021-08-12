@@ -28,9 +28,19 @@
             "unicode": "07"
         },
         {
+            "label": "老",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "月",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "立",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "入",
@@ -41,6 +51,16 @@
             "label": "し",
             "size": 1,
             "unicode": ""
+        },
+        {
+            "label": "報",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
+            "label": "留",
+            "size": 1,
+            "unicode": "10"
         },
         {
             "label": "霜",
@@ -83,6 +103,11 @@
             "unicode": ""
         },
         {
+            "label": "物",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "酒",
             "size": 1,
             "unicode": "10"
@@ -91,6 +116,11 @@
             "label": "ニ",
             "size": 3,
             "unicode": ""
+        },
+        {
+            "label": "歩",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "行",
@@ -138,6 +168,11 @@
             "unicode": ""
         },
         {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "意",
             "size": 1,
             "unicode": "13"
@@ -168,6 +203,16 @@
             "unicode": "10"
         },
         {
+            "label": "奉",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "目",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "御",
             "size": 7,
             "unicode": "12"
@@ -176,6 +221,11 @@
             "label": "屋",
             "size": 2,
             "unicode": "09"
+        },
+        {
+            "label": "様",
+            "size": 1,
+            "unicode": "14"
         },
         {
             "label": "故",
@@ -191,6 +241,11 @@
             "label": "然",
             "size": 1,
             "unicode": "12"
+        },
+        {
+            "label": "用",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "者",
@@ -220,6 +275,11 @@
         {
             "label": "以",
             "size": 1,
+            "unicode": "05"
+        },
+        {
+            "label": "由",
+            "size": 2,
             "unicode": "05"
         },
         {
@@ -388,6 +448,6 @@
             "unicode": ""
         }
     ],
-    "size": 77,
-    "total": 113
+    "size": 89,
+    "total": 126
 }

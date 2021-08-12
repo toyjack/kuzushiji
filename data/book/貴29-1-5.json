@@ -38,6 +38,11 @@
             "unicode": ""
         },
         {
+            "label": "隆",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "寛",
             "size": 1,
             "unicode": "13"
@@ -63,6 +68,11 @@
             "unicode": "05"
         },
         {
+            "label": "領",
+            "size": 1,
+            "unicode": "14"
+        },
+        {
             "label": "慶",
             "size": 1,
             "unicode": "15"
@@ -81,6 +91,11 @@
             "label": "輝",
             "size": 2,
             "unicode": "15"
+        },
+        {
+            "label": "郎",
+            "size": 10,
+            "unicode": "09"
         },
         {
             "label": "次",
@@ -106,6 +121,11 @@
             "label": "と",
             "size": 5,
             "unicode": ""
+        },
+        {
+            "label": "兵",
+            "size": 2,
+            "unicode": "07"
         },
         {
             "label": "衛",
@@ -148,6 +168,16 @@
             "unicode": "12"
         },
         {
+            "label": "門",
+            "size": 5,
+            "unicode": "08"
+        },
+        {
+            "label": "六",
+            "size": 3,
+            "unicode": "04"
+        },
+        {
             "label": "殿",
             "size": 2,
             "unicode": "13"
@@ -158,14 +188,29 @@
             "unicode": "09"
         },
         {
+            "label": "文",
+            "size": 2,
+            "unicode": "04"
+        },
+        {
             "label": "十",
             "size": 8,
             "unicode": "02"
         },
         {
+            "label": "和",
+            "size": 3,
+            "unicode": "08"
+        },
+        {
             "label": "の",
             "size": 9,
             "unicode": ""
+        },
+        {
+            "label": "又",
+            "size": 6,
+            "unicode": "02"
         },
         {
             "label": "藤",
@@ -208,6 +253,6 @@
             "unicode": "02"
         }
     ],
-    "size": 41,
-    "total": 194
+    "size": 50,
+    "total": 227
 }
