@@ -29,7 +29,7 @@
         }}
       </p>
 
-      <h4>頻度順文字種リスト</h4>
+      <h4 class="mt-10">文字種リスト</h4>
 
       <v-text-field
         class="my-10"
@@ -42,7 +42,7 @@
         rounded
         background-color="grey lighten-2"
         clear-icon="mdi-close-circle"
-        clearable="true"
+        :clearable="true"
       ></v-text-field>
 
       <v-data-table
@@ -155,7 +155,7 @@ export default class about extends Vue {
 
     this.items = items
 
-    this.search = decodeURIComponent(this.$route.hash.replace('#', ''))
+    //this.search = decodeURIComponent(this.$route.hash.replace('#', ''))
   }
 }
 </script>

@@ -19,6 +19,10 @@
 
       <p>また変体仮名の情報については、Unicode変体仮名一覧もご利用下さい。</p>
 
+      <div class="mt-10" v-if="filter && queryId">
+        <v-chip label color="primary" close @click="init()">フィルタ: {{filter}}</v-chip>
+      </div>
+
       <div v-for="(value, key) in map" :key="key" class="my-10" :id="key">
         <h3>
           <nuxt-link
@@ -34,7 +38,7 @@
         </h3>
         <p>{{ key }}</p>
         <v-row dense>
-          <v-col cols="3" sm="1" v-for="(item, key2) in value.list" :key="key2">
+          <v-col cols="3" md="1" v-for="(item, key2) in value.list" :key="key2">
             <a
               :href="
                 'https://clioapi.hi.u-tokyo.ac.jp/mirador/?manifest=' +
@@ -98,23 +102,50 @@ export default class about extends Vue {
 
   map: any = {}
 
+  filter: string = ""
+
+  queryId: any = ""
+
+  res: any[] = []
+
   async created() {
     const res = await axios.get(
       this.baseUrl + '/data/list/' + this.id + '.json'
     )
     const data = res.data
+    this.res = data
 
-    const map: any = {}
+   
 
     const queryId = this.$route.query.id
+    this.queryId = queryId
+
+    this.main()
+  }
+
+  init(){
+    this.queryId = ''
+    this.main()
+  }
+
+  main(){
+    const map: any = {}
+
+    const data = this.res
+
+    const queryId = this.queryId
 
     for (const item of data) {
       const source = item.source
-      const doc = source.document.split('@')[0]
+      const doc = source.value.split('@')[0]
       const cn = source.call_number.split('@')[0]
 
       if (queryId && cn != queryId) {
         continue
+      }
+
+      if(queryId){
+        this.filter = doc
       }
 
       if (!map[cn]) {
