@@ -38,6 +38,11 @@
             "unicode": "09"
         },
         {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "早",
             "size": 1,
             "unicode": "06"
@@ -113,6 +118,11 @@
             "unicode": "12"
         },
         {
+            "label": "柄",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
             "label": "山",
             "size": 1,
             "unicode": "03"
@@ -141,6 +151,11 @@
             "label": "不",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "由",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "勝",
@@ -223,6 +238,6 @@
             "unicode": "11"
         }
     ],
-    "size": 44,
-    "total": 56
+    "size": 47,
+    "total": 59
 }

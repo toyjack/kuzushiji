@@ -48,6 +48,11 @@
             "unicode": "05"
         },
         {
+            "label": "面",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
             "label": "以",
             "size": 1,
             "unicode": "05"
@@ -61,6 +66,11 @@
             "label": "謹",
             "size": 1,
             "unicode": "17"
+        },
+        {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "秀",
@@ -103,6 +113,6 @@
             "unicode": "08"
         }
     ],
-    "size": 20,
-    "total": 20
+    "size": 22,
+    "total": 22
 }

@@ -8,6 +8,11 @@
             "unicode": ""
         },
         {
+            "label": "明",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "遣",
             "size": 5,
             "unicode": "13"
@@ -56,6 +61,11 @@
             "label": "日",
             "size": 2,
             "unicode": "04"
+        },
+        {
+            "label": "物",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "ニ",
@@ -218,6 +228,6 @@
             "unicode": "05"
         }
     ],
-    "size": 43,
-    "total": 75
+    "size": 45,
+    "total": 77
 }

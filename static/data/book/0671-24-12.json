@@ -88,6 +88,16 @@
             "unicode": ""
         },
         {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
+            "label": "郎",
+            "size": 2,
+            "unicode": "09"
+        },
+        {
             "label": "馬",
             "size": 1,
             "unicode": "10"
@@ -126,6 +136,11 @@
             "label": "急",
             "size": 1,
             "unicode": "09"
+        },
+        {
+            "label": "返",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "主",
@@ -171,6 +186,11 @@
             "label": "こ",
             "size": 1,
             "unicode": ""
+        },
+        {
+            "label": "無",
+            "size": 2,
+            "unicode": "12"
         },
         {
             "label": "太",
@@ -228,6 +248,6 @@
             "unicode": "10"
         }
     ],
-    "size": 45,
-    "total": 72
+    "size": 49,
+    "total": 78
 }

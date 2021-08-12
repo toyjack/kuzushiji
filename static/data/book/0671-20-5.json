@@ -183,6 +183,11 @@
             "unicode": ""
         },
         {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "う",
             "size": 7,
             "unicode": ""
@@ -226,6 +231,16 @@
             "label": "出",
             "size": 1,
             "unicode": "05"
+        },
+        {
+            "label": "和",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "葉",
+            "size": 1,
+            "unicode": "12"
         },
         {
             "label": "き",
@@ -293,6 +308,6 @@
             "unicode": ""
         }
     ],
-    "size": 58,
-    "total": 107
+    "size": 61,
+    "total": 110
 }

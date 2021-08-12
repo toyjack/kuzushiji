@@ -28,6 +28,11 @@
             "unicode": "04"
         },
         {
+            "label": "立",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "し",
             "size": 4,
             "unicode": ""
@@ -56,6 +61,11 @@
             "label": "ニ",
             "size": 1,
             "unicode": ""
+        },
+        {
+            "label": "分",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "懸",
@@ -88,6 +98,11 @@
             "unicode": ""
         },
         {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "意",
             "size": 1,
             "unicode": "13"
@@ -98,9 +113,19 @@
             "unicode": "14"
         },
         {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
             "label": "得",
             "size": 1,
             "unicode": "11"
+        },
+        {
+            "label": "目",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "に",
@@ -128,6 +153,11 @@
             "unicode": ""
         },
         {
+            "label": "礼",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "祝",
             "size": 1,
             "unicode": "09"
@@ -151,6 +181,11 @@
             "label": "一",
             "size": 1,
             "unicode": "01"
+        },
+        {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "ハ",
@@ -228,11 +263,16 @@
             "unicode": "03"
         },
         {
+            "label": "又",
+            "size": 1,
+            "unicode": "02"
+        },
+        {
             "label": "候",
             "size": 11,
             "unicode": "10"
         }
     ],
-    "size": 46,
-    "total": 76
+    "size": 54,
+    "total": 84
 }

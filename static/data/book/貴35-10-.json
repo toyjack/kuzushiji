@@ -53,6 +53,11 @@
             "unicode": "04"
         },
         {
+            "label": "露",
+            "size": 1,
+            "unicode": "20"
+        },
+        {
             "label": "入",
             "size": 2,
             "unicode": "02"
@@ -128,6 +133,11 @@
             "unicode": "13"
         },
         {
+            "label": "米",
+            "size": 2,
+            "unicode": "06"
+        },
+        {
             "label": "神",
             "size": 1,
             "unicode": "09"
@@ -178,6 +188,11 @@
             "unicode": "03"
         },
         {
+            "label": "用",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "所",
             "size": 4,
             "unicode": "08"
@@ -204,6 +219,11 @@
         },
         {
             "label": "宜",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "法",
             "size": 1,
             "unicode": "08"
         },
@@ -248,6 +268,11 @@
             "unicode": "01"
         },
         {
+            "label": "令",
+            "size": 4,
+            "unicode": "05"
+        },
+        {
             "label": "縁",
             "size": 1,
             "unicode": "15"
@@ -268,9 +293,19 @@
             "unicode": "09"
         },
         {
+            "label": "料",
+            "size": 3,
+            "unicode": "10"
+        },
+        {
             "label": "内",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "無",
+            "size": 2,
+            "unicode": "12"
         },
         {
             "label": "定",
@@ -358,6 +393,6 @@
             "unicode": "02"
         }
     ],
-    "size": 71,
-    "total": 96
+    "size": 78,
+    "total": 110
 }

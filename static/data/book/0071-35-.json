@@ -3,6 +3,11 @@
     "label": "関東御教書",
     "list": [
         {
+            "label": "務",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "状",
             "size": 2,
             "unicode": "07"
@@ -23,6 +28,11 @@
             "unicode": "04"
         },
         {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "加",
             "size": 1,
             "unicode": "05"
@@ -36,6 +46,11 @@
             "label": "日",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "例",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "東",
@@ -143,6 +158,11 @@
             "unicode": "05"
         },
         {
+            "label": "由",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "守",
             "size": 3,
             "unicode": "06"
@@ -173,9 +193,19 @@
             "unicode": "10"
         },
         {
+            "label": "陸",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "観",
             "size": 1,
             "unicode": "18"
+        },
+        {
+            "label": "妨",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "下",
@@ -233,6 +263,6 @@
             "unicode": "10"
         }
     ],
-    "size": 46,
-    "total": 59
+    "size": 52,
+    "total": 65
 }

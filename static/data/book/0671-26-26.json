@@ -3,6 +3,11 @@
     "label": "立花宗茂書状",
     "list": [
         {
+            "label": "来",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "細",
             "size": 1,
             "unicode": "11"
@@ -43,6 +48,11 @@
             "unicode": "02"
         },
         {
+            "label": "別",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "矢",
             "size": 1,
             "unicode": "05"
@@ -61,6 +71,11 @@
             "label": "近",
             "size": 1,
             "unicode": "07"
+        },
+        {
+            "label": "茂",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "委",
@@ -93,9 +108,19 @@
             "unicode": "05"
         },
         {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "意",
             "size": 1,
             "unicode": "13"
+        },
+        {
+            "label": "奉",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "御",
@@ -213,6 +238,11 @@
             "unicode": "14"
         },
         {
+            "label": "無",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "被",
             "size": 1,
             "unicode": "10"
@@ -238,6 +268,11 @@
             "unicode": "05"
         },
         {
+            "label": "又",
+            "size": 1,
+            "unicode": "02"
+        },
+        {
             "label": "候",
             "size": 6,
             "unicode": "10"
@@ -258,6 +293,6 @@
             "unicode": "16"
         }
     ],
-    "size": 51,
-    "total": 61
+    "size": 58,
+    "total": 68
 }

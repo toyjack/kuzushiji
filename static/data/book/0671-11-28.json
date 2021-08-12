@@ -23,6 +23,11 @@
             "unicode": "04"
         },
         {
+            "label": "露",
+            "size": 1,
+            "unicode": "20"
+        },
+        {
             "label": "早",
             "size": 1,
             "unicode": "06"
@@ -36,6 +41,11 @@
             "label": "承",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "平",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "日",
@@ -83,7 +93,17 @@
             "unicode": "05"
         },
         {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
             "label": "披",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "奉",
             "size": 1,
             "unicode": "08"
         },
@@ -148,6 +168,11 @@
             "unicode": "02"
         },
         {
+            "label": "摩",
+            "size": 1,
+            "unicode": "15"
+        },
+        {
             "label": "都",
             "size": 1,
             "unicode": "11"
@@ -183,6 +208,6 @@
             "unicode": "08"
         }
     ],
-    "size": 36,
-    "total": 41
+    "size": 41,
+    "total": 46
 }

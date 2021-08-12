@@ -38,9 +38,19 @@
             "unicode": "04"
         },
         {
+            "label": "野",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "喜",
             "size": 1,
             "unicode": "12"
+        },
+        {
+            "label": "平",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "寛",
@@ -61,6 +71,11 @@
             "label": "水",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "例",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "近",
@@ -238,6 +253,11 @@
             "unicode": "06"
         },
         {
+            "label": "母",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "九",
             "size": 1,
             "unicode": "02"
@@ -248,6 +268,6 @@
             "unicode": "03"
         }
     ],
-    "size": 49,
-    "total": 60
+    "size": 53,
+    "total": 64
 }

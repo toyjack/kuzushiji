@@ -38,6 +38,11 @@
             "unicode": ""
         },
         {
+            "label": "野",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "少",
             "size": 1,
             "unicode": "04"
@@ -153,6 +158,11 @@
             "unicode": ""
         },
         {
+            "label": "門",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "う",
             "size": 2,
             "unicode": ""
@@ -228,6 +238,6 @@
             "unicode": "05"
         }
     ],
-    "size": 45,
-    "total": 104
+    "size": 47,
+    "total": 106
 }

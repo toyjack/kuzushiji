@@ -93,6 +93,16 @@
             "unicode": ""
         },
         {
+            "label": "未",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
+            "label": "弁",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "進",
             "size": 2,
             "unicode": "11"
@@ -113,6 +123,16 @@
             "unicode": "12"
         },
         {
+            "label": "名",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
+            "label": "了",
+            "size": 1,
+            "unicode": "02"
+        },
+        {
             "label": "て",
             "size": 4,
             "unicode": ""
@@ -121,6 +141,11 @@
             "label": "そ",
             "size": 2,
             "unicode": ""
+        },
+        {
+            "label": "米",
+            "size": 2,
+            "unicode": "06"
         },
         {
             "label": "神",
@@ -233,9 +258,19 @@
             "unicode": "05"
         },
         {
+            "label": "無",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "件",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "暦",
+            "size": 1,
+            "unicode": "14"
         },
         {
             "label": "十",
@@ -298,6 +333,6 @@
             "unicode": ""
         }
     ],
-    "size": 59,
-    "total": 118
+    "size": 66,
+    "total": 126
 }

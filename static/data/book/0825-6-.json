@@ -48,6 +48,11 @@
             "unicode": "07"
         },
         {
+            "label": "雄",
+            "size": 2,
+            "unicode": "12"
+        },
+        {
             "label": "日",
             "size": 2,
             "unicode": "04"
@@ -58,6 +63,11 @@
             "unicode": "08"
         },
         {
+            "label": "領",
+            "size": 2,
+            "unicode": "14"
+        },
+        {
             "label": "七",
             "size": 2,
             "unicode": "02"
@@ -66,6 +76,11 @@
             "label": "申",
             "size": 2,
             "unicode": "05"
+        },
+        {
+            "label": "了",
+            "size": 2,
+            "unicode": "02"
         },
         {
             "label": "可",
@@ -218,6 +233,6 @@
             "unicode": "02"
         }
     ],
-    "size": 43,
-    "total": 91
+    "size": 46,
+    "total": 97
 }

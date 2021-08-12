@@ -28,6 +28,11 @@
             "unicode": "04"
         },
         {
+            "label": "露",
+            "size": 1,
+            "unicode": "20"
+        },
+        {
             "label": "置",
             "size": 1,
             "unicode": "13"
@@ -58,6 +63,11 @@
             "unicode": "15"
         },
         {
+            "label": "分",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "兼",
             "size": 1,
             "unicode": "10"
@@ -66,6 +76,11 @@
             "label": "射",
             "size": 1,
             "unicode": "10"
+        },
+        {
+            "label": "弥",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "キ",
@@ -96,6 +111,11 @@
             "label": "披",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "本",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "馬",
@@ -138,6 +158,11 @@
             "unicode": "12"
         },
         {
+            "label": "兵",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "白",
             "size": 1,
             "unicode": "05"
@@ -163,6 +188,11 @@
             "unicode": "13"
         },
         {
+            "label": "由",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "州",
             "size": 1,
             "unicode": "06"
@@ -173,14 +203,34 @@
             "unicode": "01"
         },
         {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "取",
             "size": 3,
             "unicode": "08"
         },
         {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "殿",
             "size": 1,
             "unicode": "13"
+        },
+        {
+            "label": "無",
+            "size": 2,
+            "unicode": "12"
+        },
+        {
+            "label": "類",
+            "size": 1,
+            "unicode": "18"
         },
         {
             "label": "十",
@@ -226,8 +276,13 @@
             "label": "比",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "房",
+            "size": 1,
+            "unicode": "08"
         }
     ],
-    "size": 45,
-    "total": 57
+    "size": 56,
+    "total": 69
 }

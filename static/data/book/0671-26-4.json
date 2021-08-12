@@ -13,6 +13,16 @@
             "unicode": "04"
         },
         {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
+            "label": "別",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "矢",
             "size": 1,
             "unicode": "05"
@@ -31,6 +41,11 @@
             "label": "南",
             "size": 1,
             "unicode": "09"
+        },
+        {
+            "label": "分",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "勘",
@@ -103,6 +118,11 @@
             "unicode": "08"
         },
         {
+            "label": "兵",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "衛",
             "size": 1,
             "unicode": "16"
@@ -136,6 +156,11 @@
             "label": "十",
             "size": 3,
             "unicode": "02"
+        },
+        {
+            "label": "預",
+            "size": 1,
+            "unicode": "13"
         },
         {
             "label": "在",
@@ -173,6 +198,6 @@
             "unicode": "05"
         }
     ],
-    "size": 34,
-    "total": 38
+    "size": 39,
+    "total": 43
 }

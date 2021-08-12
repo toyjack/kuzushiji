@@ -18,6 +18,11 @@
             "unicode": "04"
         },
         {
+            "label": "役",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "入",
             "size": 1,
             "unicode": "02"
@@ -33,9 +38,19 @@
             "unicode": "08"
         },
         {
+            "label": "平",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "日",
             "size": 2,
             "unicode": "04"
+        },
+        {
+            "label": "物",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "五",
@@ -56,6 +71,16 @@
             "label": "申",
             "size": 1,
             "unicode": "05"
+        },
+        {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
+            "label": "抑",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "治",
@@ -108,6 +133,11 @@
             "unicode": "06"
         },
         {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "取",
             "size": 1,
             "unicode": "08"
@@ -138,9 +168,19 @@
             "unicode": "06"
         },
         {
+            "label": "暦",
+            "size": 1,
+            "unicode": "14"
+        },
+        {
             "label": "時",
             "size": 1,
             "unicode": "10"
+        },
+        {
+            "label": "文",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "十",
@@ -158,6 +198,16 @@
             "unicode": "08"
         },
         {
+            "label": "和",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "又",
+            "size": 1,
+            "unicode": "02"
+        },
+        {
             "label": "間",
             "size": 1,
             "unicode": "12"
@@ -168,6 +218,6 @@
             "unicode": "05"
         }
     ],
-    "size": 33,
-    "total": 38
+    "size": 43,
+    "total": 48
 }

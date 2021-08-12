@@ -3,6 +3,11 @@
     "label": "蜷川親元自筆書状",
     "list": [
         {
+            "label": "来",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "細",
             "size": 1,
             "unicode": "11"
@@ -38,6 +43,16 @@
             "unicode": "04"
         },
         {
+            "label": "報",
+            "size": 2,
+            "unicode": "12"
+        },
+        {
+            "label": "留",
+            "size": 1,
+            "unicode": "10"
+        },
+        {
             "label": "庭",
             "size": 2,
             "unicode": "10"
@@ -56,6 +71,11 @@
             "label": "勢",
             "size": 1,
             "unicode": "13"
+        },
+        {
+            "label": "分",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "少",
@@ -83,6 +103,11 @@
             "unicode": "05"
         },
         {
+            "label": "郎",
+            "size": 2,
+            "unicode": "09"
+        },
+        {
             "label": "尉",
             "size": 1,
             "unicode": "11"
@@ -91,6 +116,11 @@
             "label": "川",
             "size": 1,
             "unicode": "03"
+        },
+        {
+            "label": "奉",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "御",
@@ -108,6 +138,11 @@
             "unicode": "12"
         },
         {
+            "label": "用",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "者",
             "size": 3,
             "unicode": "08"
@@ -116,6 +151,11 @@
             "label": "心",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "兵",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "衛",
@@ -131,6 +171,11 @@
             "label": "仰",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "返",
+            "size": 2,
+            "unicode": "07"
         },
         {
             "label": "元",
@@ -161,6 +206,16 @@
             "label": "拝",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "門",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "殿",
@@ -218,6 +273,6 @@
             "unicode": "02"
         }
     ],
-    "size": 43,
-    "total": 68
+    "size": 54,
+    "total": 82
 }

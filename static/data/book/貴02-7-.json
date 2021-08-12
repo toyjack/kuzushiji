@@ -38,7 +38,17 @@
             "unicode": "04"
         },
         {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "通",
+            "size": 1,
+            "unicode": "10"
+        },
+        {
+            "label": "留",
             "size": 1,
             "unicode": "10"
         },
@@ -53,6 +63,11 @@
             "unicode": "04"
         },
         {
+            "label": "路",
+            "size": 1,
+            "unicode": "13"
+        },
+        {
             "label": "信",
             "size": 1,
             "unicode": "09"
@@ -61,6 +76,11 @@
             "label": "可",
             "size": 2,
             "unicode": "05"
+        },
+        {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
         },
         {
             "label": "川",
@@ -88,9 +108,19 @@
             "unicode": "08"
         },
         {
+            "label": "用",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "者",
             "size": 2,
             "unicode": "08"
+        },
+        {
+            "label": "聞",
+            "size": 1,
+            "unicode": "14"
         },
         {
             "label": "相",
@@ -153,6 +183,11 @@
             "unicode": "18"
         },
         {
+            "label": "北",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "候",
             "size": 2,
             "unicode": "10"
@@ -171,6 +206,11 @@
             "label": "長",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "木",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "堅",
@@ -193,6 +233,6 @@
             "unicode": "06"
         }
     ],
-    "size": 38,
-    "total": 42
+    "size": 46,
+    "total": 50
 }

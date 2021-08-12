@@ -13,6 +13,16 @@
             "unicode": "06"
         },
         {
+            "label": "乱",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
+            "label": "来",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "伏",
             "size": 1,
             "unicode": "06"
@@ -41,6 +51,11 @@
             "label": "敗",
             "size": 1,
             "unicode": "11"
+        },
+        {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
         },
         {
             "label": "し",
@@ -78,9 +93,19 @@
             "unicode": "06"
         },
         {
+            "label": "弥",
+            "size": 2,
+            "unicode": "08"
+        },
+        {
             "label": "申",
             "size": 3,
             "unicode": "05"
+        },
+        {
+            "label": "名",
+            "size": 1,
+            "unicode": "06"
         },
         {
             "label": "壱",
@@ -98,9 +123,29 @@
             "unicode": "05"
         },
         {
+            "label": "要",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "実",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "米",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
+            "label": "本",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "丸",
@@ -133,9 +178,19 @@
             "unicode": "08"
         },
         {
+            "label": "与",
+            "size": 1,
+            "unicode": "03"
+        },
+        {
             "label": "彼",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "用",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "所",
@@ -171,6 +226,11 @@
             "label": "相",
             "size": 1,
             "unicode": "09"
+        },
+        {
+            "label": "兵",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "買",
@@ -308,6 +368,11 @@
             "unicode": "06"
         },
         {
+            "label": "万",
+            "size": 1,
+            "unicode": "03"
+        },
+        {
             "label": "原",
             "size": 1,
             "unicode": "10"
@@ -398,6 +463,6 @@
             "unicode": "06"
         }
     ],
-    "size": 79,
-    "total": 118
+    "size": 92,
+    "total": 132
 }

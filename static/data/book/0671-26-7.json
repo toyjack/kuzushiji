@@ -33,6 +33,11 @@
             "unicode": "02"
         },
         {
+            "label": "報",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "へ",
             "size": 1,
             "unicode": ""
@@ -40,6 +45,11 @@
         {
             "label": "矢",
             "size": 2,
+            "unicode": "05"
+        },
+        {
+            "label": "平",
+            "size": 1,
             "unicode": "05"
         },
         {
@@ -73,6 +83,11 @@
             "unicode": "09"
         },
         {
+            "label": "弥",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "左",
             "size": 1,
             "unicode": "05"
@@ -88,6 +103,11 @@
             "unicode": "05"
         },
         {
+            "label": "方",
+            "size": 2,
+            "unicode": "04"
+        },
+        {
             "label": "座",
             "size": 1,
             "unicode": "10"
@@ -96,6 +116,11 @@
             "label": "川",
             "size": 1,
             "unicode": "03"
+        },
+        {
+            "label": "奉",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "御",
@@ -111,6 +136,11 @@
             "label": "事",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "様",
+            "size": 1,
+            "unicode": "14"
         },
         {
             "label": "貴",
@@ -158,9 +188,19 @@
             "unicode": "04"
         },
         {
+            "label": "由",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "安",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "拝",
@@ -188,6 +228,16 @@
             "unicode": "09"
         },
         {
+            "label": "門",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "殿",
             "size": 2,
             "unicode": "13"
@@ -211,6 +261,11 @@
             "label": "儀",
             "size": 1,
             "unicode": "15"
+        },
+        {
+            "label": "無",
+            "size": 3,
+            "unicode": "12"
         },
         {
             "label": "被",
@@ -263,6 +318,6 @@
             "unicode": "06"
         }
     ],
-    "size": 52,
-    "total": 76
+    "size": 63,
+    "total": 90
 }

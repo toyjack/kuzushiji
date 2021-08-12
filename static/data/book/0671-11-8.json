@@ -28,6 +28,11 @@
             "unicode": "04"
         },
         {
+            "label": "役",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "日",
             "size": 1,
             "unicode": "04"
@@ -61,6 +66,11 @@
             "label": "意",
             "size": 1,
             "unicode": "13"
+        },
+        {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
         },
         {
             "label": "勤",
@@ -98,6 +108,11 @@
             "unicode": "12"
         },
         {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "殿",
             "size": 1,
             "unicode": "13"
@@ -133,6 +148,6 @@
             "unicode": "06"
         }
     ],
-    "size": 26,
-    "total": 27
+    "size": 29,
+    "total": 30
 }

@@ -48,6 +48,11 @@
             "unicode": ""
         },
         {
+            "label": "物",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "五",
             "size": 2,
             "unicode": "04"
@@ -61,6 +66,11 @@
             "label": "ニ",
             "size": 3,
             "unicode": ""
+        },
+        {
+            "label": "領",
+            "size": 1,
+            "unicode": "14"
         },
         {
             "label": "な",
@@ -156,6 +166,11 @@
             "label": "ま",
             "size": 4,
             "unicode": ""
+        },
+        {
+            "label": "様",
+            "size": 3,
+            "unicode": "14"
         },
         {
             "label": "然",
@@ -318,6 +333,6 @@
             "unicode": "06"
         }
     ],
-    "size": 63,
-    "total": 135
+    "size": 66,
+    "total": 140
 }

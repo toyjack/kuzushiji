@@ -43,6 +43,11 @@
             "unicode": "05"
         },
         {
+            "label": "留",
+            "size": 1,
+            "unicode": "10"
+        },
+        {
             "label": "霜",
             "size": 1,
             "unicode": "17"
@@ -56,6 +61,11 @@
             "label": "罷",
             "size": 2,
             "unicode": "15"
+        },
+        {
+            "label": "野",
+            "size": 1,
+            "unicode": "11"
         },
         {
             "label": "日",
@@ -123,6 +133,11 @@
             "unicode": "04"
         },
         {
+            "label": "呂",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "程",
             "size": 1,
             "unicode": "12"
@@ -173,6 +188,11 @@
             "unicode": "08"
         },
         {
+            "label": "返",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "使",
             "size": 4,
             "unicode": "08"
@@ -189,6 +209,11 @@
         },
         {
             "label": "以",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
+            "label": "由",
             "size": 1,
             "unicode": "05"
         },
@@ -221,6 +246,11 @@
             "label": "越",
             "size": 1,
             "unicode": "12"
+        },
+        {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "殿",
@@ -273,6 +303,11 @@
             "unicode": "03"
         },
         {
+            "label": "又",
+            "size": 1,
+            "unicode": "02"
+        },
+        {
             "label": "候",
             "size": 10,
             "unicode": "10"
@@ -298,6 +333,6 @@
             "unicode": "08"
         }
     ],
-    "size": 59,
-    "total": 104
+    "size": 66,
+    "total": 111
 }

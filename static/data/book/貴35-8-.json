@@ -28,6 +28,11 @@
             "unicode": "04"
         },
         {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "通",
             "size": 1,
             "unicode": "10"
@@ -36,6 +41,11 @@
             "label": "義",
             "size": 1,
             "unicode": "13"
+        },
+        {
+            "label": "隆",
+            "size": 1,
+            "unicode": "11"
         },
         {
             "label": "日",
@@ -48,6 +58,11 @@
             "unicode": "08"
         },
         {
+            "label": "分",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "進",
             "size": 2,
             "unicode": "11"
@@ -56,6 +71,11 @@
             "label": "口",
             "size": 1,
             "unicode": "03"
+        },
+        {
+            "label": "弥",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "備",
@@ -73,6 +93,11 @@
             "unicode": "05"
         },
         {
+            "label": "要",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
             "label": "御",
             "size": 1,
             "unicode": "12"
@@ -86,6 +111,11 @@
             "label": "事",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "略",
+            "size": 1,
+            "unicode": "11"
         },
         {
             "label": "相",
@@ -183,6 +213,6 @@
             "unicode": "02"
         }
     ],
-    "size": 36,
-    "total": 42
+    "size": 42,
+    "total": 48
 }

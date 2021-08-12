@@ -198,6 +198,11 @@
             "unicode": ""
         },
         {
+            "label": "方",
+            "size": 2,
+            "unicode": "04"
+        },
+        {
             "label": "足",
             "size": 1,
             "unicode": "07"
@@ -216,6 +221,11 @@
             "label": "中",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "本",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "同",
@@ -256,6 +266,11 @@
             "label": "ま",
             "size": 4,
             "unicode": ""
+        },
+        {
+            "label": "様",
+            "size": 3,
+            "unicode": "14"
         },
         {
             "label": "い",
@@ -323,6 +338,11 @@
             "unicode": "05"
         },
         {
+            "label": "由",
+            "size": 2,
+            "unicode": "05"
+        },
+        {
             "label": "番",
             "size": 1,
             "unicode": "12"
@@ -351,6 +371,11 @@
             "label": "一",
             "size": 8,
             "unicode": "01"
+        },
+        {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "ハ",
@@ -383,6 +408,11 @@
             "unicode": "09"
         },
         {
+            "label": "門",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "半",
             "size": 1,
             "unicode": "05"
@@ -391,6 +421,11 @@
             "label": "儀",
             "size": 2,
             "unicode": "15"
+        },
+        {
+            "label": "無",
+            "size": 1,
+            "unicode": "12"
         },
         {
             "label": "飛",
@@ -418,6 +453,11 @@
             "unicode": "05"
         },
         {
+            "label": "預",
+            "size": 1,
+            "unicode": "13"
+        },
+        {
             "label": "追",
             "size": 1,
             "unicode": "09"
@@ -431,6 +471,11 @@
             "label": "り",
             "size": 1,
             "unicode": ""
+        },
+        {
+            "label": "満",
+            "size": 1,
+            "unicode": "12"
         },
         {
             "label": "則",
@@ -453,9 +498,19 @@
             "unicode": "09"
         },
         {
+            "label": "又",
+            "size": 1,
+            "unicode": "02"
+        },
+        {
             "label": "上",
             "size": 3,
             "unicode": "03"
+        },
+        {
+            "label": "猶",
+            "size": 2,
+            "unicode": "12"
         },
         {
             "label": "煩",
@@ -528,6 +583,6 @@
             "unicode": "08"
         }
     ],
-    "size": 105,
-    "total": 221
+    "size": 116,
+    "total": 237
 }

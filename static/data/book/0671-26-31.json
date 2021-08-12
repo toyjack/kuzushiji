@@ -38,9 +38,19 @@
             "unicode": ""
         },
         {
+            "label": "老",
+            "size": 2,
+            "unicode": "06"
+        },
+        {
             "label": "月",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
         },
         {
             "label": "し",
@@ -158,6 +168,11 @@
             "unicode": ""
         },
         {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "寄",
             "size": 1,
             "unicode": "11"
@@ -213,6 +228,11 @@
             "unicode": "07"
         },
         {
+            "label": "様",
+            "size": 1,
+            "unicode": "14"
+        },
+        {
             "label": "如",
             "size": 2,
             "unicode": "06"
@@ -260,6 +280,11 @@
         {
             "label": "主",
             "size": 1,
+            "unicode": "05"
+        },
+        {
+            "label": "由",
+            "size": 3,
             "unicode": "05"
         },
         {
@@ -336,6 +361,11 @@
             "label": "定",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "類",
+            "size": 1,
+            "unicode": "18"
         },
         {
             "label": "十",
@@ -418,6 +448,6 @@
             "unicode": "02"
         }
     ],
-    "size": 83,
-    "total": 150
+    "size": 89,
+    "total": 159
 }

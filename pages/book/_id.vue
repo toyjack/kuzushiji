@@ -41,6 +41,8 @@
         filled
         rounded
         background-color="grey lighten-2"
+        clear-icon="mdi-close-circle"
+        clearable="true"
       ></v-text-field>
 
       <v-data-table

@@ -23,6 +23,11 @@
             "unicode": "04"
         },
         {
+            "label": "立",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "達",
             "size": 1,
             "unicode": "12"
@@ -53,6 +58,11 @@
             "unicode": "12"
         },
         {
+            "label": "分",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "年",
             "size": 1,
             "unicode": "06"
@@ -61,6 +71,11 @@
             "label": "倉",
             "size": 1,
             "unicode": "10"
+        },
+        {
+            "label": "免",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "可",
@@ -118,6 +133,11 @@
             "unicode": "06"
         },
         {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "諸",
             "size": 1,
             "unicode": "15"
@@ -134,6 +154,11 @@
         },
         {
             "label": "依",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "和",
             "size": 1,
             "unicode": "08"
         },
@@ -178,6 +203,6 @@
             "unicode": "06"
         }
     ],
-    "size": 35,
-    "total": 42
+    "size": 40,
+    "total": 47
 }

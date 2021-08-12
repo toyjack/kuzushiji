@@ -93,6 +93,11 @@
             "unicode": "02"
         },
         {
+            "label": "有",
+            "size": 2,
+            "unicode": "06"
+        },
+        {
             "label": "し",
             "size": 6,
             "unicode": ""
@@ -153,6 +158,11 @@
             "unicode": "08"
         },
         {
+            "label": "分",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "家",
             "size": 1,
             "unicode": "10"
@@ -198,6 +208,11 @@
             "unicode": "06"
         },
         {
+            "label": "弥",
+            "size": 2,
+            "unicode": "08"
+        },
+        {
             "label": "七",
             "size": 1,
             "unicode": "02"
@@ -211,6 +226,11 @@
             "label": "度",
             "size": 1,
             "unicode": "09"
+        },
+        {
+            "label": "了",
+            "size": 1,
+            "unicode": "02"
         },
         {
             "label": "て",
@@ -228,9 +248,19 @@
             "unicode": ""
         },
         {
+            "label": "方",
+            "size": 14,
+            "unicode": "04"
+        },
+        {
             "label": "世",
             "size": 1,
             "unicode": "05"
+        },
+        {
+            "label": "郎",
+            "size": 2,
+            "unicode": "09"
         },
         {
             "label": "そ",
@@ -296,6 +326,11 @@
             "label": "ま",
             "size": 3,
             "unicode": ""
+        },
+        {
+            "label": "様",
+            "size": 3,
+            "unicode": "14"
         },
         {
             "label": "然",
@@ -413,6 +448,11 @@
             "unicode": ""
         },
         {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "諸",
             "size": 1,
             "unicode": "15"
@@ -473,6 +513,11 @@
             "unicode": "15"
         },
         {
+            "label": "丙",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "内",
             "size": 1,
             "unicode": "04"
@@ -481,6 +526,11 @@
             "label": "こ",
             "size": 3,
             "unicode": ""
+        },
+        {
+            "label": "無",
+            "size": 4,
+            "unicode": "12"
         },
         {
             "label": "被",
@@ -553,6 +603,11 @@
             "unicode": "09"
         },
         {
+            "label": "又",
+            "size": 4,
+            "unicode": "02"
+        },
+        {
             "label": "上",
             "size": 3,
             "unicode": "03"
@@ -564,6 +619,11 @@
         },
         {
             "label": "右",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
+            "label": "北",
             "size": 1,
             "unicode": "05"
         },
@@ -643,6 +703,6 @@
             "unicode": "02"
         }
     ],
-    "size": 128,
-    "total": 359
+    "size": 140,
+    "total": 395
 }

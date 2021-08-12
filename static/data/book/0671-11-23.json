@@ -3,6 +3,11 @@
     "label": "在国司道雄施行状",
     "list": [
         {
+            "label": "明",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "状",
             "size": 1,
             "unicode": "07"
@@ -43,6 +48,11 @@
             "unicode": "06"
         },
         {
+            "label": "留",
+            "size": 1,
+            "unicode": "10"
+        },
+        {
             "label": "延",
             "size": 2,
             "unicode": "08"
@@ -53,8 +63,18 @@
             "unicode": "12"
         },
         {
+            "label": "雄",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "日",
             "size": 2,
+            "unicode": "04"
+        },
+        {
+            "label": "分",
+            "size": 1,
             "unicode": "04"
         },
         {
@@ -93,6 +113,11 @@
             "unicode": "15"
         },
         {
+            "label": "弥",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "申",
             "size": 1,
             "unicode": "05"
@@ -111,6 +136,21 @@
             "label": "書",
             "size": 2,
             "unicode": "10"
+        },
+        {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
+            "label": "米",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
+            "label": "抑",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "神",
@@ -153,6 +193,16 @@
             "unicode": "08"
         },
         {
+            "label": "由",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "田",
             "size": 1,
             "unicode": "05"
@@ -183,7 +233,17 @@
             "unicode": "10"
         },
         {
+            "label": "文",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "賜",
+            "size": 1,
+            "unicode": "15"
+        },
+        {
+            "label": "摩",
             "size": 1,
             "unicode": "15"
         },
@@ -243,6 +303,6 @@
             "unicode": "08"
         }
     ],
-    "size": 48,
-    "total": 59
+    "size": 60,
+    "total": 71
 }

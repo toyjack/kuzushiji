@@ -23,6 +23,11 @@
             "unicode": "03"
         },
         {
+            "label": "立",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "し",
             "size": 1,
             "unicode": ""
@@ -31,6 +36,11 @@
             "label": "せ",
             "size": 1,
             "unicode": ""
+        },
+        {
+            "label": "物",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "五",
@@ -88,6 +98,11 @@
             "unicode": ""
         },
         {
+            "label": "様",
+            "size": 1,
+            "unicode": "14"
+        },
+        {
             "label": "い",
             "size": 1,
             "unicode": ""
@@ -143,6 +158,11 @@
             "unicode": ""
         },
         {
+            "label": "万",
+            "size": 1,
+            "unicode": "03"
+        },
+        {
             "label": "き",
             "size": 1,
             "unicode": ""
@@ -163,6 +183,16 @@
             "unicode": ""
         },
         {
+            "label": "枚",
+            "size": 2,
+            "unicode": "08"
+        },
+        {
+            "label": "母",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "る",
             "size": 1,
             "unicode": ""
@@ -173,6 +203,6 @@
             "unicode": "14"
         }
     ],
-    "size": 34,
-    "total": 49
+    "size": 40,
+    "total": 56
 }

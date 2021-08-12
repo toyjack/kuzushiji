@@ -68,6 +68,11 @@
             "unicode": "04"
         },
         {
+            "label": "領",
+            "size": 1,
+            "unicode": "14"
+        },
+        {
             "label": "申",
             "size": 1,
             "unicode": "05"
@@ -158,9 +163,19 @@
             "unicode": "06"
         },
         {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "被",
             "size": 1,
             "unicode": "10"
+        },
+        {
+            "label": "文",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "十",
@@ -193,6 +208,11 @@
             "unicode": "10"
         },
         {
+            "label": "便",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
             "label": "子",
             "size": 1,
             "unicode": "03"
@@ -203,6 +223,6 @@
             "unicode": "08"
         }
     ],
-    "size": 40,
-    "total": 43
+    "size": 44,
+    "total": 47
 }

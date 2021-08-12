@@ -3,6 +3,11 @@
     "label": "足利義輝公帖",
     "list": [
         {
+            "label": "務",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "三",
             "size": 1,
             "unicode": "03"
@@ -36,6 +41,11 @@
             "label": "南",
             "size": 1,
             "unicode": "09"
+        },
+        {
+            "label": "例",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "尚",
@@ -98,6 +108,11 @@
             "unicode": "02"
         },
         {
+            "label": "和",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "職",
             "size": 1,
             "unicode": "18"
@@ -128,6 +143,6 @@
             "unicode": "06"
         }
     ],
-    "size": 25,
-    "total": 26
+    "size": 28,
+    "total": 29
 }

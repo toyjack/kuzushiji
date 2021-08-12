@@ -53,6 +53,11 @@
             "unicode": "06"
         },
         {
+            "label": "老",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "月",
             "size": 1,
             "unicode": "04"
@@ -63,9 +68,24 @@
             "unicode": "02"
         },
         {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "し",
             "size": 3,
             "unicode": ""
+        },
+        {
+            "label": "報",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
+            "label": "別",
+            "size": 2,
+            "unicode": "07"
         },
         {
             "label": "ら",
@@ -93,6 +113,11 @@
             "unicode": ""
         },
         {
+            "label": "平",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "節",
             "size": 1,
             "unicode": "13"
@@ -106,6 +131,11 @@
             "label": "せ",
             "size": 3,
             "unicode": ""
+        },
+        {
+            "label": "頼",
+            "size": 1,
+            "unicode": "16"
         },
         {
             "label": "酒",
@@ -126,6 +156,11 @@
             "label": "ニ",
             "size": 10,
             "unicode": ""
+        },
+        {
+            "label": "分",
+            "size": 2,
+            "unicode": "04"
         },
         {
             "label": "懸",
@@ -193,6 +228,11 @@
             "unicode": ""
         },
         {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "足",
             "size": 1,
             "unicode": "07"
@@ -206,6 +246,11 @@
             "label": "書",
             "size": 1,
             "unicode": "10"
+        },
+        {
+            "label": "面",
+            "size": 1,
+            "unicode": "09"
         },
         {
             "label": "躰",
@@ -238,6 +283,16 @@
             "unicode": "09"
         },
         {
+            "label": "奉",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "目",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "御",
             "size": 22,
             "unicode": "12"
@@ -268,6 +323,11 @@
             "unicode": ""
         },
         {
+            "label": "様",
+            "size": 2,
+            "unicode": "14"
+        },
+        {
             "label": "貴",
             "size": 2,
             "unicode": "12"
@@ -296,6 +356,11 @@
             "label": "豆",
             "size": 1,
             "unicode": "07"
+        },
+        {
+            "label": "聞",
+            "size": 2,
+            "unicode": "14"
         },
         {
             "label": "為",
@@ -331,6 +396,11 @@
             "label": "大",
             "size": 1,
             "unicode": "03"
+        },
+        {
+            "label": "礼",
+            "size": 3,
+            "unicode": "05"
         },
         {
             "label": "宜",
@@ -370,6 +440,11 @@
         {
             "label": "以",
             "size": 3,
+            "unicode": "05"
+        },
+        {
+            "label": "由",
+            "size": 1,
             "unicode": "05"
         },
         {
@@ -463,9 +538,19 @@
             "unicode": "12"
         },
         {
+            "label": "文",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "ん",
             "size": 1,
             "unicode": ""
+        },
+        {
+            "label": "万",
+            "size": 1,
+            "unicode": "03"
         },
         {
             "label": "き",
@@ -476,6 +561,11 @@
             "label": "悦",
             "size": 1,
             "unicode": "10"
+        },
+        {
+            "label": "満",
+            "size": 1,
+            "unicode": "12"
         },
         {
             "label": "則",
@@ -573,6 +663,6 @@
             "unicode": "06"
         }
     ],
-    "size": 114,
-    "total": 231
+    "size": 132,
+    "total": 255
 }

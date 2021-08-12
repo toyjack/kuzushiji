@@ -28,9 +28,24 @@
             "unicode": "04"
         },
         {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "早",
             "size": 2,
             "unicode": "06"
+        },
+        {
+            "label": "留",
+            "size": 1,
+            "unicode": "10"
+        },
+        {
+            "label": "平",
+            "size": 2,
+            "unicode": "05"
         },
         {
             "label": "院",
@@ -133,9 +148,24 @@
             "unicode": "05"
         },
         {
+            "label": "由",
+            "size": 2,
+            "unicode": "05"
+        },
+        {
             "label": "頭",
             "size": 1,
             "unicode": "16"
+        },
+        {
+            "label": "令",
+            "size": 3,
+            "unicode": "05"
+        },
+        {
+            "label": "門",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "内",
@@ -158,6 +188,11 @@
             "unicode": "10"
         },
         {
+            "label": "文",
+            "size": 2,
+            "unicode": "04"
+        },
+        {
             "label": "出",
             "size": 2,
             "unicode": "05"
@@ -178,6 +213,11 @@
             "unicode": "05"
         },
         {
+            "label": "妨",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "武",
             "size": 1,
             "unicode": "08"
@@ -191,6 +231,11 @@
             "label": "下",
             "size": 4,
             "unicode": "03"
+        },
+        {
+            "label": "濫",
+            "size": 1,
+            "unicode": "18"
         },
         {
             "label": "右",
@@ -218,6 +263,6 @@
             "unicode": "06"
         }
     ],
-    "size": 43,
-    "total": 58
+    "size": 52,
+    "total": 72
 }

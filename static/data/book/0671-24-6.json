@@ -38,9 +38,19 @@
             "unicode": "02"
         },
         {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "し",
             "size": 16,
             "unicode": ""
+        },
+        {
+            "label": "別",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "ら",
@@ -76,6 +86,11 @@
             "label": "ニ",
             "size": 15,
             "unicode": ""
+        },
+        {
+            "label": "分",
+            "size": 3,
+            "unicode": "04"
         },
         {
             "label": "家",
@@ -168,6 +183,11 @@
             "unicode": ""
         },
         {
+            "label": "目",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "に",
             "size": 12,
             "unicode": ""
@@ -191,6 +211,11 @@
             "label": "ま",
             "size": 5,
             "unicode": ""
+        },
+        {
+            "label": "様",
+            "size": 4,
+            "unicode": "14"
         },
         {
             "label": "故",
@@ -338,6 +363,11 @@
             "unicode": ""
         },
         {
+            "label": "無",
+            "size": 2,
+            "unicode": "12"
+        },
+        {
             "label": "被",
             "size": 2,
             "unicode": "10"
@@ -448,6 +478,6 @@
             "unicode": ""
         }
     ],
-    "size": 89,
-    "total": 417
+    "size": 95,
+    "total": 429
 }

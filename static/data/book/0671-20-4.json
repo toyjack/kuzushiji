@@ -158,6 +158,11 @@
             "unicode": ""
         },
         {
+            "label": "目",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "に",
             "size": 10,
             "unicode": ""
@@ -298,6 +303,11 @@
             "unicode": "05"
         },
         {
+            "label": "和",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "き",
             "size": 11,
             "unicode": ""
@@ -383,6 +393,6 @@
             "unicode": "02"
         }
     ],
-    "size": 76,
-    "total": 342
+    "size": 78,
+    "total": 344
 }

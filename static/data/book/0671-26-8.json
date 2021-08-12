@@ -13,6 +13,11 @@
             "unicode": "03"
         },
         {
+            "label": "来",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "や",
             "size": 1,
             "unicode": ""
@@ -51,6 +56,11 @@
             "label": "よ",
             "size": 1,
             "unicode": ""
+        },
+        {
+            "label": "味",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "月",
@@ -106,6 +116,11 @@
             "label": "尚",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "分",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "家",
@@ -188,9 +203,19 @@
             "unicode": "04"
         },
         {
+            "label": "本",
+            "size": 2,
+            "unicode": "05"
+        },
+        {
             "label": "残",
             "size": 2,
             "unicode": "10"
+        },
+        {
+            "label": "目",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "御",
@@ -278,6 +303,11 @@
             "unicode": "05"
         },
         {
+            "label": "由",
+            "size": 3,
+            "unicode": "05"
+        },
+        {
             "label": "参",
             "size": 1,
             "unicode": "08"
@@ -358,6 +388,11 @@
             "unicode": "15"
         },
         {
+            "label": "無",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "太",
             "size": 1,
             "unicode": "04"
@@ -381,6 +416,11 @@
             "label": "過",
             "size": 1,
             "unicode": "12"
+        },
+        {
+            "label": "万",
+            "size": 1,
+            "unicode": "03"
         },
         {
             "label": "塩",
@@ -426,6 +466,11 @@
             "label": "上",
             "size": 3,
             "unicode": "03"
+        },
+        {
+            "label": "猶",
+            "size": 1,
+            "unicode": "12"
         },
         {
             "label": "候",
@@ -478,6 +523,6 @@
             "unicode": "02"
         }
     ],
-    "size": 95,
-    "total": 154
+    "size": 104,
+    "total": 166
 }

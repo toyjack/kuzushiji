@@ -73,6 +73,11 @@
             "unicode": "12"
         },
         {
+            "label": "分",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "進",
             "size": 1,
             "unicode": "11"
@@ -106,6 +111,11 @@
             "label": "も",
             "size": 1,
             "unicode": ""
+        },
+        {
+            "label": "米",
+            "size": 1,
+            "unicode": "06"
         },
         {
             "label": "中",
@@ -146,6 +156,11 @@
             "label": "脚",
             "size": 1,
             "unicode": "11"
+        },
+        {
+            "label": "兵",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "不",
@@ -206,6 +221,11 @@
             "label": "た",
             "size": 1,
             "unicode": ""
+        },
+        {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "殿",
@@ -288,6 +308,6 @@
             "unicode": "04"
         }
     ],
-    "size": 57,
-    "total": 71
+    "size": 61,
+    "total": 75
 }

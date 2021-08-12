@@ -28,6 +28,11 @@
             "unicode": "04"
         },
         {
+            "label": "分",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "四",
             "size": 1,
             "unicode": "05"
@@ -36,6 +41,16 @@
             "label": "性",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "名",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
+            "label": "本",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "勤",
@@ -88,11 +103,16 @@
             "unicode": "06"
         },
         {
+            "label": "理",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "八",
             "size": 2,
             "unicode": "02"
         }
     ],
-    "size": 18,
-    "total": 19
+    "size": 22,
+    "total": 23
 }

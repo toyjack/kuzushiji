@@ -33,7 +33,17 @@
             "unicode": "09"
         },
         {
+            "label": "法",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "念",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "門",
             "size": 1,
             "unicode": "08"
         },
@@ -48,6 +58,11 @@
             "unicode": "06"
         },
         {
+            "label": "和",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "久",
             "size": 1,
             "unicode": "03"
@@ -58,6 +73,6 @@
             "unicode": "06"
         }
     ],
-    "size": 11,
-    "total": 11
+    "size": 14,
+    "total": 14
 }

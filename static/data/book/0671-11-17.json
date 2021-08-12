@@ -188,6 +188,11 @@
             "unicode": ""
         },
         {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "う",
             "size": 16,
             "unicode": ""
@@ -258,6 +263,6 @@
             "unicode": "02"
         }
     ],
-    "size": 51,
-    "total": 232
+    "size": 52,
+    "total": 233
 }

@@ -33,6 +33,11 @@
             "unicode": "04"
         },
         {
+            "label": "役",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "日",
             "size": 1,
             "unicode": "04"
@@ -43,6 +48,11 @@
             "unicode": "12"
         },
         {
+            "label": "分",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "普",
             "size": 1,
             "unicode": "12"
@@ -51,6 +61,11 @@
             "label": "年",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "免",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "七",
@@ -73,6 +88,11 @@
             "unicode": "07"
         },
         {
+            "label": "郎",
+            "size": 2,
+            "unicode": "09"
+        },
+        {
             "label": "次",
             "size": 1,
             "unicode": "06"
@@ -91,6 +111,11 @@
             "label": "但",
             "size": 1,
             "unicode": "07"
+        },
+        {
+            "label": "奉",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "御",
@@ -123,6 +148,11 @@
             "unicode": "03"
         },
         {
+            "label": "用",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "所",
             "size": 1,
             "unicode": "08"
@@ -131,6 +161,11 @@
             "label": "者",
             "size": 3,
             "unicode": "08"
+        },
+        {
+            "label": "兵",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "不",
@@ -208,6 +243,6 @@
             "unicode": "06"
         }
     ],
-    "size": 41,
-    "total": 51
+    "size": 48,
+    "total": 59
 }

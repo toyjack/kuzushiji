@@ -53,6 +53,11 @@
             "unicode": "02"
         },
         {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "加",
             "size": 1,
             "unicode": "05"
@@ -68,6 +73,11 @@
             "unicode": ""
         },
         {
+            "label": "野",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "気",
             "size": 1,
             "unicode": "06"
@@ -76,6 +86,16 @@
             "label": "日",
             "size": 2,
             "unicode": "04"
+        },
+        {
+            "label": "利",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
+            "label": "頼",
+            "size": 1,
+            "unicode": "16"
         },
         {
             "label": "五",
@@ -109,6 +129,11 @@
         },
         {
             "label": "負",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
+            "label": "柳",
             "size": 1,
             "unicode": "09"
         },
@@ -153,6 +178,11 @@
             "unicode": "04"
         },
         {
+            "label": "目",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "斎",
             "size": 1,
             "unicode": "11"
@@ -183,6 +213,11 @@
             "unicode": "18"
         },
         {
+            "label": "様",
+            "size": 1,
+            "unicode": "14"
+        },
+        {
             "label": "い",
             "size": 2,
             "unicode": ""
@@ -208,6 +243,11 @@
             "unicode": "12"
         },
         {
+            "label": "兵",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "白",
             "size": 1,
             "unicode": "05"
@@ -218,6 +258,11 @@
             "unicode": "07"
         },
         {
+            "label": "録",
+            "size": 1,
+            "unicode": "16"
+        },
+        {
             "label": "忠",
             "size": 1,
             "unicode": "08"
@@ -225,6 +270,11 @@
         {
             "label": "主",
             "size": 2,
+            "unicode": "05"
+        },
+        {
+            "label": "由",
+            "size": 3,
             "unicode": "05"
         },
         {
@@ -298,6 +348,11 @@
             "unicode": "15"
         },
         {
+            "label": "無",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "被",
             "size": 1,
             "unicode": "10"
@@ -348,6 +403,11 @@
             "unicode": "03"
         },
         {
+            "label": "母",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "候",
             "size": 7,
             "unicode": "10"
@@ -383,6 +443,6 @@
             "unicode": "04"
         }
     ],
-    "size": 76,
-    "total": 117
+    "size": 88,
+    "total": 131
 }

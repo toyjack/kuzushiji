@@ -28,6 +28,16 @@
             "unicode": "04"
         },
         {
+            "label": "立",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "永",
             "size": 1,
             "unicode": "05"
@@ -61,6 +71,11 @@
             "label": "ニ",
             "size": 4,
             "unicode": ""
+        },
+        {
+            "label": "茂",
+            "size": 2,
+            "unicode": "08"
         },
         {
             "label": "年",
@@ -98,6 +113,11 @@
             "unicode": "10"
         },
         {
+            "label": "面",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
             "label": "披",
             "size": 1,
             "unicode": "08"
@@ -128,6 +148,11 @@
             "unicode": "12"
         },
         {
+            "label": "両",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "存",
             "size": 1,
             "unicode": "06"
@@ -141,6 +166,11 @@
             "label": "事",
             "size": 3,
             "unicode": "08"
+        },
+        {
+            "label": "様",
+            "size": 2,
+            "unicode": "14"
         },
         {
             "label": "貴",
@@ -183,9 +213,19 @@
             "unicode": "04"
         },
         {
+            "label": "由",
+            "size": 2,
+            "unicode": "05"
+        },
+        {
             "label": "安",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "越",
@@ -228,6 +268,11 @@
             "unicode": "05"
         },
         {
+            "label": "無",
+            "size": 2,
+            "unicode": "12"
+        },
+        {
             "label": "我",
             "size": 1,
             "unicode": "07"
@@ -238,9 +283,19 @@
             "unicode": "12"
         },
         {
+            "label": "又",
+            "size": 1,
+            "unicode": "02"
+        },
+        {
             "label": "述",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "猶",
+            "size": 2,
+            "unicode": "12"
         },
         {
             "label": "冬",
@@ -268,6 +323,6 @@
             "unicode": "05"
         }
     ],
-    "size": 53,
-    "total": 73
+    "size": 64,
+    "total": 89
 }

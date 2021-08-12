@@ -83,6 +83,11 @@
             "unicode": ""
         },
         {
+            "label": "平",
+            "size": 2,
+            "unicode": "05"
+        },
+        {
             "label": "日",
             "size": 2,
             "unicode": "04"
@@ -133,6 +138,16 @@
             "unicode": ""
         },
         {
+            "label": "弥",
+            "size": 3,
+            "unicode": "08"
+        },
+        {
+            "label": "名",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "沙",
             "size": 4,
             "unicode": "07"
@@ -151,6 +166,11 @@
             "label": "そ",
             "size": 3,
             "unicode": ""
+        },
+        {
+            "label": "良",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "け",
@@ -221,6 +241,11 @@
             "label": "大",
             "size": 1,
             "unicode": "03"
+        },
+        {
+            "label": "法",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "む",
@@ -338,6 +363,11 @@
             "unicode": ""
         },
         {
+            "label": "又",
+            "size": 1,
+            "unicode": "02"
+        },
+        {
             "label": "は",
             "size": 2,
             "unicode": ""
@@ -373,6 +403,6 @@
             "unicode": ""
         }
     ],
-    "size": 74,
-    "total": 242
+    "size": 80,
+    "total": 251
 }

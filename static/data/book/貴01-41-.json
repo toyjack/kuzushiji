@@ -23,6 +23,11 @@
             "unicode": "04"
         },
         {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "早",
             "size": 1,
             "unicode": "06"
@@ -81,6 +86,11 @@
             "label": "如",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "用",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "相",
@@ -153,6 +163,6 @@
             "unicode": "02"
         }
     ],
-    "size": 30,
-    "total": 35
+    "size": 32,
+    "total": 37
 }

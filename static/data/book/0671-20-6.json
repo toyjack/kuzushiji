@@ -153,6 +153,11 @@
             "unicode": ""
         },
         {
+            "label": "用",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "心",
             "size": 2,
             "unicode": "04"
@@ -203,6 +208,11 @@
             "unicode": ""
         },
         {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "う",
             "size": 5,
             "unicode": ""
@@ -243,6 +253,11 @@
             "unicode": "03"
         },
         {
+            "label": "猶",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "候",
             "size": 15,
             "unicode": "10"
@@ -268,6 +283,6 @@
             "unicode": ""
         }
     ],
-    "size": 53,
-    "total": 210
+    "size": 56,
+    "total": 213
 }

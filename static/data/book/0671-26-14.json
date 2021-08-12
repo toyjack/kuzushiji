@@ -73,6 +73,11 @@
             "unicode": ""
         },
         {
+            "label": "分",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "能",
             "size": 1,
             "unicode": "10"
@@ -86,6 +91,11 @@
             "label": "腹",
             "size": 1,
             "unicode": "13"
+        },
+        {
+            "label": "弥",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "申",
@@ -263,6 +273,11 @@
             "unicode": "09"
         },
         {
+            "label": "練",
+            "size": 1,
+            "unicode": "14"
+        },
+        {
             "label": "快",
             "size": 1,
             "unicode": "07"
@@ -283,6 +298,6 @@
             "unicode": "06"
         }
     ],
-    "size": 56,
-    "total": 72
+    "size": 59,
+    "total": 75
 }

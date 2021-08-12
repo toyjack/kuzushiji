@@ -138,9 +138,19 @@
             "unicode": ""
         },
         {
+            "label": "辺",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "御",
             "size": 1,
             "unicode": "12"
+        },
+        {
+            "label": "様",
+            "size": 2,
+            "unicode": "14"
         },
         {
             "label": "然",
@@ -151,6 +161,11 @@
             "label": "彼",
             "size": 2,
             "unicode": "08"
+        },
+        {
+            "label": "用",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "者",
@@ -263,6 +278,11 @@
             "unicode": "02"
         },
         {
+            "label": "万",
+            "size": 1,
+            "unicode": "03"
+        },
+        {
             "label": "悦",
             "size": 1,
             "unicode": "10"
@@ -276,6 +296,11 @@
             "label": "晴",
             "size": 1,
             "unicode": "12"
+        },
+        {
+            "label": "又",
+            "size": 2,
+            "unicode": "02"
         },
         {
             "label": "上",
@@ -328,6 +353,6 @@
             "unicode": "05"
         }
     ],
-    "size": 65,
-    "total": 79
+    "size": 70,
+    "total": 86
 }

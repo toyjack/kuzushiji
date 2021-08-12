@@ -13,6 +13,11 @@
             "unicode": ""
         },
         {
+            "label": "露",
+            "size": 1,
+            "unicode": "20"
+        },
+        {
             "label": "し",
             "size": 10,
             "unicode": ""
@@ -143,6 +148,11 @@
             "unicode": ""
         },
         {
+            "label": "門",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "ろ",
             "size": 2,
             "unicode": ""
@@ -188,6 +198,6 @@
             "unicode": ""
         }
     ],
-    "size": 37,
-    "total": 78
+    "size": 39,
+    "total": 80
 }

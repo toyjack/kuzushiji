@@ -13,6 +13,11 @@
             "unicode": "03"
         },
         {
+            "label": "保",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
             "label": "遺",
             "size": 1,
             "unicode": "15"
@@ -21,6 +26,11 @@
             "label": "月",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "別",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "へ",
@@ -36,6 +46,11 @@
             "label": "年",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "領",
+            "size": 1,
+            "unicode": "14"
         },
         {
             "label": "左",
@@ -93,6 +108,11 @@
             "unicode": "04"
         },
         {
+            "label": "門",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "嶋",
             "size": 1,
             "unicode": "14"
@@ -111,6 +131,11 @@
             "label": "在",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "亡",
+            "size": 1,
+            "unicode": "03"
         },
         {
             "label": "の",
@@ -133,6 +158,6 @@
             "unicode": "02"
         }
     ],
-    "size": 26,
-    "total": 28
+    "size": 31,
+    "total": 33
 }

@@ -98,6 +98,11 @@
             "unicode": ""
         },
         {
+            "label": "平",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "日",
             "size": 1,
             "unicode": "04"
@@ -133,6 +138,11 @@
             "unicode": "12"
         },
         {
+            "label": "弥",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "沙",
             "size": 2,
             "unicode": "07"
@@ -146,6 +156,11 @@
             "label": "も",
             "size": 2,
             "unicode": ""
+        },
+        {
+            "label": "郎",
+            "size": 1,
+            "unicode": "09"
         },
         {
             "label": "そ",
@@ -283,6 +298,11 @@
             "unicode": ""
         },
         {
+            "label": "和",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "き",
             "size": 5,
             "unicode": ""
@@ -296,6 +316,11 @@
             "label": "の",
             "size": 12,
             "unicode": ""
+        },
+        {
+            "label": "又",
+            "size": 1,
+            "unicode": "02"
         },
         {
             "label": "右",
@@ -348,6 +373,6 @@
             "unicode": "02"
         }
     ],
-    "size": 69,
-    "total": 234
+    "size": 74,
+    "total": 239
 }

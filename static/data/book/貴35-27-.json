@@ -23,6 +23,11 @@
             "unicode": "07"
         },
         {
+            "label": "惑",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "へ",
             "size": 1,
             "unicode": ""
@@ -83,6 +88,11 @@
             "unicode": "13"
         },
         {
+            "label": "面",
+            "size": 2,
+            "unicode": "09"
+        },
+        {
             "label": "得",
             "size": 2,
             "unicode": "11"
@@ -91,6 +101,16 @@
             "label": "次",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "本",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
+            "label": "目",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "御",
@@ -113,6 +133,11 @@
             "unicode": "07"
         },
         {
+            "label": "様",
+            "size": 1,
+            "unicode": "14"
+        },
+        {
             "label": "如",
             "size": 1,
             "unicode": "06"
@@ -131,6 +156,11 @@
             "label": "将",
             "size": 1,
             "unicode": "10"
+        },
+        {
+            "label": "迷",
+            "size": 1,
+            "unicode": "09"
         },
         {
             "label": "堂",
@@ -176,6 +206,11 @@
             "label": "内",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "無",
+            "size": 2,
+            "unicode": "12"
         },
         {
             "label": "被",
@@ -238,6 +273,6 @@
             "unicode": "10"
         }
     ],
-    "size": 47,
-    "total": 74
+    "size": 54,
+    "total": 83
 }

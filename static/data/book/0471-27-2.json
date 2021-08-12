@@ -8,6 +8,11 @@
             "unicode": "02"
         },
         {
+            "label": "務",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "状",
             "size": 2,
             "unicode": "07"
@@ -23,9 +28,19 @@
             "unicode": "02"
         },
         {
+            "label": "保",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
             "label": "月",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
         },
         {
             "label": "造",
@@ -43,6 +58,11 @@
             "unicode": "05"
         },
         {
+            "label": "模",
+            "size": 1,
+            "unicode": "14"
+        },
+        {
             "label": "達",
             "size": 1,
             "unicode": "12"
@@ -51,6 +71,11 @@
             "label": "日",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "例",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "等",
@@ -101,6 +126,11 @@
             "label": "書",
             "size": 1,
             "unicode": "10"
+        },
+        {
+            "label": "良",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "御",
@@ -173,6 +203,11 @@
             "unicode": "05"
         },
         {
+            "label": "由",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "守",
             "size": 3,
             "unicode": "06"
@@ -208,6 +243,11 @@
             "unicode": "06"
         },
         {
+            "label": "陸",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "致",
             "size": 1,
             "unicode": "10"
@@ -233,9 +273,19 @@
             "unicode": "18"
         },
         {
+            "label": "妨",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "下",
             "size": 2,
             "unicode": "03"
+        },
+        {
+            "label": "濫",
+            "size": 1,
+            "unicode": "18"
         },
         {
             "label": "総",
@@ -298,6 +348,6 @@
             "unicode": "08"
         }
     ],
-    "size": 59,
-    "total": 76
+    "size": 69,
+    "total": 86
 }

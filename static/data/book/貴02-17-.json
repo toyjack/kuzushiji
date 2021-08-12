@@ -3,6 +3,11 @@
     "label": "飛鳥井雅縁譲状",
     "list": [
         {
+            "label": "明",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "譲",
             "size": 2,
             "unicode": "20"
@@ -43,6 +48,11 @@
             "unicode": "09"
         },
         {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "加",
             "size": 1,
             "unicode": "05"
@@ -56,6 +66,11 @@
             "label": "日",
             "size": 1,
             "unicode": "04"
+        },
+        {
+            "label": "路",
+            "size": 1,
+            "unicode": "13"
         },
         {
             "label": "小",
@@ -123,6 +138,11 @@
             "unicode": "04"
         },
         {
+            "label": "本",
+            "size": 2,
+            "unicode": "05"
+        },
+        {
             "label": "同",
             "size": 3,
             "unicode": "06"
@@ -151,6 +171,11 @@
             "label": "如",
             "size": 2,
             "unicode": "06"
+        },
+        {
+            "label": "与",
+            "size": 2,
+            "unicode": "03"
         },
         {
             "label": "所",
@@ -233,6 +258,11 @@
             "unicode": "08"
         },
         {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "田",
             "size": 1,
             "unicode": "05"
@@ -273,6 +303,11 @@
             "unicode": "10"
         },
         {
+            "label": "文",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "訴",
             "size": 1,
             "unicode": "12"
@@ -283,7 +318,22 @@
             "unicode": "06"
         },
         {
+            "label": "和",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "万",
+            "size": 1,
+            "unicode": "03"
+        },
+        {
             "label": "村",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
+            "label": "妨",
             "size": 1,
             "unicode": "07"
         },
@@ -348,6 +398,6 @@
             "unicode": "08"
         }
     ],
-    "size": 69,
-    "total": 106
+    "size": 79,
+    "total": 118
 }

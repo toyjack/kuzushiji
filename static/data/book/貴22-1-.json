@@ -38,6 +38,11 @@
             "unicode": "04"
         },
         {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "承",
             "size": 1,
             "unicode": "08"
@@ -46,6 +51,11 @@
             "label": "義",
             "size": 1,
             "unicode": "13"
+        },
+        {
+            "label": "隆",
+            "size": 1,
+            "unicode": "11"
         },
         {
             "label": "日",
@@ -88,6 +98,11 @@
             "unicode": "13"
         },
         {
+            "label": "本",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "同",
             "size": 1,
             "unicode": "06"
@@ -121,6 +136,11 @@
             "label": "数",
             "size": 1,
             "unicode": "13"
+        },
+        {
+            "label": "没",
+            "size": 1,
+            "unicode": "07"
         },
         {
             "label": "謹",
@@ -158,6 +178,16 @@
             "unicode": "10"
         },
         {
+            "label": "捕",
+            "size": 1,
+            "unicode": "10"
+        },
+        {
+            "label": "落",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "十",
             "size": 1,
             "unicode": "02"
@@ -171,6 +201,11 @@
             "label": "重",
             "size": 1,
             "unicode": "09"
+        },
+        {
+            "label": "猶",
+            "size": 1,
+            "unicode": "12"
         },
         {
             "label": "戦",
@@ -198,6 +233,6 @@
             "unicode": "02"
         }
     ],
-    "size": 39,
-    "total": 44
+    "size": 46,
+    "total": 51
 }

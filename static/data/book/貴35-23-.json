@@ -33,6 +33,11 @@
             "unicode": "02"
         },
         {
+            "label": "有",
+            "size": 2,
+            "unicode": "06"
+        },
+        {
             "label": "承",
             "size": 1,
             "unicode": "08"
@@ -46,6 +51,11 @@
             "label": "院",
             "size": 1,
             "unicode": "10"
+        },
+        {
+            "label": "物",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "水",
@@ -78,6 +88,11 @@
             "unicode": "08"
         },
         {
+            "label": "免",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "慶",
             "size": 1,
             "unicode": "15"
@@ -86,6 +101,11 @@
             "label": "行",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "弥",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "申",
@@ -143,6 +163,16 @@
             "unicode": "03"
         },
         {
+            "label": "奉",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "目",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "御",
             "size": 13,
             "unicode": "12"
@@ -151,6 +181,11 @@
             "label": "事",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "様",
+            "size": 4,
+            "unicode": "14"
         },
         {
             "label": "故",
@@ -214,6 +249,11 @@
         },
         {
             "label": "以",
+            "size": 2,
+            "unicode": "05"
+        },
+        {
+            "label": "由",
             "size": 2,
             "unicode": "05"
         },
@@ -328,6 +368,6 @@
             "unicode": "08"
         }
     ],
-    "size": 65,
-    "total": 107
+    "size": 73,
+    "total": 120
 }

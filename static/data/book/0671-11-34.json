@@ -58,9 +58,19 @@
             "unicode": "03"
         },
         {
+            "label": "名",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "左",
             "size": 1,
             "unicode": "05"
+        },
+        {
+            "label": "郎",
+            "size": 5,
+            "unicode": "09"
         },
         {
             "label": "中",
@@ -133,6 +143,11 @@
             "unicode": "05"
         },
         {
+            "label": "六",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "太",
             "size": 1,
             "unicode": "04"
@@ -143,6 +158,11 @@
             "unicode": "10"
         },
         {
+            "label": "文",
+            "size": 2,
+            "unicode": "04"
+        },
+        {
             "label": "十",
             "size": 1,
             "unicode": "02"
@@ -151,6 +171,11 @@
             "label": "吉",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "摩",
+            "size": 1,
+            "unicode": "15"
         },
         {
             "label": "在",
@@ -168,6 +193,11 @@
             "unicode": "10"
         },
         {
+            "label": "又",
+            "size": 1,
+            "unicode": "02"
+        },
+        {
             "label": "右",
             "size": 1,
             "unicode": "05"
@@ -181,6 +211,11 @@
             "label": "九",
             "size": 1,
             "unicode": "02"
+        },
+        {
+            "label": "房",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "国",
@@ -198,6 +233,6 @@
             "unicode": "08"
         }
     ],
-    "size": 39,
-    "total": 60
+    "size": 46,
+    "total": 72
 }

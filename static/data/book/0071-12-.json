@@ -93,6 +93,11 @@
             "unicode": "02"
         },
         {
+            "label": "有",
+            "size": 2,
+            "unicode": "06"
+        },
+        {
             "label": "し",
             "size": 11,
             "unicode": ""
@@ -133,6 +138,11 @@
             "unicode": ""
         },
         {
+            "label": "物",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "五",
             "size": 3,
             "unicode": "04"
@@ -151,6 +161,11 @@
             "label": "ニ",
             "size": 3,
             "unicode": ""
+        },
+        {
+            "label": "分",
+            "size": 2,
+            "unicode": "04"
         },
         {
             "label": "姓",
@@ -183,6 +198,11 @@
             "unicode": "08"
         },
         {
+            "label": "免",
+            "size": 2,
+            "unicode": "08"
+        },
+        {
             "label": "性",
             "size": 1,
             "unicode": "08"
@@ -208,6 +228,11 @@
             "unicode": ""
         },
         {
+            "label": "名",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "度",
             "size": 1,
             "unicode": "09"
@@ -231,6 +256,16 @@
             "label": "も",
             "size": 9,
             "unicode": ""
+        },
+        {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
+            "label": "米",
+            "size": 2,
+            "unicode": "06"
         },
         {
             "label": "納",
@@ -271,6 +306,16 @@
             "label": "わ",
             "size": 2,
             "unicode": ""
+        },
+        {
+            "label": "奉",
+            "size": 2,
+            "unicode": "08"
+        },
+        {
+            "label": "目",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "に",
@@ -323,6 +368,11 @@
             "unicode": "06"
         },
         {
+            "label": "用",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "貢",
             "size": 1,
             "unicode": "10"
@@ -341,6 +391,11 @@
             "label": "者",
             "size": 4,
             "unicode": "08"
+        },
+        {
+            "label": "聞",
+            "size": 2,
+            "unicode": "14"
         },
         {
             "label": "為",
@@ -394,6 +449,11 @@
         },
         {
             "label": "条",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
+            "label": "返",
             "size": 1,
             "unicode": "07"
         },
@@ -463,6 +523,11 @@
             "unicode": "08"
         },
         {
+            "label": "門",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "高",
             "size": 2,
             "unicode": "10"
@@ -493,9 +558,19 @@
             "unicode": ""
         },
         {
+            "label": "無",
+            "size": 2,
+            "unicode": "12"
+        },
+        {
             "label": "被",
             "size": 1,
             "unicode": "10"
+        },
+        {
+            "label": "油",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "定",
@@ -518,6 +593,11 @@
             "unicode": "05"
         },
         {
+            "label": "預",
+            "size": 2,
+            "unicode": "13"
+        },
+        {
             "label": "代",
             "size": 4,
             "unicode": "05"
@@ -526,6 +606,11 @@
             "label": "在",
             "size": 3,
             "unicode": "06"
+        },
+        {
+            "label": "万",
+            "size": 1,
+            "unicode": "03"
         },
         {
             "label": "き",
@@ -628,6 +713,11 @@
             "unicode": ""
         },
         {
+            "label": "木",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "付",
             "size": 6,
             "unicode": "05"
@@ -648,6 +738,6 @@
             "unicode": "02"
         }
     ],
-    "size": 129,
-    "total": 434
+    "size": 147,
+    "total": 460
 }

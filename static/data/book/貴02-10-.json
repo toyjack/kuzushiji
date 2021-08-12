@@ -23,6 +23,11 @@
             "unicode": "04"
         },
         {
+            "label": "頼",
+            "size": 1,
+            "unicode": "16"
+        },
+        {
             "label": "殊",
             "size": 1,
             "unicode": "10"
@@ -68,6 +73,11 @@
             "unicode": "06"
         },
         {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "恐",
             "size": 1,
             "unicode": "10"
@@ -98,6 +108,6 @@
             "unicode": "12"
         }
     ],
-    "size": 19,
-    "total": 19
+    "size": 21,
+    "total": 21
 }

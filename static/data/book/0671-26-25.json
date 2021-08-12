@@ -33,6 +33,11 @@
             "unicode": "04"
         },
         {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "永",
             "size": 1,
             "unicode": "05"
@@ -58,9 +63,19 @@
             "unicode": "04"
         },
         {
+            "label": "茂",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "四",
             "size": 1,
             "unicode": "05"
+        },
+        {
+            "label": "領",
+            "size": 1,
+            "unicode": "14"
         },
         {
             "label": "左",
@@ -71,6 +86,11 @@
             "label": "可",
             "size": 1,
             "unicode": "05"
+        },
+        {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
         },
         {
             "label": "馬",
@@ -86,6 +106,11 @@
             "label": "事",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "与",
+            "size": 1,
+            "unicode": "03"
         },
         {
             "label": "相",
@@ -173,6 +198,6 @@
             "unicode": "02"
         }
     ],
-    "size": 34,
-    "total": 34
+    "size": 39,
+    "total": 39
 }

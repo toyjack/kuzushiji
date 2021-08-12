@@ -8,6 +8,11 @@
             "unicode": ""
         },
         {
+            "label": "来",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "宮",
             "size": 1,
             "unicode": "10"
@@ -53,6 +58,11 @@
             "unicode": ""
         },
         {
+            "label": "分",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "申",
             "size": 7,
             "unicode": "05"
@@ -86,6 +96,16 @@
             "label": "意",
             "size": 2,
             "unicode": "13"
+        },
+        {
+            "label": "面",
+            "size": 1,
+            "unicode": "09"
+        },
+        {
+            "label": "郎",
+            "size": 2,
+            "unicode": "09"
         },
         {
             "label": "得",
@@ -143,6 +163,11 @@
             "unicode": ""
         },
         {
+            "label": "様",
+            "size": 3,
+            "unicode": "14"
+        },
+        {
             "label": "い",
             "size": 1,
             "unicode": ""
@@ -153,9 +178,19 @@
             "unicode": "04"
         },
         {
+            "label": "聞",
+            "size": 1,
+            "unicode": "14"
+        },
+        {
             "label": "と",
             "size": 5,
             "unicode": ""
+        },
+        {
+            "label": "兵",
+            "size": 3,
+            "unicode": "07"
         },
         {
             "label": "不",
@@ -353,6 +388,6 @@
             "unicode": "08"
         }
     ],
-    "size": 70,
-    "total": 177
+    "size": 77,
+    "total": 189
 }

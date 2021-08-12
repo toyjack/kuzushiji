@@ -58,6 +58,11 @@
             "unicode": "04"
         },
         {
+            "label": "利",
+            "size": 1,
+            "unicode": "07"
+        },
+        {
             "label": "近",
             "size": 2,
             "unicode": "07"
@@ -118,9 +123,24 @@
             "unicode": "04"
         },
         {
+            "label": "奉",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
+            "label": "目",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "御",
             "size": 9,
             "unicode": "12"
+        },
+        {
+            "label": "様",
+            "size": 3,
+            "unicode": "14"
         },
         {
             "label": "如",
@@ -173,6 +193,11 @@
             "unicode": "04"
         },
         {
+            "label": "法",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "隠",
             "size": 1,
             "unicode": "14"
@@ -203,9 +228,19 @@
             "unicode": "05"
         },
         {
+            "label": "由",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "守",
             "size": 2,
             "unicode": "06"
+        },
+        {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
         },
         {
             "label": "居",
@@ -258,6 +293,11 @@
             "unicode": "11"
         },
         {
+            "label": "無",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "被",
             "size": 2,
             "unicode": "10"
@@ -276,6 +316,11 @@
             "label": "出",
             "size": 2,
             "unicode": "05"
+        },
+        {
+            "label": "満",
+            "size": 1,
+            "unicode": "12"
         },
         {
             "label": "上",
@@ -318,6 +363,6 @@
             "unicode": "02"
         }
     ],
-    "size": 63,
-    "total": 99
+    "size": 72,
+    "total": 110
 }

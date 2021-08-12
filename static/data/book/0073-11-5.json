@@ -3,9 +3,19 @@
     "label": "三条公忠書状自筆案",
     "list": [
         {
+            "label": "明",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "遣",
             "size": 1,
             "unicode": "13"
+        },
+        {
+            "label": "来",
+            "size": 2,
+            "unicode": "07"
         },
         {
             "label": "言",
@@ -21,6 +31,11 @@
             "label": "月",
             "size": 2,
             "unicode": "04"
+        },
+        {
+            "label": "露",
+            "size": 1,
+            "unicode": "20"
         },
         {
             "label": "給",
@@ -58,9 +73,19 @@
             "unicode": "05"
         },
         {
+            "label": "望",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "申",
             "size": 1,
             "unicode": "05"
+        },
+        {
+            "label": "了",
+            "size": 1,
+            "unicode": "02"
         },
         {
             "label": "可",
@@ -103,6 +128,16 @@
             "unicode": "08"
         },
         {
+            "label": "由",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
+            "label": "令",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "ハ",
             "size": 1,
             "unicode": ""
@@ -111,6 +146,11 @@
             "label": "謹",
             "size": 1,
             "unicode": "17"
+        },
+        {
+            "label": "宝",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "後",
@@ -153,6 +193,11 @@
             "unicode": "05"
         },
         {
+            "label": "又",
+            "size": 1,
+            "unicode": "02"
+        },
+        {
             "label": "候",
             "size": 4,
             "unicode": "10"
@@ -163,6 +208,6 @@
             "unicode": "12"
         }
     ],
-    "size": 32,
-    "total": 41
+    "size": 41,
+    "total": 51
 }

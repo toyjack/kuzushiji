@@ -38,6 +38,11 @@
             "unicode": "02"
         },
         {
+            "label": "有",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "へ",
             "size": 1,
             "unicode": ""
@@ -61,6 +66,11 @@
             "label": "年",
             "size": 1,
             "unicode": "06"
+        },
+        {
+            "label": "免",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "申",
@@ -153,6 +163,11 @@
             "unicode": "06"
         },
         {
+            "label": "和",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "周",
             "size": 1,
             "unicode": "08"
@@ -203,6 +218,11 @@
             "unicode": "15"
         },
         {
+            "label": "理",
+            "size": 1,
+            "unicode": "11"
+        },
+        {
             "label": "寺",
             "size": 2,
             "unicode": "06"
@@ -213,6 +233,6 @@
             "unicode": "09"
         }
     ],
-    "size": 42,
-    "total": 57
+    "size": 46,
+    "total": 61
 }

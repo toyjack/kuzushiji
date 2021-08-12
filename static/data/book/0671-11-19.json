@@ -93,6 +93,11 @@
             "unicode": "06"
         },
         {
+            "label": "料",
+            "size": 1,
+            "unicode": "10"
+        },
+        {
             "label": "時",
             "size": 1,
             "unicode": "10"
@@ -123,6 +128,6 @@
             "unicode": "08"
         }
     ],
-    "size": 24,
-    "total": 25
+    "size": 25,
+    "total": 26
 }

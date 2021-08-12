@@ -63,6 +63,11 @@
             "unicode": "12"
         },
         {
+            "label": "名",
+            "size": 1,
+            "unicode": "06"
+        },
+        {
             "label": "左",
             "size": 1,
             "unicode": "05"
@@ -73,6 +78,11 @@
             "unicode": "05"
         },
         {
+            "label": "方",
+            "size": 1,
+            "unicode": "04"
+        },
+        {
             "label": "夫",
             "size": 1,
             "unicode": "04"
@@ -81,6 +91,11 @@
             "label": "所",
             "size": 1,
             "unicode": "08"
+        },
+        {
+            "label": "聞",
+            "size": 1,
+            "unicode": "14"
         },
         {
             "label": "と",
@@ -163,6 +178,6 @@
             "unicode": "02"
         }
     ],
-    "size": 32,
-    "total": 36
+    "size": 35,
+    "total": 39
 }

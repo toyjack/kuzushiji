@@ -78,6 +78,11 @@
             "unicode": "04"
         },
         {
+            "label": "物",
+            "size": 1,
+            "unicode": "08"
+        },
+        {
             "label": "ニ",
             "size": 1,
             "unicode": ""
@@ -148,9 +153,19 @@
             "unicode": "11"
         },
         {
+            "label": "本",
+            "size": 1,
+            "unicode": "05"
+        },
+        {
             "label": "郡",
             "size": 1,
             "unicode": "10"
+        },
+        {
+            "label": "奉",
+            "size": 1,
+            "unicode": "08"
         },
         {
             "label": "に",
@@ -161,6 +176,11 @@
             "label": "御",
             "size": 1,
             "unicode": "12"
+        },
+        {
+            "label": "両",
+            "size": 1,
+            "unicode": "06"
         },
         {
             "label": "馬",
@@ -218,6 +238,11 @@
             "unicode": "05"
         },
         {
+            "label": "由",
+            "size": 2,
+            "unicode": "05"
+        },
+        {
             "label": "ハ",
             "size": 2,
             "unicode": ""
@@ -253,6 +278,11 @@
             "unicode": "04"
         },
         {
+            "label": "無",
+            "size": 1,
+            "unicode": "12"
+        },
+        {
             "label": "飛",
             "size": 1,
             "unicode": "09"
@@ -266,6 +296,11 @@
             "label": "十",
             "size": 1,
             "unicode": "02"
+        },
+        {
+            "label": "和",
+            "size": 2,
+            "unicode": "08"
         },
         {
             "label": "上",
@@ -303,6 +338,6 @@
             "unicode": "05"
         }
     ],
-    "size": 60,
-    "total": 97
+    "size": 67,
+    "total": 106
 }
