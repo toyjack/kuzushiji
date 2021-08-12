@@ -1,0 +1,12 @@
+{
+  "name": "東京大学史料編纂所くずし字データセット",
+  "short_name": "くずし字",
+  "description": "東京大学史料編纂所のくずし字データセットのプロトタイプシステムです。",
+  "icons": [],
+  "start_url": "/kuzushiji/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ja",
+  "orientation": "portrait"
+}
