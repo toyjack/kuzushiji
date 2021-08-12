@@ -91,7 +91,7 @@
 import { Vue, Component, Watch } from 'nuxt-property-decorator'
 import axios from 'axios'
 
-const randRange = (min, max) => Math.floor(Math.random() * (max - min + 1) + min);
+const randRange = (min: number, max: number) => Math.floor(Math.random() * (max - min + 1) + min);
 
 @Component({})
 export default class about extends Vue {
@@ -99,7 +99,7 @@ export default class about extends Vue {
 
   baseUrl: any = process.env.BASE_URL
 
-  q: string = ""
+  q: any = ""
 
   items: any[] = []
 
