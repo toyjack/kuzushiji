@@ -3,14 +3,14 @@
     "label": "佐竹義久書状",
     "list": [
         {
+            "code": "U+7FA9",
             "label": "義",
-            "size": 1,
-            "unicode": "13"
+            "size": 1
         },
         {
+            "code": "U+5C31",
             "label": "就",
-            "size": 1,
-            "unicode": "12"
+            "size": 1
         }
     ],
     "size": 2,

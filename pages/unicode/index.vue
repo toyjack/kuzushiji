@@ -12,60 +12,28 @@
     <v-container class="my-5">
       <h2 class="mb-5">{{ title }}</h2>
 
-      <h3>データセットの統計情報</h3>
-
-      <p>
-        データセットに含まれる文字種を、頻度順文字種リストまたはコード順文字種リストで一覧できます。くずし字の一つ一つの文字の形の違いだけでなく、くずし字の元となる字母の違いによる異体字のバリエーションなど、実際の字形を画像で確認しながら、くずし字の学習などにご利用ください。文字をクリックすると字形一覧ページに移動します。文字の検索にはブラウザの検索機能を使って下さい。
-      </p>
-
-      <p>
-        なおデータセット全体の統計情報については、くずし字データセット
-        文字種（くずし字）一覧、また検索にはくずし字データベース検索（ひらがな（変体仮名）・カタカナ・漢字）をご利用下さい。
-      </p>
-
-      <p>
-        文字種：{{ items.length.toLocaleString() }} ／ 文字数：{{
-          total.toLocaleString()
-        }}
-      </p>
+      <Static :size="items.length" :total="total" />
 
       <h4 class="mt-10">文字種リスト</h4>
 
-      <v-text-field
-        class="my-10"
-        v-model="search"
-        append-icon="mdi-magnify"
-        label="Search"
-        single-line
-        hide-details
-        filled
-        rounded
-        background-color="grey lighten-2"
-        clear-icon="mdi-close-circle"
-        :clearable="true"
-      ></v-text-field>
+      <div class="text-right">
+        <v-btn
+          v-for="(option, key) in layouts"
+          :key="key"
+          icon
+          @click="layout_ = option.value"
+          ><v-icon :color="layout_ === option.value ? 'primary' : ''">{{
+            option.icon
+          }}</v-icon></v-btn
+        >
+      </div>
 
-      <v-data-table
-        :headers="headers"
-        :items="items"
-        :items-per-page="50"
-        :search="search"
-      >
-        <template v-slot:item.label="{ item }">
-          <nuxt-link
-            :to="
-              localePath({
-                name: 'unicode-id',
-                params: {
-                  id: item.label,
-                },
-              })
-            "
-          >
-            {{ item.label }}
-          </nuxt-link>
-        </template>
-      </v-data-table>
+      <template v-if="layout_ === 'grid'">
+        <List :items="items" />
+      </template>
+      <template v-else>
+        <Table :items="items" />
+      </template>
 
       <!-- <h3>くずし字データセットの書名一覧</h3> -->
     </v-container>
@@ -74,12 +42,19 @@
 <script lang="ts">
 import { Vue, Component } from 'nuxt-property-decorator'
 import axios from 'axios'
+import List from '~/components/kuzushiji/List.vue'
+import Table from '~/components/kuzushiji/Table.vue'
+import Static from '~/components/kuzushiji/Static.vue'
 
-@Component({})
+@Component({
+  components: {
+    List,
+    Table,
+    Static,
+  },
+})
 export default class about extends Vue {
   title: string = 'くずし字データセット 文字種（くずし字）一覧'
-
-  search: string = ''
 
   head() {
     const title = this.title
@@ -88,22 +63,20 @@ export default class about extends Vue {
     }
   }
 
-  items: any = []
-
-  headers: any[] = [
+  layouts: any[] = [
     {
-      text: '文字種',
-      value: 'label',
+      icon: 'mdi-view-grid',
+      value: 'grid',
     },
     {
-      text: '出現回数',
-      value: 'size',
-    },
-    {
-      text: 'コード',
-      value: 'unicode',
+      icon: 'mdi-table',
+      value: 'table',
     },
   ]
+
+  layout_: string = 'grid'
+
+  items: any = []
 
   bh: any[] = [
     {
@@ -124,7 +97,6 @@ export default class about extends Vue {
   async mounted() {
     const res = await axios.get(this.baseUrl + '/data/001_list.json')
     const data = res.data
-    console.log(data)
 
     data.sort(function (a: any, b: any) {
       if (a.size < b.size) return 1
