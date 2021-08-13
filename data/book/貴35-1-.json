@@ -3,76 +3,81 @@
     "label": "真敬艸悼隠元和尚七絶",
     "list": [
         {
+            "code": "U+65E5",
             "label": "日",
-            "size": 1,
-            "unicode": "04"
+            "size": 1
         },
         {
+            "code": "U+6C34",
             "label": "水",
-            "size": 1,
-            "unicode": "04"
+            "size": 1
         },
         {
+            "code": "U+6771",
             "label": "東",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         },
         {
+            "code": "U+5C1A",
             "label": "尚",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         },
         {
+            "code": "U+6B63",
             "label": "正",
-            "size": 1,
-            "unicode": "05"
+            "size": 1
         },
         {
+            "code": "U+70BA",
             "label": "為",
-            "size": 1,
-            "unicode": "09"
+            "size": 1
         },
         {
+            "code": "U+3005",
+            "label": "々",
+            "size": 1
+        },
+        {
+            "code": "U+6CD5",
             "label": "法",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         },
         {
+            "code": "U+5FF5",
             "label": "念",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         },
         {
+            "code": "U+9580",
             "label": "門",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         },
         {
+            "code": "U+6642",
             "label": "時",
-            "size": 1,
-            "unicode": "10"
+            "size": 1
         },
         {
+            "code": "U+5728",
             "label": "在",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         },
         {
+            "code": "U+548C",
             "label": "和",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         },
         {
+            "code": "U+4E45",
             "label": "久",
-            "size": 1,
-            "unicode": "03"
+            "size": 1
         },
         {
+            "code": "U+5BFA",
             "label": "寺",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         }
     ],
-    "size": 14,
-    "total": 14
+    "size": 15,
+    "total": 15
 }

@@ -3,91 +3,101 @@
     "label": "徳川家康自筆小物成状",
     "list": [
         {
+            "code": "U+5584",
             "label": "善",
-            "size": 1,
-            "unicode": "12"
+            "size": 1
         },
         {
+            "code": "U+6708",
             "label": "月",
-            "size": 1,
-            "unicode": "04"
+            "size": 1
         },
         {
+            "code": "U+7269",
             "label": "物",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         },
         {
+            "code": "U+4E5F",
+            "label": "也",
+            "size": 2
+        },
+        {
+            "code": "U+6176",
             "label": "慶",
-            "size": 1,
-            "unicode": "15"
+            "size": 1
         },
         {
+            "code": "U+90CE",
             "label": "郎",
-            "size": 1,
-            "unicode": "09"
+            "size": 1
         },
         {
+            "code": "U+6B63",
             "label": "正",
-            "size": 1,
-            "unicode": "05"
+            "size": 1
         },
         {
+            "code": "U+4E8B",
             "label": "事",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         },
         {
+            "code": "U+5982",
             "label": "如",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         },
         {
+            "code": "U+5DDE",
             "label": "州",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         },
         {
+            "code": "U+516D",
             "label": "六",
-            "size": 1,
-            "unicode": "04"
+            "size": 1
         },
         {
+            "code": "U+77F3",
             "label": "石",
-            "size": 1,
-            "unicode": "05"
+            "size": 1
         },
         {
+            "code": "U+4EF6",
             "label": "件",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         },
         {
+            "code": "U+5341",
             "label": "十",
-            "size": 1,
-            "unicode": "02"
+            "size": 1
         },
         {
+            "code": "U+5409",
             "label": "吉",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         },
         {
+            "code": "U+4E5D",
             "label": "九",
-            "size": 1,
-            "unicode": "02"
+            "size": 1
         },
         {
+            "code": "U+6BD4",
             "label": "比",
-            "size": 1,
-            "unicode": "04"
+            "size": 1
         },
         {
+            "code": "U+4ECD",
+            "label": "仍",
+            "size": 1
+        },
+        {
+            "code": "U+6E08",
             "label": "済",
-            "size": 2,
-            "unicode": "11"
+            "size": 2
         }
     ],
-    "size": 17,
-    "total": 18
+    "size": 19,
+    "total": 21
 }

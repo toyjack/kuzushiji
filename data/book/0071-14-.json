@@ -3,696 +3,746 @@
     "label": "古文書雑集",
     "list": [
         {
+            "code": "U+81E3",
             "label": "臣",
-            "size": 1,
-            "unicode": "07"
+            "size": 1
         },
         {
+            "code": "U+4EBA",
             "label": "人",
-            "size": 1,
-            "unicode": "02"
+            "size": 1
         },
         {
+            "code": "U+5E84",
             "label": "庄",
-            "size": 4,
-            "unicode": "06"
+            "size": 4
         },
         {
+            "code": "U+4F1A",
             "label": "会",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         },
         {
+            "code": "U+4E95",
             "label": "井",
-            "size": 1,
-            "unicode": "04"
+            "size": 1
         },
         {
+            "code": "U+72B6",
             "label": "状",
-            "size": 2,
-            "unicode": "07"
+            "size": 2
         },
         {
+            "code": "U+5B98",
             "label": "官",
-            "size": 2,
-            "unicode": "08"
+            "size": 2
         },
         {
+            "code": "U+4E4B",
+            "label": "之",
+            "size": 7
+        },
+        {
+            "code": "U+8056",
             "label": "聖",
-            "size": 2,
-            "unicode": "13"
+            "size": 2
         },
         {
+            "code": "U+7D30",
             "label": "細",
-            "size": 2,
-            "unicode": "11"
+            "size": 2
         },
         {
+            "code": "U+8A00",
             "label": "言",
-            "size": 1,
-            "unicode": "07"
+            "size": 1
         },
         {
+            "code": "U+671D",
             "label": "朝",
-            "size": 1,
-            "unicode": "12"
+            "size": 1
         },
         {
+            "code": "U+7562",
+            "label": "畢",
+            "size": 1
+        },
+        {
+            "code": "U+6B64",
+            "label": "此",
+            "size": 1
+        },
+        {
+            "code": "U+4FDD",
             "label": "保",
-            "size": 1,
-            "unicode": "09"
+            "size": 1
         },
         {
+            "code": "U+5BAE",
             "label": "宮",
-            "size": 1,
-            "unicode": "10"
+            "size": 1
         },
         {
+            "code": "U+8F38",
             "label": "輸",
-            "size": 1,
-            "unicode": "16"
+            "size": 1
         },
         {
+            "code": "U+8ACB",
             "label": "請",
-            "size": 2,
-            "unicode": "15"
+            "size": 2
         },
         {
+            "code": "U+65E8",
             "label": "旨",
-            "size": 2,
-            "unicode": "06"
+            "size": 2
         },
         {
+            "code": "U+6708",
             "label": "月",
-            "size": 1,
-            "unicode": "04"
+            "size": 1
         },
         {
+            "code": "U+5F79",
             "label": "役",
-            "size": 3,
-            "unicode": "07"
+            "size": 3
         },
         {
+            "code": "U+5165",
             "label": "入",
-            "size": 2,
-            "unicode": "02"
+            "size": 2
         },
         {
+            "code": "U+9020",
             "label": "造",
-            "size": 1,
-            "unicode": "10"
+            "size": 1
         },
         {
+            "code": "U+65E9",
             "label": "早",
-            "size": 2,
-            "unicode": "06"
+            "size": 2
         },
         {
+            "code": "U+594F",
             "label": "奏",
-            "size": 1,
-            "unicode": "09"
+            "size": 1
         },
         {
+            "code": "U+6C38",
             "label": "永",
-            "size": 1,
-            "unicode": "05"
+            "size": 1
         },
         {
+            "code": "U+7F6E",
             "label": "置",
-            "size": 1,
-            "unicode": "13"
+            "size": 1
         },
         {
+            "code": "U+65E5",
             "label": "日",
-            "size": 2,
-            "unicode": "04"
+            "size": 2
         },
         {
+            "code": "U+5229",
             "label": "利",
-            "size": 1,
-            "unicode": "07"
+            "size": 1
         },
         {
+            "code": "U+4F8B",
             "label": "例",
-            "size": 2,
-            "unicode": "08"
+            "size": 2
         },
         {
+            "code": "U+53B3",
             "label": "厳",
-            "size": 1,
-            "unicode": "17"
+            "size": 1
         },
         {
+            "code": "U+5BA3",
             "label": "宣",
-            "size": 3,
-            "unicode": "09"
+            "size": 3
         },
         {
+            "code": "U+672A",
             "label": "未",
-            "size": 1,
-            "unicode": "05"
+            "size": 1
         },
         {
+            "code": "U+52E2",
             "label": "勢",
-            "size": 1,
-            "unicode": "13"
+            "size": 1
         },
         {
+            "code": "U+5F01",
             "label": "弁",
-            "size": 1,
-            "unicode": "05"
+            "size": 1
         },
         {
+            "code": "U+7B49",
             "label": "等",
-            "size": 3,
-            "unicode": "12"
+            "size": 3
         },
         {
+            "code": "U+6771",
             "label": "東",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         },
         {
+            "code": "U+5BB6",
             "label": "家",
-            "size": 2,
-            "unicode": "10"
+            "size": 2
         },
         {
+            "code": "U+8AB2",
             "label": "課",
-            "size": 2,
-            "unicode": "15"
+            "size": 2
         },
         {
+            "code": "U+96D1",
             "label": "雑",
-            "size": 1,
-            "unicode": "14"
+            "size": 1
         },
         {
+            "code": "U+4E5F",
+            "label": "也",
+            "size": 3
+        },
+        {
+            "code": "U+6848",
             "label": "案",
-            "size": 2,
-            "unicode": "10"
+            "size": 2
         },
         {
+            "code": "U+9032",
             "label": "進",
-            "size": 1,
-            "unicode": "11"
+            "size": 1
         },
         {
+            "code": "U+5E74",
             "label": "年",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         },
         {
+            "code": "U+671B",
             "label": "望",
-            "size": 1,
-            "unicode": "11"
+            "size": 1
         },
         {
+            "code": "U+8863",
             "label": "衣",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         },
         {
+            "code": "U+9818",
             "label": "領",
-            "size": 3,
-            "unicode": "14"
+            "size": 3
         },
         {
+            "code": "U+7701",
             "label": "省",
-            "size": 1,
-            "unicode": "09"
+            "size": 1
         },
         {
+            "code": "U+514D",
             "label": "免",
-            "size": 3,
-            "unicode": "08"
+            "size": 3
         },
         {
+            "code": "U+53E3",
             "label": "口",
-            "size": 1,
-            "unicode": "03"
+            "size": 1
         },
         {
+            "code": "U+8239",
             "label": "船",
-            "size": 1,
-            "unicode": "11"
+            "size": 1
         },
         {
+            "code": "U+5929",
             "label": "天",
-            "size": 1,
-            "unicode": "04"
+            "size": 1
         },
         {
+            "code": "U+96D6",
+            "label": "雖",
+            "size": 3
+        },
+        {
+            "code": "U+5DE6",
             "label": "左",
-            "size": 2,
-            "unicode": "05"
+            "size": 2
         },
         {
+            "code": "U+6763",
+            "label": "杣",
+            "size": 1
+        },
+        {
+            "code": "U+82B1",
             "label": "花",
-            "size": 1,
-            "unicode": "07"
+            "size": 1
         },
         {
+            "code": "U+5F97",
             "label": "得",
-            "size": 2,
-            "unicode": "11"
+            "size": 2
         },
         {
+            "code": "U+7D0D",
             "label": "納",
-            "size": 1,
-            "unicode": "10"
+            "size": 1
         },
         {
+            "code": "U+795E",
             "label": "神",
-            "size": 1,
-            "unicode": "09"
+            "size": 1
         },
         {
+            "code": "U+5DF2",
+            "label": "已",
+            "size": 1
+        },
+        {
+            "code": "U+4E2D",
             "label": "中",
-            "size": 1,
-            "unicode": "04"
+            "size": 1
         },
         {
+            "code": "U+672C",
             "label": "本",
-            "size": 2,
-            "unicode": "05"
+            "size": 2
         },
         {
+            "code": "U+52E4",
             "label": "勤",
-            "size": 1,
-            "unicode": "12"
+            "size": 1
         },
         {
+            "code": "U+540C",
             "label": "同",
-            "size": 2,
-            "unicode": "06"
+            "size": 2
         },
         {
+            "code": "U+8CC0",
             "label": "賀",
-            "size": 1,
-            "unicode": "12"
+            "size": 1
         },
         {
+            "code": "U+5949",
             "label": "奉",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         },
         {
+            "code": "U+4E21",
             "label": "両",
-            "size": 2,
-            "unicode": "06"
+            "size": 2
         },
         {
+            "code": "U+4E8B",
             "label": "事",
-            "size": 4,
-            "unicode": "08"
+            "size": 4
         },
         {
+            "code": "U+5982",
             "label": "如",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         },
         {
+            "code": "U+5C71",
             "label": "山",
-            "size": 1,
-            "unicode": "03"
+            "size": 1
         },
         {
+            "code": "U+767E",
             "label": "百",
-            "size": 2,
-            "unicode": "06"
+            "size": 2
         },
         {
+            "code": "U+9664",
             "label": "除",
-            "size": 3,
-            "unicode": "10"
+            "size": 3
         },
         {
+            "code": "U+4F5C",
             "label": "作",
-            "size": 1,
-            "unicode": "07"
+            "size": 1
         },
         {
+            "code": "U+5F7C",
             "label": "彼",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         },
         {
+            "code": "U+592B",
             "label": "夫",
-            "size": 2,
-            "unicode": "04"
+            "size": 2
         },
         {
+            "code": "U+6240",
             "label": "所",
-            "size": 2,
-            "unicode": "08"
+            "size": 2
         },
         {
+            "code": "U+8005",
             "label": "者",
-            "size": 4,
-            "unicode": "08"
+            "size": 4
         },
         {
+            "code": "U+805E",
             "label": "聞",
-            "size": 1,
-            "unicode": "14"
+            "size": 1
         },
         {
+            "code": "U+70BA",
             "label": "為",
-            "size": 2,
-            "unicode": "09"
+            "size": 2
         },
         {
+            "code": "U+6EDD",
             "label": "滝",
-            "size": 1,
-            "unicode": "13"
+            "size": 1
         },
         {
+            "code": "U+7D4C",
             "label": "経",
-            "size": 1,
-            "unicode": "11"
+            "size": 1
         },
         {
+            "code": "U+83EF",
             "label": "華",
-            "size": 1,
-            "unicode": "10"
+            "size": 1
         },
         {
+            "code": "U+5E76",
+            "label": "并",
+            "size": 1
+        },
+        {
+            "code": "U+4E0D",
             "label": "不",
-            "size": 2,
-            "unicode": "04"
+            "size": 2
         },
         {
+            "code": "U+5927",
             "label": "大",
-            "size": 4,
-            "unicode": "03"
+            "size": 4
         },
         {
+            "code": "U+691C",
             "label": "検",
-            "size": 2,
-            "unicode": "12"
+            "size": 2
         },
         {
+            "code": "U+516C",
             "label": "公",
-            "size": 2,
-            "unicode": "04"
+            "size": 2
         },
         {
+            "code": "U+6CD5",
             "label": "法",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         },
         {
+            "code": "U+6761",
             "label": "条",
-            "size": 2,
-            "unicode": "07"
+            "size": 2
         },
         {
+            "code": "U+524D",
             "label": "前",
-            "size": 1,
-            "unicode": "09"
+            "size": 1
         },
         {
+            "code": "U+5EFF",
+            "label": "廿",
+            "size": 1
+        },
+        {
+            "code": "U+6570",
             "label": "数",
-            "size": 1,
-            "unicode": "13"
+            "size": 1
         },
         {
+            "code": "U+53F8",
             "label": "司",
-            "size": 1,
-            "unicode": "05"
+            "size": 1
         },
         {
+            "code": "U+4E3B",
             "label": "主",
-            "size": 1,
-            "unicode": "05"
+            "size": 1
         },
         {
+            "code": "U+968F",
             "label": "随",
-            "size": 1,
-            "unicode": "12"
+            "size": 1
         },
         {
+            "code": "U+4EE5",
             "label": "以",
-            "size": 1,
-            "unicode": "05"
+            "size": 1
         },
         {
+            "code": "U+4E00",
             "label": "一",
-            "size": 4,
-            "unicode": "01"
+            "size": 4
         },
         {
+            "code": "U+4EE4",
             "label": "令",
-            "size": 4,
-            "unicode": "05"
+            "size": 4
         },
         {
+            "code": "U+7530",
             "label": "田",
-            "size": 2,
-            "unicode": "05"
+            "size": 2
         },
         {
+            "code": "U+5DE5",
             "label": "工",
-            "size": 3,
-            "unicode": "03"
+            "size": 3
         },
         {
+            "code": "U+6A29",
             "label": "権",
-            "size": 1,
-            "unicode": "15"
+            "size": 1
         },
         {
+            "code": "U+6E6F",
             "label": "湯",
-            "size": 1,
-            "unicode": "12"
+            "size": 1
         },
         {
+            "code": "U+8B39",
             "label": "謹",
-            "size": 2,
-            "unicode": "17"
+            "size": 2
         },
         {
+            "code": "U+89E3",
             "label": "解",
-            "size": 2,
-            "unicode": "13"
+            "size": 2
         },
         {
+            "code": "U+7F8E",
             "label": "美",
-            "size": 1,
-            "unicode": "09"
+            "size": 1
         },
         {
+            "code": "U+4F0A",
+            "label": "伊",
+            "size": 2
+        },
+        {
+            "code": "U+526F",
             "label": "副",
-            "size": 1,
-            "unicode": "11"
+            "size": 1
         },
         {
+            "code": "U+81EA",
             "label": "自",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         },
         {
+            "code": "U+6FC3",
             "label": "濃",
-            "size": 1,
-            "unicode": "16"
+            "size": 1
         },
         {
+            "code": "U+53BB",
             "label": "去",
-            "size": 1,
-            "unicode": "05"
+            "size": 1
         },
         {
+            "code": "U+5185",
             "label": "内",
-            "size": 1,
-            "unicode": "04"
+            "size": 1
         },
         {
+            "code": "U+52C5",
             "label": "勅",
-            "size": 1,
-            "unicode": "09"
+            "size": 1
         },
         {
+            "code": "U+88AB",
             "label": "被",
-            "size": 4,
-            "unicode": "10"
+            "size": 4
         },
         {
+            "code": "U+592A",
             "label": "太",
-            "size": 1,
-            "unicode": "04"
+            "size": 1
         },
         {
+            "code": "U+670D",
             "label": "服",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         },
         {
+            "code": "U+4EF6",
             "label": "件",
-            "size": 4,
-            "unicode": "06"
+            "size": 4
         },
         {
+            "code": "U+9678",
             "label": "陸",
-            "size": 2,
-            "unicode": "11"
+            "size": 2
         },
         {
+            "code": "U+65BD",
             "label": "施",
-            "size": 2,
-            "unicode": "09"
+            "size": 2
         },
         {
+            "code": "U+5F92",
             "label": "徒",
-            "size": 1,
-            "unicode": "10"
+            "size": 1
         },
         {
+            "code": "U+88C1",
             "label": "裁",
-            "size": 1,
-            "unicode": "12"
+            "size": 1
         },
         {
+            "code": "U+504F",
             "label": "偏",
-            "size": 1,
-            "unicode": "11"
+            "size": 1
         },
         {
+            "code": "U+6587",
             "label": "文",
-            "size": 1,
-            "unicode": "04"
+            "size": 1
         },
         {
+            "code": "U+5145",
             "label": "充",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         },
         {
+            "code": "U+51FA",
             "label": "出",
-            "size": 1,
-            "unicode": "05"
+            "size": 1
         },
         {
+            "code": "U+4F9D",
             "label": "依",
-            "size": 2,
-            "unicode": "08"
+            "size": 2
         },
         {
+            "code": "U+5FDC",
             "label": "応",
-            "size": 2,
-            "unicode": "07"
+            "size": 2
         },
         {
+            "code": "U+539F",
             "label": "原",
-            "size": 1,
-            "unicode": "10"
+            "size": 1
         },
         {
+            "code": "U+4E45",
             "label": "久",
-            "size": 1,
-            "unicode": "03"
+            "size": 1
         },
         {
+            "code": "U+6B73",
             "label": "歳",
-            "size": 1,
-            "unicode": "13"
+            "size": 1
         },
         {
+            "code": "U+90E8",
             "label": "部",
-            "size": 1,
-            "unicode": "11"
+            "size": 1
         },
         {
+            "code": "U+4ED5",
             "label": "仕",
-            "size": 1,
-            "unicode": "05"
+            "size": 1
         },
         {
+            "code": "U+4F4F",
             "label": "住",
-            "size": 1,
-            "unicode": "07"
+            "size": 1
         },
         {
+            "code": "U+4E0B",
             "label": "下",
-            "size": 3,
-            "unicode": "03"
+            "size": 3
         },
         {
+            "code": "U+85E4",
             "label": "藤",
-            "size": 1,
-            "unicode": "18"
+            "size": 1
         },
         {
+            "code": "U+7389",
             "label": "玉",
-            "size": 1,
-            "unicode": "05"
+            "size": 1
         },
         {
+            "code": "U+5B66",
             "label": "学",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         },
         {
+            "code": "U+8272",
             "label": "色",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         },
         {
+            "code": "U+53F3",
             "label": "右",
-            "size": 2,
-            "unicode": "05"
+            "size": 2
         },
         {
+            "code": "U+5148",
             "label": "先",
-            "size": 3,
-            "unicode": "06"
+            "size": 3
         },
         {
+            "code": "U+5730",
             "label": "地",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         },
         {
+            "code": "U+4EFB",
             "label": "任",
-            "size": 3,
-            "unicode": "06"
+            "size": 3
         },
         {
+            "code": "U+5B50",
             "label": "子",
-            "size": 1,
-            "unicode": "03"
+            "size": 1
         },
         {
+            "code": "U+9014",
             "label": "途",
-            "size": 1,
-            "unicode": "10"
+            "size": 1
         },
         {
+            "code": "U+7406",
             "label": "理",
-            "size": 1,
-            "unicode": "11"
+            "size": 1
         },
         {
+            "code": "U+5BFA",
             "label": "寺",
-            "size": 6,
-            "unicode": "06"
+            "size": 6
         },
         {
+            "code": "U+56FD",
             "label": "国",
-            "size": 3,
-            "unicode": "08"
+            "size": 3
         },
         {
+            "code": "U+5B9B",
             "label": "宛",
-            "size": 3,
-            "unicode": "08"
+            "size": 3
         },
         {
+            "code": "U+6CE8",
             "label": "注",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         }
     ],
-    "size": 138,
-    "total": 225
+    "size": 148,
+    "total": 246
 }

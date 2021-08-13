@@ -3,76 +3,86 @@
     "label": "加々山文書",
     "list": [
         {
+            "code": "U+4E4B",
+            "label": "之",
+            "size": 1
+        },
+        {
+            "code": "U+4E09",
             "label": "三",
-            "size": 1,
-            "unicode": "03"
+            "size": 1
         },
         {
+            "code": "U+65E5",
             "label": "日",
-            "size": 1,
-            "unicode": "04"
+            "size": 1
         },
         {
+            "code": "U+9032",
             "label": "進",
-            "size": 1,
-            "unicode": "11"
+            "size": 1
         },
         {
+            "code": "U+306A",
             "label": "な",
-            "size": 1,
-            "unicode": ""
+            "size": 1
         },
         {
+            "code": "U+6669",
             "label": "晩",
-            "size": 1,
-            "unicode": "12"
+            "size": 1
         },
         {
+            "code": "U+4E2D",
             "label": "中",
-            "size": 1,
-            "unicode": "04"
+            "size": 1
         },
         {
+            "code": "U+8006",
+            "label": "耆",
+            "size": 1
+        },
+        {
+            "code": "U+52A9",
             "label": "助",
-            "size": 1,
-            "unicode": "07"
+            "size": 1
         },
         {
+            "code": "U+6BBF",
             "label": "殿",
-            "size": 1,
-            "unicode": "13"
+            "size": 1
         },
         {
+            "code": "U+3053",
             "label": "こ",
-            "size": 1,
-            "unicode": ""
+            "size": 1
         },
         {
+            "code": "U+3093",
             "label": "ん",
-            "size": 1,
-            "unicode": ""
+            "size": 1
         },
         {
+            "code": "U+6E05",
             "label": "清",
-            "size": 1,
-            "unicode": "11"
+            "size": 1
         },
         {
+            "code": "U+90E8",
             "label": "部",
-            "size": 1,
-            "unicode": "11"
+            "size": 1
         },
         {
+            "code": "U+4F2F",
             "label": "伯",
-            "size": 1,
-            "unicode": "07"
+            "size": 1
         },
         {
+            "code": "U+5F62",
             "label": "形",
-            "size": 1,
-            "unicode": "07"
+            "size": 1
         }
     ],
-    "size": 14,
-    "total": 14
+    "size": 16,
+    "total": 16
 }

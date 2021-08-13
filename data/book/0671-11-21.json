@@ -3,116 +3,121 @@
     "label": "延時文書",
     "list": [
         {
+            "code": "U+4E09",
             "label": "三",
-            "size": 1,
-            "unicode": "03"
+            "size": 1
         },
         {
+            "code": "U+6708",
             "label": "月",
-            "size": 1,
-            "unicode": "04"
+            "size": 1
         },
         {
+            "code": "U+5EF6",
             "label": "延",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         },
         {
+            "code": "U+4E08",
             "label": "丈",
-            "size": 1,
-            "unicode": "03"
+            "size": 1
         },
         {
+            "code": "U+65E5",
             "label": "日",
-            "size": 1,
-            "unicode": "04"
+            "size": 1
         },
         {
+            "code": "U+5206",
             "label": "分",
-            "size": 1,
-            "unicode": "04"
+            "size": 1
         },
         {
+            "code": "U+56DB",
             "label": "四",
-            "size": 1,
-            "unicode": "05"
+            "size": 1
         },
         {
+            "code": "U+6027",
             "label": "性",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         },
         {
+            "code": "U+540D",
             "label": "名",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         },
         {
+            "code": "U+672C",
             "label": "本",
-            "size": 1,
-            "unicode": "05"
+            "size": 1
         },
         {
+            "code": "U+52E4",
             "label": "勤",
-            "size": 1,
-            "unicode": "12"
+            "size": 1
         },
         {
+            "code": "U+4E8B",
             "label": "事",
-            "size": 1,
-            "unicode": "08"
+            "size": 1
         },
         {
+            "code": "U+5EFF",
+            "label": "廿",
+            "size": 1
+        },
+        {
+            "code": "U+5B89",
             "label": "安",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         },
         {
+            "code": "U+5F10",
             "label": "弐",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         },
         {
+            "code": "U+77F3",
             "label": "石",
-            "size": 1,
-            "unicode": "05"
+            "size": 1
         },
         {
+            "code": "U+88AB",
             "label": "被",
-            "size": 1,
-            "unicode": "10"
+            "size": 1
         },
         {
+            "code": "U+6642",
             "label": "時",
-            "size": 1,
-            "unicode": "10"
+            "size": 1
         },
         {
+            "code": "U+4ED5",
             "label": "仕",
-            "size": 1,
-            "unicode": "05"
+            "size": 1
         },
         {
+            "code": "U+5019",
             "label": "候",
-            "size": 1,
-            "unicode": "10"
+            "size": 1
         },
         {
+            "code": "U+5730",
             "label": "地",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         },
         {
+            "code": "U+7406",
             "label": "理",
-            "size": 1,
-            "unicode": "11"
+            "size": 1
         },
         {
+            "code": "U+516B",
             "label": "八",
-            "size": 2,
-            "unicode": "02"
+            "size": 2
         }
     ],
-    "size": 22,
-    "total": 23
+    "size": 23,
+    "total": 24
 }

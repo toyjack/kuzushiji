@@ -3,14 +3,14 @@
     "label": "真珠庵文書",
     "list": [
         {
+            "code": "U+9762",
             "label": "面",
-            "size": 1,
-            "unicode": "09"
+            "size": 1
         },
         {
+            "code": "U+5B89",
             "label": "安",
-            "size": 1,
-            "unicode": "06"
+            "size": 1
         }
     ],
     "size": 2,
