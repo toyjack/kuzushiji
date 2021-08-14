@@ -128,9 +128,10 @@ export default class about extends Vue {
 
     let total = 0
     for(let i = 0; i < data.length; i++){
-    //for (const item of data) {
-      total += data[i].size
-      data[i].index = i + 1
+      const item = data[i]
+      //for (const item of data) {
+      total += item.size
+      item.index = i + 1
     }
 
     console.log(3)

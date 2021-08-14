@@ -6,15 +6,13 @@
           <h1 class="white--text mb-2 display-1 text-center">
             <b>{{ siteName }}</b>
           </h1>
-          <!--
           <v-btn
             large
             class="mt-5"
-            :to="localePath({ name: 'search' })"
+            :to="localePath({ name: 'unicode' })"
             color="primary"
             >{{ $t('try_out') }}</v-btn
           >
-          -->
         </v-layout>
       </v-parallax>
     </section>
@@ -156,6 +154,12 @@ export default class about extends Vue {
       },
       description: '',
       icon: 'mdi-format-text',
+    },
+    {
+      label: 'PixPlot',
+      href: "https://hi-ut.github.io/kuzushiji-app/pp/",
+      description: '',
+      img: this.baseUrl + "/img/pixplot.png",
     },
     /*
     {
