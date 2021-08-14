@@ -1,5 +1,6 @@
 <template>
   <div>
+    <!--
     <v-text-field
       class="my-10"
       v-model="search"
@@ -13,12 +14,14 @@
       clear-icon="mdi-close-circle"
       :clearable="true"
     ></v-text-field>
+    -->
 
+    <!-- 
+      :search="search" -->
     <v-data-table
       :headers="headers"
       :items="items"
       :items-per-page="50"
-      :search="search"
     >
       <template v-slot:item.label="{ item }">
         <nuxt-link
@@ -56,13 +59,13 @@ export default class ShareButtons extends Vue {
     },
     {
       text: 'コード',
-      value: 'unicode',
+      value: 'code',
     },
   ]
 
   @Prop({ required: true })
   items!: any[]
 
-  search: string = ''
+  //search: string = ''
 }
 </script>

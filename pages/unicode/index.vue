@@ -16,6 +16,20 @@
 
       <h4 class="mt-10">文字種リスト</h4>
 
+      <v-text-field
+        class="my-10"
+        v-model="search"
+        append-icon="mdi-magnify"
+        label="Search"
+        single-line
+        hide-details
+        filled
+        rounded
+        background-color="grey lighten-2"
+        clear-icon="mdi-close-circle"
+        :clearable="true"
+      ></v-text-field>
+
       <div class="text-right">
         <v-btn
           v-for="(option, key) in layouts"
@@ -28,11 +42,13 @@
         >
       </div>
 
+      
+
       <template v-if="layout_ === 'grid'">
-        <List :items="items" />
+        <List :items="items2" />
       </template>
       <template v-else>
-        <Table :items="items" />
+        <Table :items="items2" />
       </template>
 
       <!-- <h3>くずし字データセットの書名一覧</h3> -->
@@ -55,6 +71,8 @@ import Static from '~/components/kuzushiji/Static.vue'
 })
 export default class about extends Vue {
   title: string = 'くずし字データセット 文字種（くずし字）一覧'
+
+  search: string = ""
 
   head() {
     const title = this.title
@@ -98,20 +116,47 @@ export default class about extends Vue {
     const res = await axios.get(this.baseUrl + '/data/001_list.json')
     const data = res.data
 
+    console.log(1)
+
     data.sort(function (a: any, b: any) {
       if (a.size < b.size) return 1
       if (a.size > b.size) return -1
       return 0
     })
 
+    console.log(2)
+
     let total = 0
-    for (const item of data) {
-      total += item.size
+    for(let i = 0; i < data.length; i++){
+    //for (const item of data) {
+      total += data[i].size
+      data[i].index = i + 1
     }
+
+    console.log(3)
 
     this.total = total
 
     this.items = data
+  }
+
+  get items2(){
+    const search = this.search
+    const items = this.items
+    if(!search){
+      return items
+    }
+
+    const items2 = []
+    for(const item of items){
+      if(search === item.label){
+        items2.push(item)
+        break
+      }
+      
+    }
+
+    return items2
   }
 }
 </script>
