@@ -42,6 +42,7 @@
                       params: {
                         id: item2.label,
                       },
+                      query
                     })
                   "
                   >{{ item2.label }}
@@ -76,6 +77,9 @@ export default class ShareButtons extends Vue {
 
   @Prop({ required: true })
   items!: any[]
+
+  @Prop({  })
+  query!: any
 
   /*
   set items2(data) {

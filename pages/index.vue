@@ -161,6 +161,12 @@ export default class about extends Vue {
       description: '',
       img: this.baseUrl + "/img/pixplot.png",
     },
+    {
+      label: 'NYPL可視化',
+      href: "https://nakamura196.github.io/hi_letter_data/pd/",
+      description: '',
+      img: this.baseUrl + "/img/pd_banner_magnified.png",
+    },
     /*
     {
       label: this.$t('category'),

@@ -12,22 +12,12 @@
     <v-container class="my-5">
       <h2 class="mb-5">{{ title }}</h2>
 
-      <h3>データセットの統計情報</h3>
+      <v-sheet class="my-10 pa-5" v-if="item.extent" color="grey lighten-2">
+        <v-icon class="mr-2">mdi-download</v-icon>くずし字データセットダウンロード： <a :href="`https://drive.google.com/file/d/${item.gid}/view?usp=sharing`">個別（ZIP {{ (item.extent / 1000000).toFixed(2) }} MB）</a>
+      </v-sheet>
 
-      <p>
-        データセットに含まれる文字種を、頻度順文字種リストまたはコード順文字種リストで一覧できます。くずし字の一つ一つの文字の形の違いだけでなく、くずし字の元となる字母の違いによる異体字のバリエーションなど、実際の字形を画像で確認しながら、くずし字の学習などにご利用ください。文字をクリックすると字形一覧ページに移動します。文字の検索にはブラウザの検索機能を使って下さい。
-      </p>
+      <Static v-if="item.size" :size="item.size" :total="item.total" />
 
-      <p>
-        なおデータセット全体の統計情報については、くずし字データセット
-        文字種（くずし字）一覧、また検索にはくずし字データベース検索（ひらがな（変体仮名）・カタカナ・漢字）をご利用下さい。
-      </p>
-
-      <p v-if="item.size">
-        文字種：{{ item.size.toLocaleString() }} ／ 文字数：{{
-          item.total.toLocaleString()
-        }}
-      </p>
 
       <h4 class="mt-10">文字種リスト</h4>
 
@@ -45,58 +35,68 @@
         :clearable="true"
       ></v-text-field>
 
-      <v-data-table
-        :headers="headers"
-        :items="items"
-        :items-per-page="50"
-        :search="search"
-      >
-        <template v-slot:item.label="{ item }">
-          <nuxt-link
-            :to="
-              localePath({
-                name: 'unicode-id',
-                params: {
-                  id: item.label,
-                },
-                query: {
-                  id,
-                },
-              })
-            "
+      <v-row>
+        <v-col>
+          
+        </v-col>
+        <v-col class="text-right">
+          <v-btn
+            v-for="(option, key) in layouts"
+            :key="key"
+            icon
+            @click="layout_ = option.value"
+            ><v-icon :color="layout_ === option.value ? 'primary' : ''">{{
+              option.icon
+            }}</v-icon></v-btn
           >
-            {{ item.label }}
-          </nuxt-link>
-        </template>
-      </v-data-table>
+        </v-col>
+      </v-row>
+
+      <template v-if="layout_ === 'grid'">
+        <List :items="items2" :query="{id}"/>
+      </template>
+      <template v-else>
+        <Table :items="items2" :query="{id}" />
+      </template>
+
+      <v-sheet class="my-10 pa-5" color="grey lighten-2">
+        [TODO] ライセンス
+      </v-sheet>
     </v-container>
   </div>
 </template>
 <script lang="ts">
 import { Vue, Component } from 'nuxt-property-decorator'
 import axios from 'axios'
+import List from '~/components/kuzushiji/List.vue'
+import Table from '~/components/kuzushiji/Table.vue'
+import Static from '~/components/kuzushiji/Static.vue'
 
-@Component({})
+@Component({
+  components: {
+    List,
+    Table,
+    Static,
+  },
+})
 export default class about extends Vue {
   id: any = this.$route.params.id
   //title: string = '「' + this.id + '」くずし字データセット'
 
   search: string = ''
 
-  headers: any[] = [
+  layouts: any[] = [
     {
-      text: '文字種',
-      value: 'label',
+      icon: 'mdi-view-grid',
+      value: 'grid',
     },
     {
-      text: '頻度',
-      value: 'size',
-    },
-    {
-      text: 'コード',
-      value: 'unicode',
+      icon: 'mdi-table',
+      value: 'table',
     },
   ]
+
+  layout_: string = 'grid'
 
   head() {
     const title = this.title
@@ -153,9 +153,36 @@ export default class about extends Vue {
       return 0
     })
 
+    let total = 0
+    for(let i = 0; i < items.length; i++){
+      const item = items[i]
+      //for (const item of data) {
+      total += item.size
+      item.index = i + 1
+    }
+
     this.items = items
 
     //this.search = decodeURIComponent(this.$route.hash.replace('#', ''))
+  }
+
+  get items2(){
+    const search = this.search
+    const items = this.items
+    if(!search){
+      return items
+    }
+
+    const items2 = []
+    for(const item of items){
+      if(search === item.label){
+        items2.push(item)
+        break
+      }
+      
+    }
+
+    return items2
   }
 }
 </script>

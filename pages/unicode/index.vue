@@ -30,19 +30,22 @@
         :clearable="true"
       ></v-text-field>
 
-      <div class="text-right">
-        <v-btn
-          v-for="(option, key) in layouts"
-          :key="key"
-          icon
-          @click="layout_ = option.value"
-          ><v-icon :color="layout_ === option.value ? 'primary' : ''">{{
-            option.icon
-          }}</v-icon></v-btn
-        >
-      </div>
-
-      
+      <v-row>
+        <v-col>
+          
+        </v-col>
+        <v-col class="text-right">
+          <v-btn
+            v-for="(option, key) in layouts"
+            :key="key"
+            icon
+            @click="layout_ = option.value"
+            ><v-icon :color="layout_ === option.value ? 'primary' : ''">{{
+              option.icon
+            }}</v-icon></v-btn
+          >
+        </v-col>
+      </v-row>
 
       <template v-if="layout_ === 'grid'">
         <List :items="items2" />

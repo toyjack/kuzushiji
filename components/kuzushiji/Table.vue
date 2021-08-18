@@ -31,6 +31,7 @@
               params: {
                 id: item.label,
               },
+              query
             })
           "
         >
@@ -65,6 +66,9 @@ export default class ShareButtons extends Vue {
 
   @Prop({ required: true })
   items!: any[]
+
+  @Prop({  })
+  query!: any
 
   //search: string = ''
 }
