@@ -13,7 +13,9 @@
       <h2 class="mb-5">{{ title }}</h2>
 
       <v-sheet class="my-10 pa-5" v-if="item.extent" color="grey lighten-2">
-        <v-icon class="mr-2">mdi-download</v-icon>くずし字データセットダウンロード： <a :href="`https://drive.google.com/file/d/${item.gid}/view?usp=sharing`">個別（ZIP {{ (item.extent / 1000000).toFixed(2) }} MB）</a>
+        <v-icon class="mr-2">mdi-download</v-icon>くずし字データセットダウンロード： 
+        <a :href="`https://drive.google.com/file/d/${item.gid}/view?usp=sharing`">個別（ZIP {{ (item.extent / 1000000).toFixed(2) }} MB）</a>／
+        <a :href="`https://drive.google.com/file/d/${all.gid}/view?usp=sharing`">全体（ZIP {{ (all.extent / 1000000).toFixed(2) }} MB）</a>
       </v-sheet>
 
       <Static v-if="item.size" :size="item.size" :total="item.total" />
@@ -84,6 +86,11 @@ export default class about extends Vue {
   //title: string = '「' + this.id + '」くずし字データセット'
 
   search: string = ''
+
+  all: any = {
+    gid: "1CB0tmu3BYwxtEdz-wCDnWsZ6zhsOynhF",
+    extent: 1196759720
+  }
 
   layouts: any[] = [
     {
