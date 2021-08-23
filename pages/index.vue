@@ -139,7 +139,7 @@ export default class about extends Vue {
       description: '',
       icon: 'mdi-view-list',
     },
-    {
+     {
       label: '文字種ごとのくずし字一覧を見る（人間のための学習データ）',
       path: {
         name: 'unicode',
@@ -147,6 +147,24 @@ export default class about extends Vue {
       description: '',
       icon: 'mdi-account',
     },
+    /*
+    {
+      label: this.$t('search'),
+      path: {
+        name: 'search',
+      },
+      description: '',
+      icon: 'mdi-magnify',
+    },
+    {
+      label: this.$t('category'),
+      path: {
+        name: 'category',
+      },
+      description: '',
+      icon: 'mdi-tag',
+    },
+    */
     {
       label: 'くずし字ジェネレータ',
       path: {
@@ -157,16 +175,27 @@ export default class about extends Vue {
     },
     {
       label: 'PixPlot',
-      href: "https://hi-ut.github.io/kuzushiji-app/pp/",
+      href: 'https://hi-ut.github.io/kuzushiji-app/pp/',
       description: '',
-      img: this.baseUrl + "/img/pixplot.png",
+      img: this.baseUrl + '/img/pixplot.png',
     },
     {
       label: 'NYPL可視化',
-      href: "https://nakamura196.github.io/hi_letter_data/pd/",
+      href: 'https://nakamura196.github.io/hi_letter_data/pd/',
       description: '',
-      img: this.baseUrl + "/img/pd_banner_magnified.png",
+      img: this.baseUrl + '/img/pd_banner_magnified.png',
     },
+    {
+      label: '文字画像データセット(平仮名版)',
+      href: 'https://github.com/hi-ut/hiragana',
+      description: '',
+      img:
+        'https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png',
+    },
+    
+
+    
+
     /*
     {
       label: this.$t('category'),

@@ -1,12 +1,7 @@
 <template>
   <div>
     <v-row>
-      <v-col
-        cols="12"
-        sm="3"
-        v-for="item in items"
-        :key="item.objectID"
-      >
+      <v-col cols="12" sm="3" v-for="item in items" :key="item.objectID">
         <v-card flat no-body class="mb-4">
           <nuxt-link
             v-if="isImage"
@@ -50,11 +45,9 @@ import { Prop, Vue, Component, Watch } from 'nuxt-property-decorator'
 
 @Component({})
 export default class FullTextSearch extends Vue {
-
   @Prop({})
   items!: any[]
 
   isImage: any = process.env.image
-  
 }
 </script>

@@ -17,93 +17,88 @@ env.aggs = {
     more: false,
     open: true,
   },
-  本: {
-    key: '本',
+  架番号: {
+    key: '架番号',
     sort: '',
-    label: '本',
+    label: '架番号',
     value: {},
     more: false,
     open: true,
   },
-  著者: {
-    key: '著者',
+  史料区分: {
+    key: '史料区分',
     sort: '',
-    label: '著者',
+    label: '史料区分',
     value: {},
     more: false,
     open: true,
   },
-
-  見出し読み_mod: {
-    key: '見出し読み_mod',
+  文書名: {
+    key: '文書名',
     sort: '',
-    label: '見出し読み',
+    label: '文書名',
     value: {},
     more: false,
     open: true,
-    hide: true,
   },
-  ローマ字1_mod: {
-    key: 'ローマ字1_mod',
+  史料群名: {
+    key: '史料群名',
     sort: '',
-    label: 'ローマ字',
+    label: '史料群名',
     value: {},
     more: false,
     open: true,
-    hide: true,
+  },
+  差出: {
+    key: '差出',
+    sort: '',
+    label: '差出',
+    value: {},
+    more: false,
+    open: true,
+  },
+  宛所: {
+    key: '宛所',
+    sort: '',
+    label: '宛所',
+    value: {},
+    more: false,
+    open: true,
+  },
+  属性: {
+    key: '属性',
+    sort: '',
+    label: '属性',
+    value: {},
+    more: false,
+    open: true,
   },
 }
 
 env.hide = []
 
-env.list = ['見出し読み', 'ローマ字1', '説明文', '本', '著者']
+env.list = []
 
 env.detail = [
   {
-    label: '見出し読み',
-    value: '見出し読み',
-    type: 'text',
+    label: '史料区分',
+    value: '史料区分',
   },
 
   {
-    label: 'ローマ字1',
-    value: 'ローマ字1',
-    type: 'text',
+    label: '史料群名',
+    value: '史料群名',
   },
   {
-    label: 'ローマ字2',
-    value: 'ローマ字2',
-    type: 'text',
-  },
-  {
-    label: '対訳語',
-    value: '対訳語',
-    type: 'text',
-  },
-  {
-    label: '説明文',
-    value: '説明文',
-    type: 'text',
-  },
-  {
-    label: 'ページ番号',
-    value: 'ページ番号',
-    type: 'text',
-  },
-  {
-    label: '本',
-    value: '本',
-  },
-  {
-    label: '著者',
-    value: '著者',
+    label: '架番号',
+    value: '架番号',
   },
 ]
 
 env.sort = [
   { label: '適合度', value: '_score' },
-  { label: '見出し読み', value: '見出し読み_mod' },
-  { label: 'ローマ字', value: 'ローマ字1_mod' },
+  //{ label: '見出し読み', value: '見出し読み_mod' },
+  //{ label: 'ローマ字', value: 'ローマ字1_mod' },
 ]
 
 env.defaultSort = '_score:desc'
@@ -115,14 +110,12 @@ env.layout = [
     icon: 'mdi-view-list',
     component: 'search-layout-list',
   },
-  /*
   {
     label: 'grid',
     value: 'grid',
     icon: 'mdi-view-grid',
-    component: "search-layout-grid"
+    component: 'search-layout-grid',
   },
-  */
   {
     label: 'graph',
     value: 'graph',
@@ -131,7 +124,7 @@ env.layout = [
   },
 ]
 
-env.defaultLayout = 'list'
+env.defaultLayout = 'grid'
 
 /*
 const legend = JSON.parse(fs.readFileSync('static/data/legend.json'))
@@ -146,27 +139,41 @@ env.advanced = [
     value: '',
   },
   {
-    label: '見出し読み',
+    label: '架番号',
     type: 'text',
-    key: '見出し読み',
+    key: '架番号',
     value: '',
   },
   {
-    label: 'ローマ字',
+    label: '史料区分',
     type: 'text',
-    key: 'ローマ字2',
+    key: '史料区分',
     value: '',
   },
   {
-    label: '対訳語',
+    label: '文書名',
     type: 'text',
-    key: '対訳語',
+    key: '文書名',
     value: '',
   },
   {
-    label: '説明文',
+    label: '差出',
     type: 'text',
-    key: '説明文',
+    key: '差出',
+    value: '',
+  },
+
+  {
+    label: '宛所',
+    type: 'text',
+    key: '宛所',
+    value: '',
+  },
+
+  {
+    label: '属性',
+    type: 'text',
+    key: '属性',
     value: '',
   },
   /*
@@ -185,7 +192,7 @@ env.advanced = [
   */
 ]
 
-env.viewer = 'curation'
+env.viewer = '' //'curation'
 env.visualization = 'https://nakamura196.github.io/dd2'
 
 /*
@@ -196,7 +203,7 @@ env.settings = settings
 const norm = JSON.parse(fs.readFileSync('static/data/norm.json'))
 env.itaiji = norm
 
-env.image = false
+env.image = true
 
 env.rdf = false
 
