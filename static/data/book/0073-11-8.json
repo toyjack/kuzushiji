@@ -1,5 +1,4 @@
 {
-    "extent": 43223,
     "gid": "1b1n9ZXT3KihJVUbGjQqpBjzVTKRnQNEn",
     "id": "0073-11-8",
     "label": "後愚昧記永和四年紙背文書",
@@ -7,27 +6,32 @@
         {
             "code": "U+52D9",
             "label": "務",
-            "size": 1
+            "size": 1,
+            "sort": "04U+52D9"
         },
         {
             "code": "U+5BB6",
             "label": "家",
-            "size": 1
+            "size": 1,
+            "sort": "04U+5BB6"
         },
         {
             "code": "U+4E2D",
             "label": "中",
-            "size": 1
+            "size": 1,
+            "sort": "04U+4E2D"
         },
         {
             "code": "U+6A29",
             "label": "権",
-            "size": 1
+            "size": 1,
+            "sort": "04U+6A29"
         },
         {
             "code": "U+6BBF",
             "label": "殿",
-            "size": 1
+            "size": 1,
+            "sort": "04U+6BBF"
         }
     ],
     "size": 5,

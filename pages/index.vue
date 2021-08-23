@@ -132,15 +132,19 @@ export default class about extends Vue {
     },
     */
     {
-      label: 'くずし字データセットの一覧を見る（機械のための学習データ）',
+      label: this.$t(
+        'くずし字データセットの一覧を見る（機械のための学習データ）'
+      ),
       path: {
         name: 'book',
       },
       description: '',
       icon: 'mdi-view-list',
     },
-     {
-      label: '文字種ごとのくずし字一覧を見る（人間のための学習データ）',
+    {
+      label: this.$t(
+        '文字種ごとのくずし字一覧を見る（人間のための学習データ）'
+      ),
       path: {
         name: 'unicode',
       },
@@ -166,7 +170,7 @@ export default class about extends Vue {
     },
     */
     {
-      label: 'くずし字ジェネレータ',
+      label: this.$t('くずし字ジェネレータ'),
       path: {
         name: 'generator',
       },
@@ -180,7 +184,7 @@ export default class about extends Vue {
       img: this.baseUrl + '/img/pixplot.png',
     },
     {
-      label: 'NYPL可視化',
+      label: this.$t('NYPL可視化'),
       href: 'https://nakamura196.github.io/hi_letter_data/pd/',
       description: '',
       img: this.baseUrl + '/img/pd_banner_magnified.png',
@@ -192,9 +196,6 @@ export default class about extends Vue {
       img:
         'https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png',
     },
-    
-
-    
 
     /*
     {

@@ -98,6 +98,8 @@
         </template>
       </v-simple-table>
 
+      <License />
+
       <v-sheet class="text-center pa-10 mt-10">
         <small>
           <h3 class="mb-5">{{ $t('last_updated') }}</h3>
@@ -118,17 +120,24 @@
 import { Vue, Component } from 'nuxt-property-decorator'
 import ResultOption from '~/components/display/ResultOption.vue'
 import axios from 'axios'
+import License from '~/components/kuzushiji/License.vue'
 
 @Component({
   components: {
     ResultOption,
+    License,
   },
 })
 export default class about extends Vue {
   id: any = this.$route.params.id
   label: any = this.$route.params.slug
   title: string =
-    '「' + this.label + '（' + this.id + '）」くずし字データセット'
+    '「' +
+    this.label +
+    '（' +
+    this.id +
+    '）」 ' +
+    this.$t('くずし字データセット')
 
   head() {
     const title = this.title
@@ -199,7 +208,7 @@ export default class about extends Vue {
       {
         disabled: false,
         to: this.localePath({ name: 'unicode' }),
-        text: '文字種一覧',
+        text: this.$t('文字種一覧'),
         exact: true,
       },
       {

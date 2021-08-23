@@ -12,9 +12,7 @@
     <v-container class="my-5">
       <h2 class="mb-5">{{ title }}</h2>
 
-      <p>
-        入力された文字列に対応するくずし字をランダムに返却します。
-      </p>
+      <p>入力された文字列に対応するくずし字をランダムに返却します。</p>
 
       <v-text-field
         class="my-10"
@@ -33,10 +31,14 @@
       ></v-text-field>
 
       <template v-if="items.length > 0">
-
         <div class="text-center my-10">
           <template v-for="(item, key) in items">
-            <img v-if="item.thumbnail_url" height="150px" :src="item.thumbnail_url"  :key="key"/>
+            <img
+              v-if="item.thumbnail_url"
+              height="150px"
+              :src="item.thumbnail_url"
+              :key="key"
+            />
           </template>
         </div>
 
@@ -44,46 +46,46 @@
           <template v-slot:default>
             <thead>
               <tr>
-                <th class="text-center">
-                </th>
-                <th class="text-center">
-                  ID
-                </th>
-                <th class="text-center">
-                  Call Number
-                </th>
-                <th class="text-center">
-                  Document
-                </th>
-                <th class="text-center">
-                  Value
-                </th>
-                <th class="text-center">画像
-                </th>
+                <th class="text-center"></th>
+                <th class="text-center">ID</th>
+                <th class="text-center">Call Number</th>
+                <th class="text-center">Document</th>
+                <th class="text-center">Value</th>
+                <th class="text-center">{{ $t('画像') }}</th>
               </tr>
             </thead>
             <tbody>
-              <tr
-                v-for="(item, key) in items" :key="key"
-              >
-                <td class="pa-2 text-center">{{ item.title.split("@")[0] }}</td>
+              <tr v-for="(item, key) in items" :key="key">
+                <td class="pa-2 text-center">{{ item.title.split('@')[0] }}</td>
                 <td class="pa-2 text-center">{{ item.id }}</td>
-                <td class="pa-2 text-center">{{ item.source.call_number.split("@")[0] }}</td>
-                <td class="pa-2 text-center">{{ item.source.document.split("@")[0] }}</td>
-                <td class="pa-2 text-center">{{ item.source.value.split("@")[0] }}</td>
                 <td class="pa-2 text-center">
-                  <a v-if="item.manifest_url" :href="'https://clioapi.hi.u-tokyo.ac.jp/mirador/?manifest=' +
-                  item.manifest_url">
-                  <img :src="baseUrl + '/img/icons/mirador3.svg'" width="30px"/>
+                  {{ item.source.call_number.split('@')[0] }}
+                </td>
+                <td class="pa-2 text-center">
+                  {{ item.source.document.split('@')[0] }}
+                </td>
+                <td class="pa-2 text-center">
+                  {{ item.source.value.split('@')[0] }}
+                </td>
+                <td class="pa-2 text-center">
+                  <a
+                    v-if="item.manifest_url"
+                    :href="
+                      'https://clioapi.hi.u-tokyo.ac.jp/mirador/?manifest=' +
+                      item.manifest_url
+                    "
+                  >
+                    <img
+                      :src="baseUrl + '/img/icons/mirador3.svg'"
+                      width="30px"
+                    />
                   </a>
                 </td>
               </tr>
             </tbody>
           </template>
         </v-simple-table>
-
       </template>
-
     </v-container>
   </div>
 </template>
@@ -91,15 +93,16 @@
 import { Vue, Component, Watch } from 'nuxt-property-decorator'
 import axios from 'axios'
 
-const randRange = (min: number, max: number) => Math.floor(Math.random() * (max - min + 1) + min);
+const randRange = (min: number, max: number) =>
+  Math.floor(Math.random() * (max - min + 1) + min)
 
 @Component({})
 export default class about extends Vue {
-  title: string = 'くずし字ジェネレータ'
+  title: any = this.$t('くずし字ジェネレータ')
 
   baseUrl: any = process.env.BASE_URL
 
-  q: any = ""
+  q: any = ''
 
   items: any[] = []
 
@@ -116,15 +119,14 @@ export default class about extends Vue {
     this.search()
   }
 
-  search(){
-
+  search() {
     const q = this.q
 
     this.$router.push(
       this.localePath({
         name: 'generator',
-        query : {
-          q
+        query: {
+          q,
         },
       }),
       () => {},
@@ -132,46 +134,45 @@ export default class about extends Vue {
     )
   }
 
-  mounted(){
+  mounted() {
     this.q = this.$route.query.q
     this.init()
   }
 
   @Watch('$route')
-  async init(){
+  async init() {
     const q = this.q
 
-    if(!q){
+    if (!q) {
       return
     }
 
-    const qs = q.split("")
+    const qs = q.split('')
 
     const items = []
 
-    for(const e of qs){
+    for (const e of qs) {
       try {
-        const res = await axios.get(this.baseUrl + '/data/list/'+e+'.json')
+        const res = await axios.get(this.baseUrl + '/data/list/' + e + '.json')
         const data = res.data
-
 
         const index = randRange(0, data.length - 1)
 
         items.push(data[index])
-      } catch (error){
+      } catch (error) {
         items.push({
           title: e,
           source: {
-            call_number: "",
-            document: "",
-            value: ""
-          }
+            call_number: '',
+            document: '',
+            value: '',
+          },
         })
       }
     }
 
     console.log(items)
- 
+
     this.items = items
   }
 

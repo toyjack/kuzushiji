@@ -1,5 +1,4 @@
 {
-    "extent": 87820,
     "gid": "1zsxQhvB_teW5m5GKh3boNVYyIfoiTlEJ",
     "id": "0671-26-3",
     "label": "富安護義氏旧蔵文書（矢島文書）",
@@ -7,32 +6,38 @@
         {
             "code": "U+4E09",
             "label": "三",
-            "size": 1
+            "size": 1,
+            "sort": "04U+4E09"
         },
         {
             "code": "U+6708",
             "label": "月",
-            "size": 1
+            "size": 1,
+            "sort": "04U+6708"
         },
         {
             "code": "U+65E5",
             "label": "日",
-            "size": 1
+            "size": 1,
+            "sort": "04U+65E5"
         },
         {
             "code": "U+5EFF",
             "label": "廿",
-            "size": 1
+            "size": 1,
+            "sort": "04U+5EFF"
         },
         {
             "code": "U+5EB7",
             "label": "康",
-            "size": 1
+            "size": 1,
+            "sort": "04U+5EB7"
         },
         {
             "code": "U+516B",
             "label": "八",
-            "size": 1
+            "size": 1,
+            "sort": "04U+516B"
         }
     ],
     "size": 6,

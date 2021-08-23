@@ -12,7 +12,10 @@
     <v-container class="my-5">
       <h2 class="mb-5">{{ title }}</h2>
 
-      <p>ドキュメント数：{{books.length.toLocaleString()}} ／ 文字数：{{total.toLocaleString()}}</p>
+      <p>
+        {{ $t('ドキュメント') }}：{{ books.length.toLocaleString() }} ／
+        {{ $t('文字数') }}：{{ total.toLocaleString() }}
+      </p>
 
       <!--
       <p>
@@ -29,17 +32,23 @@
           :items="books"
           filled
           multiple
-          label="ドキュメント"
+          :label="$t('ドキュメント')"
           rounded
           dense
           clearable
           clear-icon="mdi-close-circle"
           background-color="grey lighten-2"
+          single-line
         ></v-select>
       </div>
 
       <template v-for="(value, key) in map">
-        <div v-if="selected.includes(key) || selected.length === 0" :key="key" class="mt-5 mb-10" :id="key">
+        <div
+          v-if="selected.includes(key) || selected.length === 0"
+          :key="key"
+          class="mt-5 mb-10"
+          :id="key"
+        >
           <h3>
             <nuxt-link
               :to="
@@ -49,12 +58,19 @@
                   hash: '#' + id,
                 })
               "
-              >{{ value.label }} [{{ key }}]（{{ value.list.length }}）</nuxt-link
+              >{{ value.label }} [{{ key }}]（{{
+                value.list.length
+              }}）</nuxt-link
             >
           </h3>
-          
+
           <v-row dense class="mt-2">
-            <v-col cols="3" md="1" v-for="(item, key2) in value.list.slice(0,36)" :key="key2">
+            <v-col
+              cols="3"
+              md="1"
+              v-for="(item, key2) in value.list.slice(0, 36)"
+              :key="key2"
+            >
               <!--
               <a
                 :href="
@@ -72,13 +88,17 @@
                 ></v-img>
               </a>
               -->
-              <nuxt-link :to="localePath({
-                name: 'item-slug-id',
-                params: {
-                  slug: id,
-                  id: item.slug
-                }
-              })">
+              <nuxt-link
+                :to="
+                  localePath({
+                    name: 'item-slug-id',
+                    params: {
+                      slug: id,
+                      id: item.slug,
+                    },
+                  })
+                "
+              >
                 <v-img
                   max-height="150"
                   contain
@@ -101,7 +121,7 @@ import axios from 'axios'
 @Component({})
 export default class about extends Vue {
   id: any = this.$route.params.id
-  title: string = '「' + this.id + '」くずし字データセット'
+  title: string = '「' + this.id + '」 ' + this.$t('くずし字データセット')
 
   head() {
     const title = this.title
@@ -126,7 +146,7 @@ export default class about extends Vue {
     {
       disabled: false,
       to: this.localePath({ name: 'unicode' }),
-      text: '文字種一覧',
+      text: this.$t('文字種一覧'),
       exact: true,
     },
     {
@@ -140,9 +160,9 @@ export default class about extends Vue {
 
   map: any = {}
 
-  filter: string = ""
+  filter: string = ''
 
-  queryId: any = ""
+  queryId: any = ''
 
   res: any[] = []
 
@@ -153,40 +173,36 @@ export default class about extends Vue {
     const data = res.data
     this.res = data
 
-   
-
     const queryId = this.$route.query.id
     this.queryId = queryId
 
     this.main()
   }
 
-  init(){
+  init() {
     this.queryId = ''
     this.main()
   }
 
-  main(){
+  main() {
     const map: any = {}
 
     const data = this.res
 
     const queryId = this.queryId
 
-    if(queryId){
+    if (queryId) {
       this.selected = [queryId]
     }
 
     const books: any[] = []
 
-    console.log("a")
+    console.log('a')
 
     for (const item of data) {
       const source = item.source
       const doc = source.value.split('@')[0]
       const cn = source.call_number.split('@')[0]
-
-      
 
       /*
       if (queryId && cn != queryId) {
@@ -211,21 +227,21 @@ export default class about extends Vue {
         id: item.identifier,
         image: item.thumbnail_url,
         manifest: item.manifest_url,
-        slug: item.id
+        slug: item.id,
       })
     }
 
-    console.log("b")
+    console.log('b')
 
-    for(const cn in map){
+    for (const cn in map) {
       const obj = map[cn]
       books.push({
         value: cn,
-        text: obj.label + " [" + cn + "]（"+obj.list.length+"）"
+        text: obj.label + ' [' + cn + ']（' + obj.list.length + '）',
       })
     }
 
-    console.log("c")
+    console.log('c')
 
     this.map = map
 

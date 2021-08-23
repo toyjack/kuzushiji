@@ -14,68 +14,33 @@
 
       <Static :size="items.length" :total="total" />
 
-      <h4 class="mt-10">文字種リスト</h4>
+      <!-- <h4 class="mt-10">文字種リスト</h4> -->
 
-      <v-text-field
-        class="my-10"
-        v-model="search"
-        append-icon="mdi-magnify"
-        label="Search"
-        single-line
-        hide-details
-        filled
-        rounded
-        background-color="grey lighten-2"
-        clear-icon="mdi-close-circle"
-        :clearable="true"
-      ></v-text-field>
-
-      <v-row>
-        <v-col>
-          
-        </v-col>
-        <v-col class="text-right">
-          <v-btn
-            v-for="(option, key) in layouts"
-            :key="key"
-            icon
-            @click="layout_ = option.value"
-            ><v-icon :color="layout_ === option.value ? 'primary' : ''">{{
-              option.icon
-            }}</v-icon></v-btn
-          >
-        </v-col>
-      </v-row>
-
-      <template v-if="layout_ === 'grid'">
-        <List :items="items2" />
-      </template>
-      <template v-else>
-        <Table :items="items2" />
-      </template>
+      <SearchResult :items="items"></SearchResult>
 
       <!-- <h3>くずし字データセットの書名一覧</h3> -->
+
+      <License></License>
     </v-container>
   </div>
 </template>
 <script lang="ts">
 import { Vue, Component } from 'nuxt-property-decorator'
 import axios from 'axios'
-import List from '~/components/kuzushiji/List.vue'
-import Table from '~/components/kuzushiji/Table.vue'
+
 import Static from '~/components/kuzushiji/Static.vue'
+import SearchResult from '~/components/kuzushiji/SearchResult.vue'
+import License from '~/components/kuzushiji/License.vue'
 
 @Component({
   components: {
-    List,
-    Table,
     Static,
+    SearchResult,
+    License,
   },
 })
 export default class about extends Vue {
-  title: string = 'くずし字データセット 文字種（くずし字）一覧'
-
-  search: string = ""
+  title: string = this.$t('くずし字データセット') + ' ' + this.$t('文字種一覧')
 
   head() {
     const title = this.title
@@ -83,19 +48,6 @@ export default class about extends Vue {
       title,
     }
   }
-
-  layouts: any[] = [
-    {
-      icon: 'mdi-view-grid',
-      value: 'grid',
-    },
-    {
-      icon: 'mdi-table',
-      value: 'table',
-    },
-  ]
-
-  layout_: string = 'grid'
 
   items: any = []
 
@@ -107,7 +59,7 @@ export default class about extends Vue {
       exact: true,
     },
     {
-      text: '文字種一覧',
+      text: this.$t('文字種一覧'),
     },
   ]
 
@@ -117,50 +69,25 @@ export default class about extends Vue {
 
   async mounted() {
     const res = await axios.get(this.baseUrl + '/data/001_list.json')
-    const data = res.data
+    const items = res.data
 
-    console.log(1)
-
-    data.sort(function (a: any, b: any) {
+    items.sort(function (a: any, b: any) {
       if (a.size < b.size) return 1
       if (a.size > b.size) return -1
       return 0
     })
 
-    console.log(2)
-
     let total = 0
-    for(let i = 0; i < data.length; i++){
-      const item = data[i]
+    for (let i = 0; i < items.length; i++) {
+      const item = items[i]
       //for (const item of data) {
       total += item.size
       item.index = i + 1
     }
 
-    console.log(3)
-
     this.total = total
 
-    this.items = data
-  }
-
-  get items2(){
-    const search = this.search
-    const items = this.items
-    if(!search){
-      return items
-    }
-
-    const items2 = []
-    for(const item of items){
-      if(search === item.label){
-        items2.push(item)
-        break
-      }
-      
-    }
-
-    return items2
+    this.items = items
   }
 }
 </script>

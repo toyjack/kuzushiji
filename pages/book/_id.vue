@@ -13,98 +13,49 @@
       <h2 class="mb-5">{{ title }}</h2>
 
       <v-sheet class="my-10 pa-5" v-if="item.extent" color="grey lighten-2">
-        <v-icon class="mr-2">mdi-download</v-icon>くずし字データセットダウンロード： 
-        <a :href="`https://drive.google.com/file/d/${item.gid}/view?usp=sharing`">個別（ZIP {{ (item.extent / 1000000).toFixed(2) }} MB）</a>／
-        <a :href="`https://drive.google.com/file/d/${all.gid}/view?usp=sharing`">全体（ZIP {{ (all.extent / 1000000).toFixed(2) }} MB）</a>
+        <v-icon class="mr-2">mdi-download</v-icon
+        >くずし字データセットダウンロード：
+        <a
+          :href="`https://drive.google.com/file/d/${item.gid}/view?usp=sharing`"
+          >個別（ZIP {{ (item.extent / 1000000).toFixed(2) }} MB）</a
+        >／
+        <a :href="`https://drive.google.com/file/d/${all.gid}/view?usp=sharing`"
+          >全体（ZIP {{ (all.extent / 1000000).toFixed(2) }} MB）</a
+        >
       </v-sheet>
 
       <Static v-if="item.size" :size="item.size" :total="item.total" />
 
+      <!-- <h4 class="mt-10">文字種リスト</h4> -->
 
-      <h4 class="mt-10">文字種リスト</h4>
+      <SearchResult :items="items" :query="{ id }"></SearchResult>
 
-      <v-text-field
-        class="my-10"
-        v-model="search"
-        append-icon="mdi-magnify"
-        label="Search"
-        single-line
-        hide-details
-        filled
-        rounded
-        background-color="grey lighten-2"
-        clear-icon="mdi-close-circle"
-        :clearable="true"
-      ></v-text-field>
-
-      <v-row>
-        <v-col>
-          
-        </v-col>
-        <v-col class="text-right">
-          <v-btn
-            v-for="(option, key) in layouts"
-            :key="key"
-            icon
-            @click="layout_ = option.value"
-            ><v-icon :color="layout_ === option.value ? 'primary' : ''">{{
-              option.icon
-            }}</v-icon></v-btn
-          >
-        </v-col>
-      </v-row>
-
-      <template v-if="layout_ === 'grid'">
-        <List :items="items2" :query="{id}"/>
-      </template>
-      <template v-else>
-        <Table :items="items2" :query="{id}" />
-      </template>
-
-      <v-sheet class="my-10 pa-5" color="grey lighten-2">
-        [TODO] ライセンス
-      </v-sheet>
+      <License></License>
     </v-container>
   </div>
 </template>
 <script lang="ts">
 import { Vue, Component } from 'nuxt-property-decorator'
 import axios from 'axios'
-import List from '~/components/kuzushiji/List.vue'
-import Table from '~/components/kuzushiji/Table.vue'
+import SearchResult from '~/components/kuzushiji/SearchResult.vue'
 import Static from '~/components/kuzushiji/Static.vue'
+import License from '~/components/kuzushiji/License.vue'
 
 @Component({
   components: {
-    List,
-    Table,
+    SearchResult,
     Static,
+    License,
   },
 })
 export default class about extends Vue {
   id: any = this.$route.params.id
   //title: string = '「' + this.id + '」くずし字データセット'
 
-  search: string = ''
-
   all: any = {
-    gid: "1CB0tmu3BYwxtEdz-wCDnWsZ6zhsOynhF",
-    extent: 1196759720
+    gid: '1CB0tmu3BYwxtEdz-wCDnWsZ6zhsOynhF',
+    extent: 1196759720,
   }
-
-  layouts: any[] = [
-    {
-      icon: 'mdi-view-grid',
-      value: 'grid',
-    },
-    {
-      icon: 'mdi-table',
-      value: 'table',
-    },
-  ]
-
-  layout_: string = 'grid'
-
   head() {
     const title = this.title
     return {
@@ -142,7 +93,7 @@ export default class about extends Vue {
       {
         disabled: false,
         to: this.localePath({ name: 'book' }),
-        text: 'データセット一覧',
+        text: this.$t('データセット'),
         exact: true,
       },
       {
@@ -161,7 +112,7 @@ export default class about extends Vue {
     })
 
     let total = 0
-    for(let i = 0; i < items.length; i++){
+    for (let i = 0; i < items.length; i++) {
       const item = items[i]
       //for (const item of data) {
       total += item.size
@@ -171,25 +122,6 @@ export default class about extends Vue {
     this.items = items
 
     //this.search = decodeURIComponent(this.$route.hash.replace('#', ''))
-  }
-
-  get items2(){
-    const search = this.search
-    const items = this.items
-    if(!search){
-      return items
-    }
-
-    const items2 = []
-    for(const item of items){
-      if(search === item.label){
-        items2.push(item)
-        break
-      }
-      
-    }
-
-    return items2
   }
 }
 </script>

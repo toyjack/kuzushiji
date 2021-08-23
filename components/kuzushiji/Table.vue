@@ -18,11 +18,7 @@
 
     <!-- 
       :search="search" -->
-    <v-data-table
-      :headers="headers"
-      :items="items"
-      :items-per-page="50"
-    >
+    <v-data-table :headers="headers" :items="items" :items-per-page="50">
       <template v-slot:item.label="{ item }">
         <nuxt-link
           :to="
@@ -31,7 +27,7 @@
               params: {
                 id: item.label,
               },
-              query
+              query,
             })
           "
         >
@@ -51,15 +47,15 @@ export default class ShareButtons extends Vue {
 
   headers: any[] = [
     {
-      text: '文字種',
+      text: this.$t('文字種'),
       value: 'label',
     },
     {
-      text: '出現回数',
+      text: this.$t('出現回数'),
       value: 'size',
     },
     {
-      text: 'コード',
+      text: this.$t('コード'),
       value: 'code',
     },
   ]
@@ -67,7 +63,7 @@ export default class ShareButtons extends Vue {
   @Prop({ required: true })
   items!: any[]
 
-  @Prop({  })
+  @Prop({})
   query!: any
 
   //search: string = ''
