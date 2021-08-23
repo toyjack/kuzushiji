@@ -1,5 +1,4 @@
 {
-    "extent": 261268,
     "gid": "1iu3F31civV2NYAOEq65wf0_BHu5wzUiL",
     "id": "0671-20-41",
     "label": "小浜酒井家文書",
@@ -7,122 +6,146 @@
         {
             "code": "U+5343",
             "label": "千",
-            "size": 1
+            "size": 1,
+            "sort": "04U+5343"
         },
         {
             "code": "U+7D30",
             "label": "細",
-            "size": 1
+            "size": 1,
+            "sort": "04U+7D30"
         },
         {
             "code": "U+53F0",
             "label": "台",
-            "size": 1
+            "size": 1,
+            "sort": "04U+53F0"
         },
         {
             "code": "U+6708",
             "label": "月",
-            "size": 1
+            "size": 1,
+            "sort": "04U+6708"
         },
         {
             "code": "U+6709",
             "label": "有",
-            "size": 2
+            "size": 2,
+            "sort": "04U+6709"
         },
         {
             "code": "U+7BA1",
             "label": "管",
-            "size": 1
+            "size": 1,
+            "sort": "04U+7BA1"
         },
         {
             "code": "U+9662",
             "label": "院",
-            "size": 1
+            "size": 1,
+            "sort": "04U+9662"
         },
         {
             "code": "U+9670",
             "label": "陰",
-            "size": 1
+            "size": 1,
+            "sort": "04U+9670"
         },
         {
             "code": "U+523B",
             "label": "刻",
-            "size": 1
+            "size": 1,
+            "sort": "04U+523B"
         },
         {
             "code": "U+82B1",
             "label": "花",
-            "size": 1
+            "size": 1,
+            "sort": "04U+82B1"
         },
         {
             "code": "U+91D1",
             "label": "金",
-            "size": 1
+            "size": 1,
+            "sort": "04U+91D1"
         },
         {
             "code": "U+6B4C",
             "label": "歌",
-            "size": 1
+            "size": 1,
+            "sort": "04U+6B4C"
         },
         {
             "code": "U+5024",
             "label": "値",
-            "size": 1
+            "size": 1,
+            "sort": "04U+5024"
         },
         {
             "code": "U+3005",
             "label": "々",
-            "size": 1
+            "size": 1,
+            "sort": "04U+3005"
         },
         {
             "code": "U+9999",
             "label": "香",
-            "size": 1
+            "size": 1,
+            "sort": "04U+9999"
         },
         {
             "code": "U+6625",
             "label": "春",
-            "size": 1
+            "size": 1,
+            "sort": "04U+6625"
         },
         {
             "code": "U+4E00",
             "label": "一",
-            "size": 1
+            "size": 1,
+            "sort": "04U+4E00"
         },
         {
             "code": "U+98A8",
             "label": "風",
-            "size": 1
+            "size": 1,
+            "sort": "04U+98A8"
         },
         {
             "code": "U+697C",
             "label": "楼",
-            "size": 1
+            "size": 1,
+            "sort": "04U+697C"
         },
         {
             "code": "U+591C",
             "label": "夜",
-            "size": 1
+            "size": 1,
+            "sort": "04U+591C"
         },
         {
             "code": "U+6C89",
             "label": "沉",
-            "size": 2
+            "size": 2,
+            "sort": "04U+6C89"
         },
         {
             "code": "U+843D",
             "label": "落",
-            "size": 1
+            "size": 1,
+            "sort": "04U+843D"
         },
         {
             "code": "U+5BB5",
             "label": "宵",
-            "size": 1
+            "size": 1,
+            "sort": "04U+5BB5"
         },
         {
             "code": "U+6E05",
             "label": "清",
-            "size": 1
+            "size": 1,
+            "sort": "04U+6E05"
         }
     ],
     "size": 24,

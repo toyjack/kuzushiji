@@ -1,5 +1,4 @@
 {
-    "extent": 585412,
     "gid": "1GYIeFcz31NUieB4BX2gfBDCZItz3PE9R",
     "id": "0671-11-22",
     "label": "延時文書",
@@ -7,202 +6,242 @@
         {
             "code": "U+304F",
             "label": "く",
-            "size": 6
+            "size": 6,
+            "sort": "04U+304F"
         },
         {
             "code": "U+9063",
             "label": "遣",
-            "size": 1
+            "size": 1,
+            "sort": "04U+9063"
         },
         {
             "code": "U+3084",
             "label": "や",
-            "size": 3
+            "size": 3,
+            "sort": "04U+3084"
         },
         {
             "code": "U+30DF",
             "label": "ミ",
-            "size": 3
+            "size": 3,
+            "sort": "04U+30DF"
         },
         {
             "code": "U+3088",
             "label": "よ",
-            "size": 1
+            "size": 1,
+            "sort": "04U+3088"
         },
         {
             "code": "U+5165",
             "label": "入",
-            "size": 1
+            "size": 1,
+            "sort": "04U+5165"
         },
         {
             "code": "U+3057",
             "label": "し",
-            "size": 4
+            "size": 4,
+            "sort": "04U+3057"
         },
         {
             "code": "U+3078",
             "label": "へ",
-            "size": 3
+            "size": 3,
+            "sort": "04U+3078"
         },
         {
             "code": "U+3042",
             "label": "あ",
-            "size": 3
+            "size": 3,
+            "sort": "04U+3042"
         },
         {
             "code": "U+3061",
             "label": "ち",
-            "size": 3
+            "size": 3,
+            "sort": "04U+3061"
         },
         {
             "code": "U+306A",
             "label": "な",
-            "size": 2
+            "size": 2,
+            "sort": "04U+306A"
         },
         {
             "code": "U+7533",
             "label": "申",
-            "size": 1
+            "size": 1,
+            "sort": "04U+7533"
         },
         {
             "code": "U+3066",
             "label": "て",
-            "size": 3
+            "size": 3,
+            "sort": "04U+3066"
         },
         {
             "code": "U+3082",
             "label": "も",
-            "size": 3
+            "size": 3,
+            "sort": "04U+3082"
         },
         {
             "code": "U+305D",
             "label": "そ",
-            "size": 3
+            "size": 3,
+            "sort": "04U+305D"
         },
         {
             "code": "U+3051",
             "label": "け",
-            "size": 3
+            "size": 3,
+            "sort": "04U+3051"
         },
         {
             "code": "U+308F",
             "label": "わ",
-            "size": 5
+            "size": 5,
+            "sort": "04U+308F"
         },
         {
             "code": "U+306B",
             "label": "に",
-            "size": 4
+            "size": 4,
+            "sort": "04U+306B"
         },
         {
             "code": "U+5FA1",
             "label": "御",
-            "size": 1
+            "size": 1,
+            "sort": "04U+5FA1"
         },
         {
             "code": "U+4E8B",
             "label": "事",
-            "size": 1
+            "size": 1,
+            "sort": "04U+4E8B"
         },
         {
             "code": "U+307E",
             "label": "ま",
-            "size": 2
+            "size": 2,
+            "sort": "04U+307E"
         },
         {
             "code": "U+3044",
             "label": "い",
-            "size": 2
+            "size": 2,
+            "sort": "04U+3044"
         },
         {
             "code": "U+308C",
             "label": "れ",
-            "size": 1
+            "size": 1,
+            "sort": "04U+308C"
         },
         {
             "code": "U+3068",
             "label": "と",
-            "size": 6
+            "size": 6,
+            "sort": "04U+3068"
         },
         {
             "code": "U+3064",
             "label": "つ",
-            "size": 1
+            "size": 1,
+            "sort": "04U+3064"
         },
         {
             "code": "U+30CF",
             "label": "ハ",
-            "size": 4
+            "size": 4,
+            "sort": "04U+30CF"
         },
         {
             "code": "U+3081",
             "label": "め",
-            "size": 2
+            "size": 2,
+            "sort": "04U+3081"
         },
         {
             "code": "U+305F",
             "label": "た",
-            "size": 8
+            "size": 8,
+            "sort": "04U+305F"
         },
         {
             "code": "U+3046",
             "label": "う",
-            "size": 15
+            "size": 15,
+            "sort": "04U+3046"
         },
         {
             "code": "U+3053",
             "label": "こ",
-            "size": 2
+            "size": 2,
+            "sort": "04U+3053"
         },
         {
             "code": "U+6642",
             "label": "時",
-            "size": 1
+            "size": 1,
+            "sort": "04U+6642"
         },
         {
             "code": "U+3086",
             "label": "ゆ",
-            "size": 1
+            "size": 1,
+            "sort": "04U+3086"
         },
         {
             "code": "U+3093",
             "label": "ん",
-            "size": 3
+            "size": 3,
+            "sort": "04U+3093"
         },
         {
             "code": "U+304D",
             "label": "き",
-            "size": 5
+            "size": 5,
+            "sort": "04U+304D"
         },
         {
             "code": "U+306E",
             "label": "の",
-            "size": 7
+            "size": 7,
+            "sort": "04U+306E"
         },
         {
             "code": "U+5019",
             "label": "候",
-            "size": 9
+            "size": 9,
+            "sort": "04U+5019"
         },
         {
             "code": "U+308B",
             "label": "る",
-            "size": 1
+            "size": 1,
+            "sort": "04U+308B"
         },
         {
             "code": "U+3092",
             "label": "を",
-            "size": 4
+            "size": 4,
+            "sort": "04U+3092"
         },
         {
             "code": "U+4ECD",
             "label": "仍",
-            "size": 1
+            "size": 1,
+            "sort": "04U+4ECD"
         },
         {
             "code": "U+3059",
             "label": "す",
-            "size": 2
+            "size": 2,
+            "sort": "04U+3059"
         }
     ],
     "size": 40,

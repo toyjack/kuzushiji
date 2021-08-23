@@ -1,5 +1,4 @@
 {
-    "extent": 32787,
     "gid": "1AjbR-pelazEJgPD6wEEKt_sA8xnupy10",
     "id": "貴01-40-",
     "label": "佐竹義久書状",
@@ -7,12 +6,14 @@
         {
             "code": "U+7FA9",
             "label": "義",
-            "size": 1
+            "size": 1,
+            "sort": "04U+7FA9"
         },
         {
             "code": "U+5C31",
             "label": "就",
-            "size": 1
+            "size": 1,
+            "sort": "04U+5C31"
         }
     ],
     "size": 2,

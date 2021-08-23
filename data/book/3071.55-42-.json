@@ -6,7 +6,8 @@
         {
             "code": "U+4E00",
             "label": "一",
-            "size": 1
+            "size": 1,
+            "sort": "04U+4E00"
         }
     ],
     "size": 1,
