@@ -134,7 +134,6 @@ export default class ShareButtons extends Vue {
     }
 
     if (key2 != '全て') {
-      this.search='' //クリア検索欄
       let filterdByRadical = []
       for (const item of items) {
         if (key2 === item.radical) {
@@ -142,6 +141,8 @@ export default class ShareButtons extends Vue {
         }
       }
       return filterdByRadical
+    }else{
+      return items
     }
 
     if (!search) {
